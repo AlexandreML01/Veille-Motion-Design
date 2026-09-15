@@ -5,7 +5,7 @@
   --ink: #f1f1f1;
   --muted: #888888;
   --line: rgba(255, 255, 255, 0.08);
-  --accent: #ffffff; /* Behance mise sur le blanc pur ou un accent très sobre */
+  --accent: #ffffff;
   --accent-soft: rgba(255, 255, 255, 0.1);
   --radius: 8px;
 
@@ -41,7 +41,7 @@ a { color: inherit; }
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 24px 40px;
+  padding: 20px 40px;
   border-bottom: 1px solid var(--line);
   background: rgba(18, 18, 18, 0.85);
   backdrop-filter: blur(10px);
@@ -57,7 +57,13 @@ a { color: inherit; }
   letter-spacing: -0.01em;
   color: #fff;
 }
-.wordmark .dot { color: #3b82f6; /* Petite touche de bleu signature modérée, ou blanc */ }
+.wordmark .dot { color: #3b82f6; }
+
+.topbar-right {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
 
 .date-control select {
   font-family: var(--font-body);
@@ -76,8 +82,22 @@ a { color: inherit; }
 
 /* ---------- Hero ---------- */
 .hero {
-  padding: 64px 40px 32px;
+  padding: 56px 40px 32px;
   max-width: 1000px;
+}
+
+.hero-tag {
+  display: inline-block;
+  font-size: 0.72rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--muted);
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid var(--line);
+  padding: 4px 10px;
+  border-radius: 999px;
+  margin-bottom: 12px;
 }
 
 .hero h1 {
