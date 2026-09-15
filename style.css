@@ -36,7 +36,7 @@ body {
 
 a { color: inherit; }
 
-/* ---------- Topbar ---------- */
+/* ---------- Topbar (Corrigée pour éliminer le grand vide) ---------- */
 .topbar {
   display: flex;
   align-items: center;
@@ -48,6 +48,9 @@ a { color: inherit; }
   position: sticky;
   top: 0;
   z-index: 100;
+  max-width: 1400px; /* On limite la largeur max pour éviter qu'elle s'étire à l'infini */
+  margin: 0 auto;    /* On la centre proprement sur les grands écrans */
+  width: 100%;
 }
 
 .wordmark {
