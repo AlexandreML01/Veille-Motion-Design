@@ -23,11 +23,39 @@
     ],
     "channels": [
       {
-        "name": "EXEMPLE - remplace par un vrai channel ID",
-        "channel_id": "UCxxxxxxxxxxxxxxxxxxxxxx"
+        "name": "Mapping Motion",
+        "channel_id": "UCG_IvRbuQZGFLQZ0CcHAMAw"
+      }
+       {
+        "name": "JUSTIN BUISSON",
+        "channel_id": "UC3Z7EVPYG0VEiqdbmJV0cYw"
+      }
+       {
+        "name": "ATOM",
+        "channel_id": "UCClbBLpq9Cnjvj8N3Mad02w"
+      }
+       {
+        "name": "Benjamin Cerbai",
+        "channel_id": "UCVL2B0RUBPhOBjtKejLeIcg"
+      }
+      {
+        "name": "CGMeetup",
+        "channel_id": "UCrSvhrtUgpZT3EU0x1Zoy-w"
+      }
+      {
+        "name": "School of Motion",
+        "channel_id": "UCAhdxqdrDN3gWJkaUFl9G-Q"
+      }
+      {
+        "name": "Greyscalegorilla",
+        "channel_id": "UC64Z_7asrekIkc5h2v5tnHw"
+      }
+      {
+        "name": "The Blenderrender",
+        "channel_id": "UC3X5qM9wpNyh7ZTO5nZWITw"
       }
     ],
-    "max_results_per_query": 6
+    "max_results_per_query": 8
   },
   "rss": [
     { "name": "Blender Nation", "url": "https://www.blendernation.com/feed/" },
