@@ -25,12 +25,21 @@ const SOURCE_LABELS = { reddit: "Reddit", youtube: "YouTube", rss: "Blog" };
 function initModal() {
   if (!els.modal) return;
   
-  const closeModal = () => els.modal.setAttribute("hidden", "true");
+  // S'assurer qu'elle est bien fermée au démarrage
+  els.modal.style.display = "none";
 
-  els.modalClose.addEventListener("click", closeModal);
+  const closeModal = () => {
+    els.modal.style.display = "none";
+  };
+
+  if (els.modalClose) {
+    els.modalClose.addEventListener("click", closeModal);
+  }
+
   els.modal.addEventListener("click", (e) => {
     if (e.target === els.modal) closeModal();
   });
+
   document.addEventListener("keydown", (e) => {
     if (e.key === "Escape") closeModal();
   });
@@ -66,7 +75,8 @@ function openModal(item) {
     </div>
   `;
 
-  els.modal.removeAttribute("hidden");
+  // Afficher la modale en mode flex
+  els.modal.style.display = "flex";
 }
 
 function escapeHtml(str) {
@@ -205,7 +215,6 @@ function renderGrid() {
 }
 
 function renderCard(item) {
-  // On utilise un article cliquable au lieu d'un lien direct
   const article = document.createElement("article");
   article.className = "card";
   article.style.cursor = "pointer";
@@ -262,7 +271,6 @@ function renderCard(item) {
   article.appendChild(mediaEl);
   article.appendChild(body);
 
-  // Ouverture de la modale au clic
   article.addEventListener("click", () => {
     openModal(item);
   });
