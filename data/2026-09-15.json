@@ -1,5 +1,24 @@
 [
   {
+    "id": "56c230ee822c",
+    "title": "SESSIONS: Interior – Six Blender Interior Scenes, Two Hours Each",
+    "url": "https://www.blendernation.com/2026/09/15/sessions-interior-six-blender-interior-scenes-two-hours-each/",
+    "external_url": null,
+    "source": "rss",
+    "source_name": "Blender Nation",
+    "published": "2026-09-15T07:55:43+00:00",
+    "thumbnail": null,
+    "raw_summary": "Interior is a project-based course about making beautiful interior renders in Blender, one focused scene at a time. Across six sessions, instructor Sascha Feider builds six complete vignettes from a default scene to a polished final image or animation: a sunlit staircase, a coffee corner, a flowing curtain, a marble colonnade, a cabin with a [&#8230;]\n<p><a href=\"https://www.blendernation.com/2026/09/15/sessions-interior-six-blender-interior-scenes-two-hours-each/\" rel=\"nofollow\">Source</a></p>",
+    "meta": {},
+    "score": 5,
+    "tags": [
+      "Blender",
+      "formation complète",
+      "rendering intérieur"
+    ],
+    "summary_fr": "Cours project-based Blender sur 6 scènes intérieures. Formation structurée couvrant rendering et animation."
+  },
+  {
     "id": "e7994e6175a0",
     "title": "NEW COURSE | AI Foundations for Motion Design",
     "url": "https://www.youtube.com/watch?v=jFABc0wAIT8",
@@ -14,9 +33,9 @@
     "tags": [
       "IA",
       "formation",
-      "tendance 2026"
+      "motion design"
     ],
-    "summary_fr": "Cours essentiel sur l'IA pour motion designers, à suivre absolument pour maîtriser les nouveaux outils."
+    "summary_fr": "Cours officiel IA Foundations by School of Motion, ressource majeure pour intégrer l'IA au workflow motion design."
   },
   {
     "id": "d34e4e8d7357",
@@ -33,9 +52,9 @@
     "tags": [
       "Blender",
       "rigging",
-      "real-time"
+      "technique avancée"
     ],
-    "summary_fr": "Technique de rigging innovante sans keyframes avec contrôles temps réel. Intéressant pour animation avancée."
+    "summary_fr": "Contrôle rigging temps réel sans keyframes. Technique novatrice pour animation puppet-pin avancée."
   },
   {
     "id": "2ab748ccfc79",
@@ -50,107 +69,50 @@
     "meta": {},
     "score": 4,
     "tags": [
-      "breakdown",
+      "VFX",
+      "Cinema 4D",
       "Houdini",
-      "C4D",
-      "VFX"
+      "luxury design"
     ],
-    "summary_fr": "Breakdown professionnel d'un projet luxe combinant Houdini/C4D. Cas réel inspirant pour design haut niveau."
+    "summary_fr": "Breakdown professionnel Valentino avec Houdini/C4D. Inspiration haute qualité, technique mixed-tools."
   },
   {
-    "id": "3177001ac65b",
-    "title": "How to Model a Rope FAST in Blender",
-    "url": "https://www.youtube.com/watch?v=73FqFskSp2E",
+    "id": "ee937f198880",
+    "title": "Blender &amp; Triverse:I Built an RPG Game Environment from an Image#rpg #blender",
+    "url": "https://www.youtube.com/watch?v=on0XHHHLfgw",
     "external_url": null,
     "source": "youtube",
-    "source_name": "BlenderGuruji",
-    "published": "2026-09-15T12:20:05Z",
-    "thumbnail": "https://i.ytimg.com/vi/73FqFskSp2E/hqdefault.jpg",
-    "raw_summary": "In this quick Blender tutorial, I'll show you a simple technique to create a rope model using the Screw Modifier instead of manually ...",
+    "source_name": "Triverse AI",
+    "published": "2026-09-15T12:30:21Z",
+    "thumbnail": "https://i.ytimg.com/vi/on0XHHHLfgw/hqdefault.jpg",
+    "raw_summary": "From a single image to an RPG game environment. I used Triverse Image to 3D to turn the visual concept into 3D assets, then ...",
     "meta": {},
     "score": 4,
     "tags": [
       "Blender",
-      "modélisation",
+      "IA générative",
+      "workflow 3D"
+    ],
+    "summary_fr": "Triverse AI convertit images en environnements 3D. Technique prometteuse pour accélérer la création d'assets."
+  },
+  {
+    "id": "b4063079d10b",
+    "title": "🎬 **AFTER EFFECTS TUTORIAL | CC Rainfall #bluemoonanimation",
+    "url": "https://www.youtube.com/watch?v=LytpX_p9HNY",
+    "external_url": null,
+    "source": "youtube",
+    "source_name": "Bluemoon Animation",
+    "published": "2026-09-15T12:30:17Z",
+    "thumbnail": "https://i.ytimg.com/vi/LytpX_p9HNY/hqdefault.jpg",
+    "raw_summary": "Want to create a realistic rain effect in After Effects? ☔ Try **CC Rainfall** and give your shots a cinematic rainy look! ✨ Effects ...",
+    "meta": {},
+    "score": 4,
+    "tags": [
+      "After Effects",
+      "effet pluie",
       "tutoriel"
     ],
-    "summary_fr": "Technique rapide pour créer une corde avec le Screw Modifier, astuce de modélisation efficace."
-  },
-  {
-    "id": "34cf7ae36875",
-    "title": "3D Weapon Prop Breakdown: Dagger from &quot;Puss in Boots: The Last Wish&quot; (Realistic Style)",
-    "url": "https://www.youtube.com/watch?v=QNDWo8IXUec",
-    "external_url": null,
-    "source": "youtube",
-    "source_name": "Bryan",
-    "published": "2026-09-15T12:00:04Z",
-    "thumbnail": "https://i.ytimg.com/vi/QNDWo8IXUec/hqdefault.jpg",
-    "raw_summary": "Welcome to my 3D prop showcase. This model is a realistic interpretation of the dagger from the movie \"Puss in Boots: The Last ...",
-    "meta": {},
-    "score": 4,
-    "tags": [
-      "3D modeling",
-      "prop design",
-      "référence cinéma"
-    ],
-    "summary_fr": "Breakdown détaillé d'une arme 3D réaliste inspirée d'un film, excellente étude de cas."
-  },
-  {
-    "id": "c6baa958243e",
-    "title": "3D Weapon Prop Breakdown: Dagger from &quot;Puss in Boots: The Last Wish&quot; (Realistic Style)",
-    "url": "https://www.youtube.com/watch?v=mQdY1exqb_E",
-    "external_url": null,
-    "source": "youtube",
-    "source_name": "Bryan",
-    "published": "2026-09-15T11:00:24Z",
-    "thumbnail": "https://i.ytimg.com/vi/mQdY1exqb_E/hqdefault.jpg",
-    "raw_summary": "Welcome to my 3D prop showcase. This model is a realistic interpretation of the dagger from the movie \"Puss in Boots: The Last ...",
-    "meta": {},
-    "score": 4,
-    "tags": [
-      "3D modeling",
-      "prop design",
-      "référence cinéma"
-    ],
-    "summary_fr": "Breakdown détaillé d'une arme 3D réaliste inspirée d'un film, excellente étude de cas."
-  },
-  {
-    "id": "b0c2855414d2",
-    "title": "Extracorporeal Shock Wave Lithotripsy (ESWL) Step-by-Step Explained #medicalanimation #science",
-    "url": "https://www.youtube.com/watch?v=bGdrJ6ESMNs",
-    "external_url": null,
-    "source": "youtube",
-    "source_name": "Thehealthdiarysl",
-    "published": "2026-09-15T10:00:29Z",
-    "thumbnail": "https://i.ytimg.com/vi/bGdrJ6ESMNs/hqdefault.jpg",
-    "raw_summary": "Discover how modern medical science treats kidney stones without a single incision! In this high-end 3D medical animation, we ...",
-    "meta": {},
-    "score": 4,
-    "tags": [
-      "animation médicale",
-      "3D VFX",
-      "storytelling"
-    ],
-    "summary_fr": "Animation 3D médicale professionnelle, excellente démonstration de VFX et narration visuelle."
-  },
-  {
-    "id": "56c230ee822c",
-    "title": "SESSIONS: Interior – Six Blender Interior Scenes, Two Hours Each",
-    "url": "https://www.blendernation.com/2026/09/15/sessions-interior-six-blender-interior-scenes-two-hours-each/",
-    "external_url": null,
-    "source": "rss",
-    "source_name": "Blender Nation",
-    "published": "2026-09-15T07:55:43+00:00",
-    "thumbnail": null,
-    "raw_summary": "Interior is a project-based course about making beautiful interior renders in Blender, one focused scene at a time. Across six sessions, instructor Sascha Feider builds six complete vignettes from a default scene to a polished final image or animation: a sunlit staircase, a coffee corner, a flowing curtain, a marble colonnade, a cabin with a [&#8230;]\n<p><a href=\"https://www.blendernation.com/2026/09/15/sessions-interior-six-blender-interior-scenes-two-hours-each/\" rel=\"nofollow\">Source</a></p>",
-    "meta": {},
-    "score": 4,
-    "tags": [
-      "Blender",
-      "rendu",
-      "formation"
-    ],
-    "summary_fr": "Cours complet sur les rendus intérieurs Blender, ressource pédagogique très utile."
+    "summary_fr": "CC Rainfall pour créer des effets de pluie cinématographiques. Technique incontournable en post-production."
   },
   {
     "id": "9ea0fd731745",
@@ -169,7 +131,26 @@
       "product viz",
       "breakdown"
     ],
-    "summary_fr": "Breakdown d'une visualisation produit Blender pour marque reconnue, cas d'école pertinent."
+    "summary_fr": "Breakdown d'une visualisation produit Garnier en Blender. Technique de packaging 3D très pertinente."
+  },
+  {
+    "id": "556952633cc3",
+    "title": "Ulysses | SaaS Product Explainer | SaaS Motion Design by Bashir Ahmed",
+    "url": "https://www.youtube.com/watch?v=0icZvdwg0R4",
+    "external_url": null,
+    "source": "youtube",
+    "source_name": "Bashuuu | Motion Designer",
+    "published": "2026-09-15T01:04:39Z",
+    "thumbnail": "https://i.ytimg.com/vi/0icZvdwg0R4/hqdefault.jpg",
+    "raw_summary": "A product explainer video created for Ulysses, an ocean technology company building autonomous systems for scalable ...",
+    "meta": {},
+    "score": 4,
+    "tags": [
+      "motion design",
+      "explainer video",
+      "SaaS"
+    ],
+    "summary_fr": "Explainer video SaaS professionnel. Bon exemple de motion design commercial et narration visuelle."
   },
   {
     "id": "f27cc0841874",
@@ -184,11 +165,11 @@
     "meta": {},
     "score": 4,
     "tags": [
-      "tendance 2026",
-      "outils",
-      "IBC"
+      "IBC 2026",
+      "innovations",
+      "tendances"
     ],
-    "summary_fr": "Sélection des meilleurs outils et innovations IBC 2026, essentiel pour rester à jour sur l'industrie."
+    "summary_fr": "Synthèse des meilleurs outils et innovations de IBC 2026, essentiel pour rester informé sur l'écosystème professionnel."
   },
   {
     "id": "d79372047ba1",
@@ -205,9 +186,9 @@
     "tags": [
       "IA",
       "Rive",
-      "tendance"
+      "outils"
     ],
-    "summary_fr": "IA dans les apps créatives et Rive avec nouveaux outils brushes, crucial pour suivre l'évolution."
+    "summary_fr": "IA intégrée aux outils créatifs et Rive Brush Tool, tendances majeures affectant le motion design."
   },
   {
     "id": "7923b915061c",
@@ -224,28 +205,47 @@
     "tags": [
       "IA",
       "Rive",
-      "tendance"
+      "outils créatifs"
     ],
-    "summary_fr": "Doublon quasi-identique, IA dans apps créatives et Rive brushes, hautement pertinent."
+    "summary_fr": "IA dans les outils créatifs et Rive Brush Tool, contenu clé sur l'évolution des logiciels motion design."
   },
   {
-    "id": "ad67508ca9d0",
-    "title": "Free Graph Plugin (Flow Script) - After Effects Tutorial | Iamdhruveditor",
-    "url": "https://www.youtube.com/watch?v=hXrhfa46Sh8",
+    "id": "c31060ff659e",
+    "title": "Modeling A Sky Lantern | Blender for Beginners | Fire Effect",
+    "url": "https://www.youtube.com/watch?v=SknkqBAVZ5U",
     "external_url": null,
     "source": "youtube",
-    "source_name": "iamdhruveditor",
-    "published": "2026-09-15T13:01:25Z",
-    "thumbnail": "https://i.ytimg.com/vi/hXrhfa46Sh8/hqdefault.jpg",
-    "raw_summary": "Free Graph Plugin (Flow Script) - After Effects Tutorial | Iamdhruveditor Plugin on Telegram- https://t.me/dhruvsaini7011/131 ...",
+    "source_name": "TechOneDo",
+    "published": "2026-09-15T13:15:14Z",
+    "thumbnail": "https://i.ytimg.com/vi/SknkqBAVZ5U/hqdefault.jpg",
+    "raw_summary": "In this video we will model a Sky Lantern and we will be using Quick Smoke Effect to create a flame. Version: Blender 5.2 ...",
     "meta": {},
     "score": 3,
     "tags": [
-      "After Effects",
-      "plugin",
-      "workflow"
+      "Blender",
+      "VFX",
+      "simulation"
     ],
-    "summary_fr": "Plugin gratuit Flow Script pour After Effects, utile pour optimiser les flux de travail et gain de productivité."
+    "summary_fr": "Modélisation lanterne volante avec simulation feu. Utile pour maîtriser smoke et fire effects en Blender."
+  },
+  {
+    "id": "1a140a45b789",
+    "title": "Animating Flying Sky Lanterns | Blender for Beginners | Flying Effect using Particle System",
+    "url": "https://www.youtube.com/watch?v=taM4DWK8gqE",
+    "external_url": null,
+    "source": "youtube",
+    "source_name": "TechOneDo",
+    "published": "2026-09-15T13:15:09Z",
+    "thumbnail": "https://i.ytimg.com/vi/taM4DWK8gqE/hqdefault.jpg",
+    "raw_summary": "In this video we'll animate Flying Sky Lanterns. We'll be using Particle Systems to simulate launching multiple Sky Lanterns.",
+    "meta": {},
+    "score": 3,
+    "tags": [
+      "Blender",
+      "animation",
+      "Particle System"
+    ],
+    "summary_fr": "Animation lanterne avec particle system. Bon tuto pour maîtriser les systèmes de particules en Blender."
   },
   {
     "id": "88d9bb0eac87",
@@ -264,7 +264,7 @@
       "transitions",
       "tendance"
     ],
-    "summary_fr": "Tutoriel sur transition parallèle tendance. Technique visuelle applicable dans projets commerciaux."
+    "summary_fr": "Transition parallèle tendance AE. Effet populaire actuel, bon pour rester à jour sur les styles."
   },
   {
     "id": "40b3ea2c5ea9",
@@ -280,86 +280,48 @@
     "score": 3,
     "tags": [
       "After Effects",
-      "effet créatif",
-      "VFX"
+      "VFX",
+      "animation créative"
     ],
-    "summary_fr": "Effet hand-drawn en After Effects. Technique créative pour animations uniques et vidéos virales."
+    "summary_fr": "Effet main dessinée en AE. Technique créative et tendance, applicable à plusieurs styles visuels."
   },
   {
-    "id": "ee937f198880",
-    "title": "Blender &amp; Triverse:I Built an RPG Game Environment from an Image#rpg #blender",
-    "url": "https://www.youtube.com/watch?v=on0XHHHLfgw",
+    "id": "34cf7ae36875",
+    "title": "3D Weapon Prop Breakdown: Dagger from &quot;Puss in Boots: The Last Wish&quot; (Realistic Style)",
+    "url": "https://www.youtube.com/watch?v=QNDWo8IXUec",
     "external_url": null,
     "source": "youtube",
-    "source_name": "Triverse AI",
-    "published": "2026-09-15T12:30:21Z",
-    "thumbnail": "https://i.ytimg.com/vi/on0XHHHLfgw/hqdefault.jpg",
-    "raw_summary": "From a single image to an RPG game environment. I used Triverse Image to 3D to turn the visual concept into 3D assets, then ...",
+    "source_name": "Bryan",
+    "published": "2026-09-15T12:00:04Z",
+    "thumbnail": "https://i.ytimg.com/vi/QNDWo8IXUec/hqdefault.jpg",
+    "raw_summary": "Welcome to my 3D prop showcase. This model is a realistic interpretation of the dagger from the movie \"Puss in Boots: The Last ...",
     "meta": {},
     "score": 3,
     "tags": [
-      "Blender",
-      "IA",
-      "workflow"
+      "3D modeling",
+      "prop design",
+      "breakdown"
     ],
-    "summary_fr": "Utilisation IA Triverse pour conversion image-to-3D. Outil émergent intéressant pour accélérer modélisation."
+    "summary_fr": "Breakdown détaillé d'une arme 3D cinématographique. Inspiration pour la modélisation réaliste d'objets."
   },
   {
-    "id": "b4063079d10b",
-    "title": "🎬 **AFTER EFFECTS TUTORIAL | CC Rainfall #bluemoonanimation",
-    "url": "https://www.youtube.com/watch?v=LytpX_p9HNY",
+    "id": "c6baa958243e",
+    "title": "3D Weapon Prop Breakdown: Dagger from &quot;Puss in Boots: The Last Wish&quot; (Realistic Style)",
+    "url": "https://www.youtube.com/watch?v=mQdY1exqb_E",
     "external_url": null,
     "source": "youtube",
-    "source_name": "Bluemoon Animation",
-    "published": "2026-09-15T12:30:17Z",
-    "thumbnail": "https://i.ytimg.com/vi/LytpX_p9HNY/hqdefault.jpg",
-    "raw_summary": "Want to create a realistic rain effect in After Effects? ☔ Try **CC Rainfall** and give your shots a cinematic rainy look! ✨ Effects ...",
+    "source_name": "Bryan",
+    "published": "2026-09-15T11:00:24Z",
+    "thumbnail": "https://i.ytimg.com/vi/mQdY1exqb_E/hqdefault.jpg",
+    "raw_summary": "Welcome to my 3D prop showcase. This model is a realistic interpretation of the dagger from the movie \"Puss in Boots: The Last ...",
     "meta": {},
     "score": 3,
     "tags": [
-      "After Effects",
-      "effet pluie",
-      "cinématic"
+      "3D modeling",
+      "prop design",
+      "breakdown"
     ],
-    "summary_fr": "Tutoriel effect pluie réaliste CC Rainfall. Technique pratique pour shots cinématiques environnementaux."
-  },
-  {
-    "id": "74d23548a058",
-    "title": "create cool split text in #aftereffects",
-    "url": "https://www.youtube.com/watch?v=XyVBINmTnQc",
-    "external_url": null,
-    "source": "youtube",
-    "source_name": "Motion by Dk",
-    "published": "2026-09-15T12:30:06Z",
-    "thumbnail": "https://i.ytimg.com/vi/XyVBINmTnQc/hqdefault.jpg",
-    "raw_summary": "",
-    "meta": {},
-    "score": 3,
-    "tags": [
-      "After Effects",
-      "animation texte",
-      "créatif"
-    ],
-    "summary_fr": "Création texte split créatif en After Effects. Technique applicable pour animations typographiques modernes."
-  },
-  {
-    "id": "641dad48ea65",
-    "title": "Blender Noob vs PRO: Keep Offset When Selecting! 🤯 Quick &amp; Easy! || #blender #3d #tutorial #cgi",
-    "url": "https://www.youtube.com/watch?v=AzzRYeVMU2E",
-    "external_url": null,
-    "source": "youtube",
-    "source_name": "Short Render",
-    "published": "2026-09-15T12:04:21Z",
-    "thumbnail": "https://i.ytimg.com/vi/AzzRYeVMU2E/hqdefault.jpg",
-    "raw_summary": "Blender Noob vs PRO: Keep Offset When Selecting!** In this quick Blender tutorial, learn a simple **selection and offset trick** that ...",
-    "meta": {},
-    "score": 3,
-    "tags": [
-      "Blender",
-      "sélection",
-      "productivité"
-    ],
-    "summary_fr": "Trick de sélection avec offset pour gagner du temps en modélisation 3D."
+    "summary_fr": "Breakdown détaillé d'une arme 3D cinématographique. Inspiration pour la modélisation réaliste d'objets."
   },
   {
     "id": "978251241cd2",
@@ -375,29 +337,10 @@
     "score": 3,
     "tags": [
       "After Effects",
-      "motion design",
-      "défi créatif"
+      "challenge créatif",
+      "inspiration"
     ],
-    "summary_fr": "Challenge 30 jours de designs motion, source d'inspiration et de pratique régulière."
-  },
-  {
-    "id": "227e2720d59d",
-    "title": "Motion graphics Show reel 2026",
-    "url": "https://www.youtube.com/watch?v=DEDtbZL2OV0",
-    "external_url": null,
-    "source": "youtube",
-    "source_name": "Lisha Panja",
-    "published": "2026-09-15T06:20:46Z",
-    "thumbnail": "https://i.ytimg.com/vi/DEDtbZL2OV0/hqdefault.jpg",
-    "raw_summary": "Hey Creators & Brands! I am a creative Motion Graphics Designer and Visual Artist!In this video, I am showcasing a compilation of ...",
-    "meta": {},
-    "score": 3,
-    "tags": [
-      "showreel",
-      "motion graphics",
-      "portfolio"
-    ],
-    "summary_fr": "Showreel motion graphics 2026, benchmark utile pour les tendances et styles actuels."
+    "summary_fr": "Challenge 30 jours de motion design. Exercice créatif source d'inspiration et tendances."
   },
   {
     "id": "5c2dbb584127",
@@ -414,46 +357,8 @@
     "tags": [
       "IA",
       "motion design",
-      "tendance"
+      "tutoriel rapide"
     ],
-    "summary_fr": "Motion design généré par IA en 5 min, exploration d'une tendance émergente pertinente."
-  },
-  {
-    "id": "a53c40280716",
-    "title": "Claude AI — Motion Design Showcase",
-    "url": "https://www.youtube.com/watch?v=mBEdT8BqLKQ",
-    "external_url": null,
-    "source": "youtube",
-    "source_name": "Gabr -  Video Editor",
-    "published": "2026-09-14T23:49:32Z",
-    "thumbnail": "https://i.ytimg.com/vi/mBEdT8BqLKQ/hqdefault.jpg",
-    "raw_summary": "A personal motion design project created to explore the visual identity and capabilities of Claude, an AI assistant by Anthropic.",
-    "meta": {},
-    "score": 3,
-    "tags": [
-      "motion design",
-      "identité visuelle",
-      "portfolio"
-    ],
-    "summary_fr": "Projet d'identité visuelle pour Claude AI, inspirant pour explorer des concepts d'IA en motion design."
-  },
-  {
-    "id": "b340673ee221",
-    "title": "PVC at IBC 2026: Strada 2.0 Brings Distributed Media and Connects AI Workflows Across the World",
-    "url": "https://www.provideocoalition.com/pvc-at-ibc-2026-strada-2-0-brings-distributed-media-and-connects-ai-workflows-across-the-world/",
-    "external_url": null,
-    "source": "rss",
-    "source_name": "ProVideo Coalition",
-    "published": "2026-09-14T16:36:41+00:00",
-    "thumbnail": null,
-    "raw_summary": "Strada Connect is an impressive feat of peer-to-peer networking that has crossed ProVideo Coalition&#8217;s radar many times in the past, with the platform making its debut at NAB 2026 and soon upping the ante at the following Cine Gear show with Strada 2.0. Now, Strada has come  to Europe to further show off 2.0&#8217;s capabilities [...]<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://www.provideocoalition.com/pvc-at-ibc-2026-strada-2-0-brings-distributed-media-and-conne",
-    "meta": {},
-    "score": 3,
-    "tags": [
-      "workflow",
-      "IA",
-      "collaboration"
-    ],
-    "summary_fr": "Plateforme Strada 2.0 avec workflows IA distribués, intéressante pour la collaboration créative."
+    "summary_fr": "Introduction à la création de motion design assistée par IA, pertinent pour explorer les nouveaux workflows."
   }
 ]
