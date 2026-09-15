@@ -1,7 +1,7 @@
 {
-  "lookback_hours": 168,
+  "lookback_hours": 30,
   "reddit": {
-    "enabled": true,
+    "enabled": false,
     "subreddits": [
       "blender",
       "vfx",
