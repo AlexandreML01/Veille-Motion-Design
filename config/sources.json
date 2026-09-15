@@ -1,5 +1,5 @@
 {
-  "lookback_hours": 30,
+  "lookback_hours": 168,
   "reddit": {
     "enabled": true,
     "subreddits": [
