@@ -13,10 +13,29 @@
     "score": 5,
     "tags": [
       "Blender",
-      "lighting",
-      "tutoriel"
+      "tutoriel",
+      "rendering"
     ],
-    "summary_fr": "Cours complet sur les rendus intérieurs Blender : techniques de lighting, matériaux et composition très pertinents."
+    "summary_fr": "Cours Blender complet sur renders intérieurs photoréalistes. Excellente ressource pédagogique pour maîtriser la mise en scène."
+  },
+  {
+    "id": "bf9c94a9c476",
+    "title": "Adobe releases After Effects 26.5, plus experimental new AI Assistant",
+    "url": "https://www.cgchannel.com/2026/09/adobe-releases-after-effects-26-5-and-new-ai-assistant-in-beta/",
+    "external_url": null,
+    "source": "rss",
+    "source_name": "CG Channel",
+    "published": "2026-09-09T16:13:46+00:00",
+    "thumbnail": null,
+    "raw_summary": "Check out the new features in compositing and motion graphics app, including the new agentic AI Assistant in the current beta build.",
+    "meta": {},
+    "score": 5,
+    "tags": [
+      "After Effects",
+      "AI Assistant",
+      "mise à jour majeure"
+    ],
+    "summary_fr": "After Effects 26.5 avec nouvel AI Assistant agentic. Évolution fondamentale du workflow motion design."
   },
   {
     "id": "f27cc0841874",
@@ -32,10 +51,10 @@
     "score": 4,
     "tags": [
       "tendance 2026",
-      "outils",
-      "innovation"
+      "innovation",
+      "outils"
     ],
-    "summary_fr": "Vue d'ensemble des innovations IBC 2026 : outils et workflows nouveaux impactant motion design et post-production."
+    "summary_fr": "Innovations IBC 2026 impactant la production vidéo et animation. Bon aperçu des nouvelles solutions techniques du marché."
   },
   {
     "id": "434a6c5e9ddd",
@@ -51,10 +70,314 @@
     "score": 4,
     "tags": [
       "Blender",
-      "modeling",
-      "technique"
+      "techniques",
+      "modélisation"
     ],
-    "summary_fr": "11 méthodes pour coins nets Blender : normals, topologie. Technique essentielle pour modeling haute qualité."
+    "summary_fr": "11 techniques Blender pour angles aigus et normales. Guide technique très utile pour modélisation précise."
+  },
+  {
+    "id": "3590577edbaf",
+    "title": "See making-ofs for Gnomon’s Best of Term Award-winning projects",
+    "url": "https://www.cgchannel.com/2026/09/see-tech-breakdowns-of-gnomon-best-of-term-award-winning-projects/",
+    "external_url": null,
+    "source": "rss",
+    "source_name": "CG Channel",
+    "published": "2026-09-14T05:30:24+00:00",
+    "thumbnail": null,
+    "raw_summary": "Watch tech breakdowns of award-winning projects from students at the leading CG school, like this Alien: Romulus-inspired Houdini simulation.",
+    "meta": {},
+    "score": 4,
+    "tags": [
+      "VFX",
+      "Houdini",
+      "inspiration"
+    ],
+    "summary_fr": "Breakdowns projets étudiants Gnomon. Excellente source d'inspiration technique et processus créatif."
+  },
+  {
+    "id": "87ba5737759e",
+    "title": "Caustify – a free, open-source spectral dispersion path tracer",
+    "url": "https://www.blendernation.com/2026/09/13/caustify-a-free-open-source-spectral-dispersion-path-tracer/",
+    "external_url": null,
+    "source": "rss",
+    "source_name": "Blender Nation",
+    "published": "2026-09-13T15:55:53+00:00",
+    "thumbnail": null,
+    "raw_summary": "Immineal shares a rendering experiment. Cycles (like most RGB path tracers) approximates chromatic dispersion, the way glass bends different wavelengths by different amounts, by nudging the IOR per RGB channel. That&#8217;s a shortcut: real dispersion is a continuous function of wavelength, not three samples of it, and it&#8217;s most visible exactly where you&#8217;d want it, [&#8230;]\n<p><a href=\"https://www.blendernation.com/2026/09/13/caustify-a-free-open-source-spectral-dispersion-path-trac",
+    "meta": {},
+    "score": 4,
+    "tags": [
+      "rendering",
+      "shader",
+      "open-source"
+    ],
+    "summary_fr": "Path tracer spectral Caustify pour dispersion chromatique réaliste. Innovation rendu avancée très pertinente."
+  },
+  {
+    "id": "0b316a6abc6e",
+    "title": "New CG software you may have missed: 13 September 2026",
+    "url": "https://www.cgchannel.com/2026/09/new-cg-software-you-may-have-missed-13-september-2026/",
+    "external_url": null,
+    "source": "rss",
+    "source_name": "CG Channel",
+    "published": "2026-09-13T06:00:06+00:00",
+    "thumbnail": null,
+    "raw_summary": "Check out the week's other updates to CG tools, like HDR Light Studio, free Maya rigging toolset mGear, and SwitchX, Beeble's VFX AI model.",
+    "meta": {},
+    "score": 4,
+    "tags": [
+      "outils CG",
+      "mise à jour logiciels",
+      "VFX AI"
+    ],
+    "summary_fr": "Panorama hebdomadaire des nouveaux outils CG incluant SwitchX et mGear. Essentiel pour rester à jour."
+  },
+  {
+    "id": "710ddeaffb1e",
+    "title": "An NPR Horror Animation",
+    "url": "https://www.blendernation.com/2026/09/12/a-npr-horror-animation/",
+    "external_url": null,
+    "source": "rss",
+    "source_name": "Blender Nation",
+    "published": "2026-09-12T15:55:00+00:00",
+    "thumbnail": null,
+    "raw_summary": "Someone Ate Her Pizza&#8230; That was a mistake. Agu Rex UD writes: This is an animation I made in Blender. It&#8217;s in an anime style. I rendered the animated characters and car in blender and then drew the background in Krita and added the lighting effects in Tahoma2D\n<p><a href=\"https://www.blendernation.com/2026/09/12/a-npr-horror-animation/\" rel=\"nofollow\">Source</a></p>",
+    "meta": {},
+    "score": 4,
+    "tags": [
+      "animation stylisée",
+      "NPR",
+      "pipeline multi-logiciels"
+    ],
+    "summary_fr": "Animation anime Blender + Krita. Démontre les tendances actuelles en stylisation 2D/3D hybride."
+  },
+  {
+    "id": "f0cca538bf37",
+    "title": "Tutorial: Concept Art & Matte Painting for Film",
+    "url": "https://www.cgchannel.com/2026/09/tutorial-concept-art-matte-painting-for-film/",
+    "external_url": null,
+    "source": "rss",
+    "source_name": "CG Channel",
+    "published": "2026-09-12T06:00:54+00:00",
+    "thumbnail": null,
+    "raw_summary": "Master professional techniques in Photoshop and Maya with ILM Art Director Igor Staritsin's masterclass for The Gnomon Workshop.",
+    "meta": {},
+    "score": 4,
+    "tags": [
+      "concept art",
+      "matte painting",
+      "film VFX"
+    ],
+    "summary_fr": "Masterclass ILM sur concept art et matte painting. Formation professionnelle de très haut niveau."
+  },
+  {
+    "id": "be954209fd32",
+    "title": "Light It Up — Blender Lighting Addon: 37 Rigs, Fog, and Your Own HDRI Library",
+    "url": "https://www.blendernation.com/2026/09/11/light-it-up-blender-lighting-addon-37-rigs-fog-and-your-own-hdri-library/",
+    "external_url": null,
+    "source": "rss",
+    "source_name": "Blender Nation",
+    "published": "2026-09-11T07:00:41+00:00",
+    "thumbnail": null,
+    "raw_summary": "Your render looks flat because it is lit too evenly. Light It Up fixes that in one click, and then lets you take the result apart. It builds a real lighting rig around your object: 37 studio and portrait presets, including the six classic portrait patterns &#8211; Rembrandt, split, loop, butterfly, short and broad &#8211; [&#8230;]\n<p><a href=\"https://www.blendernation.com/2026/09/11/light-it-up-blender-lighting-addon-37-rigs-fog-and-your-own-hdri-library/\" rel=\"nofollow\">Source</a></p>",
+    "meta": {},
+    "score": 4,
+    "tags": [
+      "Blender",
+      "éclairage",
+      "addon productivité"
+    ],
+    "summary_fr": "Addon complet 37 rigs d'éclairage studio et portrait. Gain de productivité majeur pour motion design."
+  },
+  {
+    "id": "9d4f47d1771e",
+    "title": "Maxon releases Redshift 2026.9",
+    "url": "https://www.cgchannel.com/2026/09/maxon-releases-redshift-2026-9/",
+    "external_url": null,
+    "source": "rss",
+    "source_name": "CG Channel",
+    "published": "2026-09-10T07:16:05+00:00",
+    "thumbnail": null,
+    "raw_summary": "Check out the new features in the GPU production renderer, including updates to new real-time render engine Redshift Live.",
+    "meta": {},
+    "score": 4,
+    "tags": [
+      "Redshift",
+      "GPU rendering",
+      "mise à jour"
+    ],
+    "summary_fr": "Redshift 2026.9 avec updates Redshift Live. Mise à jour majeure du renderer production essentiel."
+  },
+  {
+    "id": "1a1163518d78",
+    "title": "Discover Future Associate’s VFX and postvis for Mortal Kombat II",
+    "url": "https://www.cgchannel.com/2026/09/discover-future-associates-postvis-and-vfx-for-mortal-kombat-ii/",
+    "external_url": null,
+    "source": "rss",
+    "source_name": "CG Channel",
+    "published": "2026-09-10T05:53:58+00:00",
+    "thumbnail": null,
+    "raw_summary": "Discover the studio's EmberGen-augmented postvis and final VFX for the martial arts movie's Red Throne Room and Netherworld sequences.",
+    "meta": {},
+    "score": 4,
+    "tags": [
+      "VFX film",
+      "postvis",
+      "case study"
+    ],
+    "summary_fr": "VFX et postvis Future Associate Mortal Kombat II. Cas d'étude professionnel de haut niveau."
+  },
+  {
+    "id": "d321c94af5d9",
+    "title": "Blackmagic Design releases Fusion Studio 21.1",
+    "url": "https://www.cgchannel.com/2026/09/blackmagic-design-releases-fusion-studio-21/",
+    "external_url": null,
+    "source": "rss",
+    "source_name": "CG Channel",
+    "published": "2026-09-09T06:00:59+00:00",
+    "thumbnail": null,
+    "raw_summary": "Free update to the 3D compositing app adds new Krokodove motion graphics tools, and updates to deep compositing and lens correction.",
+    "meta": {},
+    "score": 4,
+    "tags": [
+      "Fusion Studio",
+      "compositing 3D",
+      "motion graphics"
+    ],
+    "summary_fr": "Mise à jour Fusion avec nouveaux outils Krokodove et améliorations compositing et correction optique."
+  },
+  {
+    "id": "b340673ee221",
+    "title": "PVC at IBC 2026: Strada 2.0 Brings Distributed Media and Connects AI Workflows Across the World",
+    "url": "https://www.provideocoalition.com/pvc-at-ibc-2026-strada-2-0-brings-distributed-media-and-connects-ai-workflows-across-the-world/",
+    "external_url": null,
+    "source": "rss",
+    "source_name": "ProVideo Coalition",
+    "published": "2026-09-14T16:36:41+00:00",
+    "thumbnail": null,
+    "raw_summary": "Strada Connect is an impressive feat of peer-to-peer networking that has crossed ProVideo Coalition&#8217;s radar many times in the past, with the platform making its debut at NAB 2026 and soon upping the ante at the following Cine Gear show with Strada 2.0. Now, Strada has come  to Europe to further show off 2.0&#8217;s capabilities [...]<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://www.provideocoalition.com/pvc-at-ibc-2026-strada-2-0-brings-distributed-media-and-conne",
+    "meta": {},
+    "score": 3,
+    "tags": [
+      "collaboration",
+      "AI",
+      "tendance 2026"
+    ],
+    "summary_fr": "Plateforme collaboration distribuée avec workflows IA. Pertinent pour équipes motion design collaboratives."
+  },
+  {
+    "id": "4319b4c51c94",
+    "title": "How to Make a Low Poly Stylized Hand Painted Shield",
+    "url": "https://www.blendernation.com/2026/09/13/how-to-make-a-low-poly-stylized-hand-painted-shield/",
+    "external_url": null,
+    "source": "rss",
+    "source_name": "Blender Nation",
+    "published": "2026-09-13T07:00:09+00:00",
+    "thumbnail": null,
+    "raw_summary": "In this Blender tutorial Ryan King creates a game ready low poly stylized hand painted shield 3d model.\n<p><a href=\"https://www.blendernation.com/2026/09/13/how-to-make-a-low-poly-stylized-hand-painted-shield/\" rel=\"nofollow\">Source</a></p>",
+    "meta": {},
+    "score": 3,
+    "tags": [
+      "Blender",
+      "modélisation low poly",
+      "stylisation"
+    ],
+    "summary_fr": "Tutoriel sur la création d'un bouclier 3D stylisé. Technique utile pour game design et assets motion."
+  },
+  {
+    "id": "b8cfbd85a2bb",
+    "title": "Best of Blender Artists: 2026-37",
+    "url": "https://www.blendernation.com/2026/09/12/best-of-blender-artists-2026-37/",
+    "external_url": null,
+    "source": "rss",
+    "source_name": "Blender Nation",
+    "published": "2026-09-12T08:18:53+00:00",
+    "thumbnail": null,
+    "raw_summary": "Every week, hundreds of artists share their work on the Blender Artists forum. I&#8217;m putting some of the best work in the spotlight in a weekly post here on BlenderNation.\n<p><a href=\"https://www.blendernation.com/2026/09/12/best-of-blender-artists-2026-37/\" rel=\"nofollow\">Source</a></p>",
+    "meta": {},
+    "score": 3,
+    "tags": [
+      "inspiration",
+      "portfolios",
+      "tendances"
+    ],
+    "summary_fr": "Sélection hebdomadaire des meilleurs travaux Blender Artists. Bonne source d'inspiration et de tendances."
+  },
+  {
+    "id": "2deecbd274e2",
+    "title": "Free Blender Extension: SceneTrace Finds What Made Your Scene Slower",
+    "url": "https://www.blendernation.com/2026/09/11/free-blender-extension-scenetrace-finds-what-made-your-scene-slower/",
+    "external_url": null,
+    "source": "rss",
+    "source_name": "Blender Nation",
+    "published": "2026-09-11T15:55:00+00:00",
+    "thumbnail": null,
+    "raw_summary": "This extension helps you optimize your Blender render times. Dustin Hanke writes: I recently released SceneTrace, a free and open-source Blender extension for tracking scene performance over time and helping answer a simple question: Why did my Blender scene get slower? As a scene grows, performance can gradually degrade because of geometry, modifiers, materials, collections, [&#8230;]\n<p><a href=\"https://www.blendernation.com/2026/09/11/free-blender-extension-scenetrace-finds-what-made-your-sce",
+    "meta": {},
+    "score": 3,
+    "tags": [
+      "Blender",
+      "optimisation",
+      "extension gratuite"
+    ],
+    "summary_fr": "Extension gratuite pour tracer et optimiser les performances Blender. Utile pour gros projets."
+  },
+  {
+    "id": "d00e1ac9e8bf",
+    "title": "SuperSplat Editor 3.0 is a huge performance update",
+    "url": "https://www.cgchannel.com/2026/09/playcanvas-releases-supersplat-editor-3-0/",
+    "external_url": null,
+    "source": "rss",
+    "source_name": "CG Channel",
+    "published": "2026-09-11T06:00:39+00:00",
+    "thumbnail": null,
+    "raw_summary": "Big update to the free online tool for viewing and editing 3D Gaussian Splats lets you visualize tens of millions of Gaussians smoothly.",
+    "meta": {},
+    "score": 3,
+    "tags": [
+      "Gaussian Splatting",
+      "3D",
+      "technologie émergente"
+    ],
+    "summary_fr": "Update SuperSplat 3.0 pour visualiser millions de Gaussians. Technologie pertinente pour VFX futur."
+  },
+  {
+    "id": "5a3847b3e9ac",
+    "title": "MAKE’s 2026 Animation Thesis Grant Now Open to Support the Next Generation of Animators",
+    "url": "https://motionographer.com/news/makes-2026-animation-thesis-grant-now-open-to-support-the-next-generation-of-animators/",
+    "external_url": null,
+    "source": "rss",
+    "source_name": "Motionographer",
+    "published": "2026-09-09T14:26:21+00:00",
+    "thumbnail": "https://s35726.pcdn.co/wp-content/uploads/2026/09/MakeThesisGrant_2025_Thumbnail_16x9_v001-700x394.jpg",
+    "raw_summary": "MAKE, the creative studio known for impactful animation and original storytelling, has officially opened applications for the 2026 MAKE Animation Thesis Grant. The annual program offers senior animation students funding, production resources, and promotional visibility to help bring their thesis films to life exactly as envisioned. Launched in 2024, the grant was created to champion...  <a class=\"excerpt-read-more\" href=\"https://motionographer.com/news/makes-2026-animation-thesis-grant-now-open-",
+    "meta": {},
+    "score": 3,
+    "tags": [
+      "opportunité",
+      "financement",
+      "étudiants"
+    ],
+    "summary_fr": "Programme de bourse pour étudiants en animation avec ressources de production et visibilité professionnelle."
+  },
+  {
+    "id": "d905e738924d",
+    "title": "Blackmagic Design releases DaVinci Resolve 21.1",
+    "url": "https://www.cgchannel.com/2026/09/blackmagic-design-releases-resolve-21-1/",
+    "external_url": null,
+    "source": "rss",
+    "source_name": "CG Channel",
+    "published": "2026-09-08T13:31:33+00:00",
+    "thumbnail": null,
+    "raw_summary": "Discover key features for VFX artists and colorists in this sizeable update to the free grading and editing app and its $295 Studio edition.",
+    "meta": {},
+    "score": 3,
+    "tags": [
+      "DaVinci Resolve",
+      "VFX",
+      "color grading"
+    ],
+    "summary_fr": "Mise à jour majeure de DaVinci Resolve pour VFX et coloristes avec nouvelles fonctionnalités."
   },
   {
     "id": "f722aa3f9d01",
@@ -70,10 +393,9 @@
     "score": 2,
     "tags": [
       "équipement",
-      "360°",
-      "capture"
+      "capture 360"
     ],
-    "summary_fr": "Caméra 360° pour professionnels. Utile si capture VR/immersive, mais focus hardware plutôt que création."
+    "summary_fr": "Caméra 360 DJI pour capture immersive, utile pour certains projets VFX mais pas directement motion design."
   },
   {
     "id": "7d174b29b2a1",
@@ -89,10 +411,9 @@
     "score": 2,
     "tags": [
       "éclairage",
-      "LED",
       "production"
     ],
-    "summary_fr": "Nouvel éclairage LED cinéma. Pertinent pour shooting/production live, moins pour travail studio 3D/motion."
+    "summary_fr": "LED Fresnel Creamsource pour tournage. Pertinent pour prévisualisation d'éclairage en VFX, moins pour motion design pur."
   },
   {
     "id": "bb7e088c8846",
@@ -108,29 +429,45 @@
     "score": 2,
     "tags": [
       "connectivité",
-      "matériel",
-      "workflow"
+      "infrastructure"
     ],
-    "summary_fr": "Dock Thunderbolt 5 pour connectivité. Utile mais secondaire pour motion designer, ne change pas la création."
+    "summary_fr": "Dock Thunderbolt 5 OWC pour professionnels vidéo. Infrastructure utile mais non spécifique au motion design."
   },
   {
-    "id": "b340673ee221",
-    "title": "PVC at IBC 2026: Strada 2.0 Brings Distributed Media and Connects AI Workflows Across the World",
-    "url": "https://www.provideocoalition.com/pvc-at-ibc-2026-strada-2-0-brings-distributed-media-and-connects-ai-workflows-across-the-world/",
+    "id": "9ea039650aca",
+    "title": "PVC at IBC 2026: GVM Redefines Production Lighting with Ultra-Slim F-S Series COBs",
+    "url": "https://www.provideocoalition.com/pvc-at-ibc-2026-gvm-redefines-production-lighting-with-ultra-slim-f-s-series-cobs/",
     "external_url": null,
     "source": "rss",
     "source_name": "ProVideo Coalition",
-    "published": "2026-09-14T16:36:41+00:00",
+    "published": "2026-09-14T17:01:42+00:00",
     "thumbnail": null,
-    "raw_summary": "Strada Connect is an impressive feat of peer-to-peer networking that has crossed ProVideo Coalition&#8217;s radar many times in the past, with the platform making its debut at NAB 2026 and soon upping the ante at the following Cine Gear show with Strada 2.0. Now, Strada has come  to Europe to further show off 2.0&#8217;s capabilities [...]<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://www.provideocoalition.com/pvc-at-ibc-2026-strada-2-0-brings-distributed-media-and-conne",
+    "raw_summary": "Stepping onto the IBC show floor, one of the most intriguing developments in location lighting was getting hands-on with GVM’s new flathead F-S series. Standard point-source lights offer immense power and punch, but their deep, heavy housings often make transport and tight-space rigging a constant struggle. GVM addresses that pain point directly with a lineup [...]<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://www.provideocoalition.com/pvc-at-ibc-2026-gvm-redefines-produ",
     "meta": {},
     "score": 2,
     "tags": [
-      "workflow",
-      "AI",
-      "collaboration"
+      "éclairage",
+      "production"
     ],
-    "summary_fr": "Plateforme collaboration et AI distribuée. Intéressant pour teams distantes, peu central pour création motion."
+    "summary_fr": "Éclairages COB compacts GVM pour tournage. Moins pertinent pour motion designer sauf en production mixte."
+  },
+  {
+    "id": "7c2654346e97",
+    "title": "Blackmagic Design released Blackmagic Camera 10.3 update",
+    "url": "https://www.provideocoalition.com/blackmagic-design-released-blackmagic-camera-10-3-update/",
+    "external_url": null,
+    "source": "rss",
+    "source_name": "ProVideo Coalition",
+    "published": "2026-09-14T16:56:52+00:00",
+    "thumbnail": null,
+    "raw_summary": "Blackmagic Camera 10.3 update adds SMPTE-2110 video support to Blackmagic URSA Cine 12K LF, bringing, the company says, “ stunning cinematic quality to live production!”  When the Blackmagic URSA Cine 12K LF is set to SMPTE-2110 Live in the menu, it instantly transforms into a live studio camera, according to the company, meaning that “you [...]<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://www.provideocoalition.com/blackmagic-design-released-blackmagic-camera-10-3-updat",
+    "meta": {},
+    "score": 2,
+    "tags": [
+      "caméra",
+      "mise à jour"
+    ],
+    "summary_fr": "Mise à jour caméra Blackmagic avec support SMPTE-2110. Concerne surtout les workflows broadcast/live."
   },
   {
     "id": "521e177fceb8",
@@ -146,45 +483,64 @@
     "score": 2,
     "tags": [
       "monitoring",
-      "équipement"
-    ],
-    "summary_fr": "Moniteurs de tournage améliorés. Utile sur set, secondaire pour motion designer travaillant en post/3D."
-  },
-  {
-    "id": "9ea039650aca",
-    "title": "PVC at IBC 2026: GVM Redefines Production Lighting with Ultra-Slim F-S Series COBs",
-    "url": "https://www.provideocoalition.com/pvc-at-ibc-2026-gvm-redefines-production-lighting-with-ultra-slim-f-s-series-cobs/",
-    "external_url": null,
-    "source": "rss",
-    "source_name": "ProVideo Coalition",
-    "published": "2026-09-14T17:01:42+00:00",
-    "thumbnail": null,
-    "raw_summary": "Stepping onto the IBC show floor, one of the most intriguing developments in location lighting was getting hands-on with GVM’s new flathead F-S series. Standard point-source lights offer immense power and punch, but their deep, heavy housings often make transport and tight-space rigging a constant struggle. GVM addresses that pain point directly with a lineup [...]<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://www.provideocoalition.com/pvc-at-ibc-2026-gvm-redefines-produ",
-    "meta": {},
-    "score": 1,
-    "tags": [
-      "éclairage",
       "production"
     ],
-    "summary_fr": "Éclairages LED compacts pour tournage sur location. Hors sujet pour motion designer en studio/3D."
+    "summary_fr": "Moniteurs caméra Atomos améliorés. Utile en production mais non essentiel pour motion designer."
   },
   {
-    "id": "7c2654346e97",
-    "title": "Blackmagic Design released Blackmagic Camera 10.3 update",
-    "url": "https://www.provideocoalition.com/blackmagic-design-released-blackmagic-camera-10-3-update/",
+    "id": "9be4fd0219df",
+    "title": "VFX portfolio and recruitment site Zerply is closing later this month",
+    "url": "https://www.cgchannel.com/2026/09/vfx-portfolio-and-recruitment-site-zerply-is-closing-later-this-month/",
     "external_url": null,
     "source": "rss",
-    "source_name": "ProVideo Coalition",
-    "published": "2026-09-14T16:56:52+00:00",
+    "source_name": "CG Channel",
+    "published": "2026-09-14T06:00:37+00:00",
     "thumbnail": null,
-    "raw_summary": "Blackmagic Camera 10.3 update adds SMPTE-2110 video support to Blackmagic URSA Cine 12K LF, bringing, the company says, “ stunning cinematic quality to live production!”  When the Blackmagic URSA Cine 12K LF is set to SMPTE-2110 Live in the menu, it instantly transforms into a live studio camera, according to the company, meaning that “you [...]<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://www.provideocoalition.com/blackmagic-design-released-blackmagic-camera-10-3-updat",
+    "raw_summary": "Well-regarded VFX and animation industry resource shuts down on 28 September. Redirect your URL and retrieve your assets before then.",
     "meta": {},
-    "score": 1,
+    "score": 2,
     "tags": [
-      "broadcast",
-      "caméra"
+      "portfolio",
+      "réseau professionnel"
     ],
-    "summary_fr": "Mise à jour caméra Blackmagic pour live. Infrastructure TV-broadcast, peu pertinent pour motion design."
+    "summary_fr": "Fermeture plateforme Zerply VFX. Information administrative utile pour archivage de portfolios."
+  },
+  {
+    "id": "b272b9d8b068",
+    "title": "Vintage Lantern Tutorial",
+    "url": "https://www.blendernation.com/2026/09/12/vintage-lantern-tutorial/",
+    "external_url": null,
+    "source": "rss",
+    "source_name": "Blender Nation",
+    "published": "2026-09-12T07:00:47+00:00",
+    "thumbnail": null,
+    "raw_summary": "Let’s have some fun with the power of the curve profiles in Blender and create a vintage explorer’s lantern.\n<p><a href=\"https://www.blendernation.com/2026/09/12/vintage-lantern-tutorial/\" rel=\"nofollow\">Source</a></p>",
+    "meta": {},
+    "score": 2,
+    "tags": [
+      "Blender",
+      "tutoriel",
+      "modeling"
+    ],
+    "summary_fr": "Tutoriel lanterne vintage via curve profiles. Technique de modeling standard, peu innovant."
+  },
+  {
+    "id": "1049718097a1",
+    "title": "Motionographer Jobs is back in motion",
+    "url": "https://motionographer.com/2026/09/10/motionographer-jobs-is-back-in-motion/",
+    "external_url": null,
+    "source": "rss",
+    "source_name": "Motionographer",
+    "published": "2026-09-10T22:28:41+00:00",
+    "thumbnail": "https://s35726.pcdn.co/wp-content/uploads/2026/09/logo-20-wide-hero-image-texturd-700x394.png",
+    "raw_summary": "Twenty years, twenty days. To mark Motionographer's 20th anniversary, job postings on Motionographer Jobs are free from September 10 through September 29, every submission personally reviewed, every approved listing live for 30 days.",
+    "meta": {},
+    "score": 2,
+    "tags": [
+      "emploi",
+      "annonces"
+    ],
+    "summary_fr": "Motionographer Jobs gratuit 20 jours. Peu pertinent pour veille créative et technique."
   },
   {
     "id": "aab6a3d7562f",
@@ -199,10 +555,10 @@
     "meta": {},
     "score": 1,
     "tags": [
-      "broadcast",
-      "infrastructure"
+      "infrastructure",
+      "broadcast"
     ],
-    "summary_fr": "Processeur SDI/IP pour broadcast. Infrastructure professionnelle TV, hors du scope motion design classique."
+    "summary_fr": "Processeur multicanal AJA pour infrastructure broadcast. Sans intérêt direct pour motion designer."
   },
   {
     "id": "61d26af9c440",
@@ -220,6 +576,59 @@
       "audio",
       "équipement"
     ],
-    "summary_fr": "Microphone sans fil pour production. Essentiel en tournage, moins pertinent pour motion design 3D."
+    "summary_fr": "Microphone sans fil DJI. Hors du périmètre motion design/VFX 3D."
+  },
+  {
+    "id": "7ebd349055fe",
+    "title": "Blender Jobs for September 11, 2026",
+    "url": "https://www.blendernation.com/2026/09/11/blender-jobs-for-september-11-2026/",
+    "external_url": null,
+    "source": "rss",
+    "source_name": "Blender Nation",
+    "published": "2026-09-11T10:15:00+00:00",
+    "thumbnail": null,
+    "raw_summary": "Here&#8217;s an overview of the most recent Blender jobs on Blender Artists, ArtStation and 3djobs.xyz: PAID &#8211; Blue Zoo Animation Studio: Experienced Blender Modeller Opportunity For more jobs, look here.\n<p><a href=\"https://www.blendernation.com/2026/09/11/blender-jobs-for-september-11-2026/\" rel=\"nofollow\">Source</a></p>",
+    "meta": {},
+    "score": 1,
+    "tags": [
+      "emploi",
+      "annonces"
+    ],
+    "summary_fr": "Annonces d'emploi Blender. Peu pertinent pour la veille créative et technique."
+  },
+  {
+    "id": "fbfef8a61dfd",
+    "title": "BRAINROT | Lazy Square",
+    "url": "https://motionographer.com/quickie/brainrot-lazy-square/",
+    "external_url": null,
+    "source": "rss",
+    "source_name": "Motionographer",
+    "published": "2026-09-10T13:27:29+00:00",
+    "thumbnail": "https://s35726.pcdn.co/wp-content/uploads/2026/09/Brainrot_DaVinchi-700x394.jpg",
+    "raw_summary": "",
+    "meta": {},
+    "score": 1,
+    "tags": [
+      "portfolio"
+    ],
+    "summary_fr": "Portfolio Lazy Square sans détails fournis. Impossible à évaluer sans contexte."
+  },
+  {
+    "id": "878fb5259b31",
+    "title": "Birdie | Ribbit.",
+    "url": "https://motionographer.com/quickie/birdie-ribbit/",
+    "external_url": null,
+    "source": "rss",
+    "source_name": "Motionographer",
+    "published": "2026-09-09T13:36:20+00:00",
+    "thumbnail": "https://s35726.pcdn.co/wp-content/uploads/2026/09/Birdie_16x9_img02-700x394.png",
+    "raw_summary": "",
+    "meta": {},
+    "score": 1,
+    "tags": [
+      "projet",
+      "animation"
+    ],
+    "summary_fr": "Projet d'animation sans informations détaillées exploitables pour la veille professionnelle."
   }
 ]
