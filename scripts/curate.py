@@ -125,9 +125,9 @@ def main():
     for it in raw_items:
         curation = scores.get(it["id"])
         if not curation:
-            # Si le modele a saute un item, on lui met un score neutre de 2 (qui sera filtre si < 3)
-            curation = {"score": 2, "tags": [], "summary_fr": ""}
-       digest.append({**it, **{
+            # Si le modele a saute un item, on lui met un score neutre de 2
+            curation = {"score": 2, "tags": [], "summary_fr": "", "analysis_fr": ""}
+        digest.append({**it, **{
             "score": curation.get("score", 2),
             "tags": curation.get("tags", []),
             "summary_fr": curation.get("summary_fr", ""),
