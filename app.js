@@ -91,9 +91,9 @@ function openModal(item) {
     <h2 style="font-size: 1.4rem; margin-bottom: 16px;">${escapeHtml(item.title)}</h2>
     
     <div style="background: var(--bg); border: 1px solid var(--line); border-radius: var(--radius); padding: 16px; margin-bottom: 24px;">
-      <h3 style="font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--muted); margin: 0 0 8px;">Synthèse & Analyse</h3>
+      <h3 style="font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--muted); margin: 0 0 8px;">Synthèse & Analyse d'expert</h3>
       <div style="font-size: 0.95rem; line-height: 1.6; color: var(--ink); white-space: pre-line;">
-        ${escapeHtml(item.summary_fr || "Aucun résumé disponible.")}
+        ${escapeHtml(item.analysis_fr || item.summary_fr || "Aucun résumé disponible.")}
       </div>
     </div>
 
