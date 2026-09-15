@@ -16,7 +16,45 @@
       "formation",
       "motion design"
     ],
-    "summary_fr": "Cours officiel AI Foundations for Motion Design de School of Motion, formation essentielle et très pertinente."
+    "summary_fr": "Cours IA Foundations by Joey Korenman, indispensable pour maîtriser l'IA en motion design."
+  },
+  {
+    "id": "c31060ff659e",
+    "title": "Modeling A Sky Lantern | Blender for Beginners | Fire Effect",
+    "url": "https://www.youtube.com/watch?v=SknkqBAVZ5U",
+    "external_url": null,
+    "source": "youtube",
+    "source_name": "TechOneDo",
+    "published": "2026-09-15T13:15:14Z",
+    "thumbnail": "https://i.ytimg.com/vi/SknkqBAVZ5U/hqdefault.jpg",
+    "raw_summary": "In this video we will model a Sky Lantern and we will be using Quick Smoke Effect to create a flame. Version: Blender 5.2 ...",
+    "meta": {},
+    "score": 4,
+    "tags": [
+      "Blender",
+      "effets fire",
+      "simulation"
+    ],
+    "summary_fr": "Modélisation et effet de feu réaliste en Blender, technique applicable en motion design."
+  },
+  {
+    "id": "1a140a45b789",
+    "title": "Animating Flying Sky Lanterns | Blender for Beginners | Flying Effect using Particle System",
+    "url": "https://www.youtube.com/watch?v=taM4DWK8gqE",
+    "external_url": null,
+    "source": "youtube",
+    "source_name": "TechOneDo",
+    "published": "2026-09-15T13:15:09Z",
+    "thumbnail": "https://i.ytimg.com/vi/taM4DWK8gqE/hqdefault.jpg",
+    "raw_summary": "In this video we'll animate Flying Sky Lanterns. We'll be using Particle Systems to simulate launching multiple Sky Lanterns.",
+    "meta": {},
+    "score": 4,
+    "tags": [
+      "Blender",
+      "particle system",
+      "animation"
+    ],
+    "summary_fr": "Animation de particules avancée en Blender pour créer des effets dynamiques professionnels."
   },
   {
     "id": "d34e4e8d7357",
@@ -35,7 +73,26 @@
       "rigging",
       "technique avancée"
     ],
-    "summary_fr": "Rigging temps réel sans keyframes avec contrôles indirects. Technique innovation pour animation mécanique."
+    "summary_fr": "Rigging temps réel innovant sans keyframes, technique révolutionnaire pour l'animation."
+  },
+  {
+    "id": "88d9bb0eac87",
+    "title": "Trending Parallel Transition l After Effects Tutorial",
+    "url": "https://www.youtube.com/watch?v=Mv-_mq423V4",
+    "external_url": null,
+    "source": "youtube",
+    "source_name": "Yawwn Aep",
+    "published": "2026-09-15T12:44:14Z",
+    "thumbnail": "https://i.ytimg.com/vi/Mv-_mq423V4/hqdefault.jpg",
+    "raw_summary": "''Trending Parallel Transition In After Effects For Beginners'' ''After Effects 2023'' Hope You Like The Video Subscribe For More ...",
+    "meta": {},
+    "score": 4,
+    "tags": [
+      "After Effects",
+      "transition tendance",
+      "effet"
+    ],
+    "summary_fr": "Transition parallèle populaire en AE, effet visuel tendance 2023+ pour motion design."
   },
   {
     "id": "2ab748ccfc79",
@@ -51,29 +108,29 @@
     "score": 4,
     "tags": [
       "breakdown",
-      "Houdini",
-      "VFX professionnel"
+      "C4D",
+      "After Effects"
     ],
-    "summary_fr": "Breakdown CGI Valentino avec Houdini et Cinema 4D. Workflow professionnel et liquid effects haut de gamme."
+    "summary_fr": "Breakdown détaillé d'une campagne Valentino en Houdini/C4D, excellent cas d'étude de production professionnelle."
   },
   {
-    "id": "ee937f198880",
-    "title": "Blender &amp; Triverse:I Built an RPG Game Environment from an Image#rpg #blender",
-    "url": "https://www.youtube.com/watch?v=on0XHHHLfgw",
+    "id": "b0c2855414d2",
+    "title": "Extracorporeal Shock Wave Lithotripsy (ESWL) Step-by-Step Explained #medicalanimation #science",
+    "url": "https://www.youtube.com/watch?v=bGdrJ6ESMNs",
     "external_url": null,
     "source": "youtube",
-    "source_name": "Triverse AI",
-    "published": "2026-09-15T12:30:21Z",
-    "thumbnail": "https://i.ytimg.com/vi/on0XHHHLfgw/hqdefault.jpg",
-    "raw_summary": "From a single image to an RPG game environment. I used Triverse Image to 3D to turn the visual concept into 3D assets, then ...",
+    "source_name": "Thehealthdiarysl",
+    "published": "2026-09-15T10:00:29Z",
+    "thumbnail": "https://i.ytimg.com/vi/bGdrJ6ESMNs/hqdefault.jpg",
+    "raw_summary": "Discover how modern medical science treats kidney stones without a single incision! In this high-end 3D medical animation, we ...",
     "meta": {},
     "score": 4,
     "tags": [
-      "Blender",
-      "IA générative",
-      "workflow 3D"
+      "3D animation",
+      "medical animation",
+      "production"
     ],
-    "summary_fr": "Workflow innovant : générer des environnements 3D depuis une image avec Triverse et Blender."
+    "summary_fr": "Animation médicale 3D haute qualité, excellent exemple de motion design explicatif professionnel."
   },
   {
     "id": "56c230ee822c",
@@ -89,10 +146,10 @@
     "score": 4,
     "tags": [
       "Blender",
-      "cours complet",
-      "interior design"
+      "tutoriel",
+      "rendu 3D"
     ],
-    "summary_fr": "Cours complet Blender sur les renders d'intérieurs, formation structurée pour maîtriser la 3D architecturale."
+    "summary_fr": "Cours projet Blender complet sur le rendu interior, excellent pour maîtriser les rendus réalistes."
   },
   {
     "id": "9ea0fd731745",
@@ -108,10 +165,10 @@
     "score": 4,
     "tags": [
       "Blender",
-      "product visualization",
-      "breakdown"
+      "breakdown",
+      "product visualization"
     ],
-    "summary_fr": "Breakdown détaillé d'une visualisation produit 3D commerciale, cas réel professionnellement pertinent."
+    "summary_fr": "Breakdown complet Garnier en Blender, cas d'étude de visualisation produit professionnelle."
   },
   {
     "id": "556952633cc3",
@@ -127,48 +184,10 @@
     "score": 4,
     "tags": [
       "motion design",
-      "explainer",
-      "SaaS"
+      "product explainer",
+      "case study"
     ],
-    "summary_fr": "Explainer video professionnel SaaS, excellent exemple de motion design commercial appliqué et efficace."
-  },
-  {
-    "id": "f27cc0841874",
-    "title": "ProVideo Coalition’s Best in Show Winners from IBC 2026",
-    "url": "https://www.provideocoalition.com/provideo-coalitions-best-in-show-winners-from-ibc-2026/",
-    "external_url": null,
-    "source": "rss",
-    "source_name": "ProVideo Coalition",
-    "published": "2026-09-14T22:08:56+00:00",
-    "thumbnail": null,
-    "raw_summary": "After a few packed days walking the halls of IBC 2026, we saw everything from major advances in broadcast infrastructure to filmmaking tools small enough to fit in your pocket. The products that impressed us most weren’t simply chasing bigger numbers, they solved real problems for filmmakers, editors, and production teams. These are ProVideo Coalition’s [...]<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://www.provideocoalition.com/provideo-coalitions-best-in-show-winners-",
-    "meta": {},
-    "score": 4,
-    "tags": [
-      "tendance 2026",
-      "outils",
-      "innovation"
-    ],
-    "summary_fr": "Récapitulatif des meilleures innovations IBC 2026, essentiel pour connaître l'écosystème professionnel actuel."
-  },
-  {
-    "id": "d79372047ba1",
-    "title": "Clankers are EDITING now? + Rive Gets Brushes | Motion Mondays",
-    "url": "https://www.youtube.com/watch?v=2nqkwFE8wd8",
-    "external_url": null,
-    "source": "youtube",
-    "source_name": "School of Motion",
-    "published": "2026-09-14T16:02:38Z",
-    "thumbnail": "https://i.ytimg.com/vi/2nqkwFE8wd8/hqdefault.jpg",
-    "raw_summary": "This week AI assistants are finding their way into creative apps, Rive is getting closer to that Flash feeling with a new Brush Tool, ...",
-    "meta": {},
-    "score": 4,
-    "tags": [
-      "IA",
-      "montage",
-      "tendance"
-    ],
-    "summary_fr": "IA en édition et Rive Brushes, développements clés du workflow créatif et animation numérique actuel."
+    "summary_fr": "Excellent exemple de motion design SaaS professionnel par Bashir Ahmed, source d'inspiration directe."
   },
   {
     "id": "7923b915061c",
@@ -183,87 +202,87 @@
     "meta": {},
     "score": 4,
     "tags": [
-      "IA",
-      "montage",
+      "AI",
+      "After Effects",
       "Rive"
     ],
-    "summary_fr": "IA en édition et outils Rive, tendances majeures pour le workflow motion design contemporain."
+    "summary_fr": "IA dans les apps créatives et nouveaux outils Rive : tendances clés pour optimiser son workflow motion design."
   },
   {
-    "id": "c31060ff659e",
-    "title": "Modeling A Sky Lantern | Blender for Beginners | Fire Effect",
-    "url": "https://www.youtube.com/watch?v=SknkqBAVZ5U",
+    "id": "b44838ebde50",
+    "title": "@ROHVIX3D Connect 2 Edges in Blender With One Key #3danimation #architecture #3dart #blender  #vfx",
+    "url": "https://www.youtube.com/watch?v=f2C3tScb7AU",
     "external_url": null,
     "source": "youtube",
-    "source_name": "TechOneDo",
-    "published": "2026-09-15T13:15:14Z",
-    "thumbnail": "https://i.ytimg.com/vi/SknkqBAVZ5U/hqdefault.jpg",
-    "raw_summary": "In this video we will model a Sky Lantern and we will be using Quick Smoke Effect to create a flame. Version: Blender 5.2 ...",
+    "source_name": "ROHVIX3D",
+    "published": "2026-09-15T13:30:31Z",
+    "thumbnail": "https://i.ytimg.com/vi/f2C3tScb7AU/hqdefault.jpg",
+    "raw_summary": "Welcome to Rohvix3D! In this video, I'm starting my 3D journey with Blender and exploring the process of creating 3D models ...",
     "meta": {},
     "score": 3,
     "tags": [
       "Blender",
-      "simulation smoke",
-      "VFX"
+      "modélisation",
+      "shortcut"
     ],
-    "summary_fr": "Modélisation lanterne volante avec effet de feu. Technique utile pour les simulations atmosphériques basiques."
+    "summary_fr": "Astuce Blender pour connecter deux arêtes rapidement, utile pour le workflow de modélisation."
   },
   {
-    "id": "1a140a45b789",
-    "title": "Animating Flying Sky Lanterns | Blender for Beginners | Flying Effect using Particle System",
-    "url": "https://www.youtube.com/watch?v=taM4DWK8gqE",
+    "id": "8ba0356ee83a",
+    "title": "Blender Tutorial: Make a 3D Plaque with Text &amp; Celtic Knotwork",
+    "url": "https://www.youtube.com/watch?v=jA3ezTE5Fhw",
     "external_url": null,
     "source": "youtube",
-    "source_name": "TechOneDo",
-    "published": "2026-09-15T13:15:09Z",
-    "thumbnail": "https://i.ytimg.com/vi/taM4DWK8gqE/hqdefault.jpg",
-    "raw_summary": "In this video we'll animate Flying Sky Lanterns. We'll be using Particle Systems to simulate launching multiple Sky Lanterns.",
+    "source_name": "Gavin Bain",
+    "published": "2026-09-15T13:11:59Z",
+    "thumbnail": "https://i.ytimg.com/vi/jA3ezTE5Fhw/hqdefault.jpg",
+    "raw_summary": "Learn how to create a personalised Welcome plaque in Blender, with raised 3D text and a Celtic knotwork border made using ...",
     "meta": {},
     "score": 3,
     "tags": [
       "Blender",
-      "particle system",
-      "animation"
+      "texte 3D",
+      "modélisation"
     ],
-    "summary_fr": "Animation systèmes de particules pour lanternes volantes. Applicable pour effets collectifs et animations de masse."
+    "summary_fr": "Création de texte 3D et ornements complexes, utile pour designs titres et graphiques."
   },
   {
-    "id": "88d9bb0eac87",
-    "title": "Trending Parallel Transition l After Effects Tutorial",
-    "url": "https://www.youtube.com/watch?v=Mv-_mq423V4",
+    "id": "ad67508ca9d0",
+    "title": "Free Graph Plugin (Flow Script) - After Effects Tutorial | Iamdhruveditor",
+    "url": "https://www.youtube.com/watch?v=hXrhfa46Sh8",
     "external_url": null,
     "source": "youtube",
-    "source_name": "Yawwn Aep",
-    "published": "2026-09-15T12:44:14Z",
-    "thumbnail": "https://i.ytimg.com/vi/Mv-_mq423V4/hqdefault.jpg",
-    "raw_summary": "''Trending Parallel Transition In After Effects For Beginners'' ''After Effects 2023'' Hope You Like The Video Subscribe For More ...",
+    "source_name": "iamdhruveditor",
+    "published": "2026-09-15T13:01:25Z",
+    "thumbnail": "https://i.ytimg.com/vi/hXrhfa46Sh8/hqdefault.jpg",
+    "raw_summary": "Free Graph Plugin (Flow Script) - After Effects Tutorial | Iamdhruveditor Plugin on Telegram- https://t.me/dhruvsaini7011/131 ...",
     "meta": {},
     "score": 3,
     "tags": [
       "After Effects",
-      "transition",
-      "tendance"
+      "plugin gratuit",
+      "graphiques"
     ],
-    "summary_fr": "Transition parallèle tendance After Effects. Effet visuel actuel mais technique relativement classique."
+    "summary_fr": "Plugin graphique gratuit pour AE, ressource potentiellement utile pour optimiser workflow."
   },
   {
-    "id": "40b3ea2c5ea9",
-    "title": "✏️🔥 Create a Hand Drawn😍 Effect in After Effects ☝️ | Creative Animation Tutorial #viral #vfx #edit",
-    "url": "https://www.youtube.com/watch?v=O9VmIprm8F4",
+    "id": "37e515148ab2",
+    "title": "Video Editing and Motion Design Intro",
+    "url": "https://www.youtube.com/watch?v=BNfq1XWPXJk",
     "external_url": null,
     "source": "youtube",
-    "source_name": "Suraj Editing Tips",
-    "published": "2026-09-15T12:40:13Z",
-    "thumbnail": "https://i.ytimg.com/vi/O9VmIprm8F4/hqdefault.jpg",
-    "raw_summary": "Create a Hand Drawn Effect in After Effects | Creative Animation Tutorial Want to give your videos a unique, handmade and ...",
+    "source_name": "Dan",
+    "published": "2026-09-15T12:36:02Z",
+    "thumbnail": "https://i.ytimg.com/vi/BNfq1XWPXJk/hqdefault.jpg",
+    "raw_summary": "",
     "meta": {},
     "score": 3,
     "tags": [
-      "After Effects",
-      "hand-drawn",
-      "animation"
+      "tutoriel",
+      "Motion Design",
+      "montage vidéo"
     ],
-    "summary_fr": "Effet dessin animé main levée After Effects. Technique classique et populaire, pertinente pour animations créatives."
+    "summary_fr": "Introduction aux fondamentaux du montage vidéo et motion design, utile pour débuter ou réviser les bases."
   },
   {
     "id": "427f0c7ea773",
@@ -280,9 +299,9 @@
     "tags": [
       "Blender",
       "tutoriel",
-      "modeling"
+      "modélisation"
     ],
-    "summary_fr": "Tutoriel sur l'outil Bevel de Blender, technique fondamentale pour le modeling et les détails."
+    "summary_fr": "Tutoriel sur l'outil Bevel de Blender, fondamental pour le modeling 3D mais contenu standard."
   },
   {
     "id": "34cf7ae36875",
@@ -298,10 +317,10 @@
     "score": 3,
     "tags": [
       "3D modeling",
-      "prop design",
-      "breakdown"
+      "breakdown",
+      "prop design"
     ],
-    "summary_fr": "Breakdown détaillé d'un prop 3D réaliste d'un film, inspiration pour le modeling et le texturing."
+    "summary_fr": "Breakdown de prop 3D réaliste pour film d'animation, bonne référence de modeling professionnel."
   },
   {
     "id": "c6baa958243e",
@@ -317,48 +336,10 @@
     "score": 3,
     "tags": [
       "3D modeling",
-      "prop design",
-      "breakdown"
+      "breakdown",
+      "prop design"
     ],
-    "summary_fr": "Breakdown détaillé d'un prop 3D réaliste d'un film, inspiration pour le modeling et le texturing."
-  },
-  {
-    "id": "75be77f8fd55",
-    "title": "Showreel Motion Design 2026",
-    "url": "https://www.youtube.com/watch?v=ht724MZlLyA",
-    "external_url": null,
-    "source": "youtube",
-    "source_name": "Les Services de Eustache",
-    "published": "2026-09-15T10:15:00Z",
-    "thumbnail": "https://i.ytimg.com/vi/ht724MZlLyA/hqdefault.jpg",
-    "raw_summary": "Bonjour à vous Je vous présente mon Showreel en motion design. N'hésitez pas à me contacter.",
-    "meta": {},
-    "score": 3,
-    "tags": [
-      "showreel",
-      "portfolio",
-      "tendance 2026"
-    ],
-    "summary_fr": "Showreel motion design 2026, référence visuelle pour les tendances actuelles du secteur."
-  },
-  {
-    "id": "b0c2855414d2",
-    "title": "Extracorporeal Shock Wave Lithotripsy (ESWL) Step-by-Step Explained #medicalanimation #science",
-    "url": "https://www.youtube.com/watch?v=bGdrJ6ESMNs",
-    "external_url": null,
-    "source": "youtube",
-    "source_name": "Thehealthdiarysl",
-    "published": "2026-09-15T10:00:29Z",
-    "thumbnail": "https://i.ytimg.com/vi/bGdrJ6ESMNs/hqdefault.jpg",
-    "raw_summary": "Discover how modern medical science treats kidney stones without a single incision! In this high-end 3D medical animation, we ...",
-    "meta": {},
-    "score": 3,
-    "tags": [
-      "animation médicale",
-      "3D",
-      "VFX"
-    ],
-    "summary_fr": "Animation 3D médicale complexe, cas d'usage professionnel montrant les capacités de visualisation 3D."
+    "summary_fr": "Duplicate du breakdown Puss in Boots dagger, bonne référence mais contenu identique."
   },
   {
     "id": "978251241cd2",
@@ -373,30 +354,11 @@
     "meta": {},
     "score": 3,
     "tags": [
-      "After Effects",
       "challenge",
-      "motion design"
+      "After Effects",
+      "Motion Design"
     ],
-    "summary_fr": "Défi 30 jours de motion design, source d'inspiration et entraînement aux techniques AE quotidiennes."
-  },
-  {
-    "id": "227e2720d59d",
-    "title": "Motion graphics Show reel 2026",
-    "url": "https://www.youtube.com/watch?v=DEDtbZL2OV0",
-    "external_url": null,
-    "source": "youtube",
-    "source_name": "Lisha Panja",
-    "published": "2026-09-15T06:20:46Z",
-    "thumbnail": "https://i.ytimg.com/vi/DEDtbZL2OV0/hqdefault.jpg",
-    "raw_summary": "Hey Creators & Brands! I am a creative Motion Graphics Designer and Visual Artist!In this video, I am showcasing a compilation of ...",
-    "meta": {},
-    "score": 3,
-    "tags": [
-      "showreel",
-      "motion graphics",
-      "tendance 2026"
-    ],
-    "summary_fr": "Showreel motion graphics 2026, reference visuelle des standards actuels du secteur professionnel."
+    "summary_fr": "Défi 30 jours motion design, bon exercice quotidien pour progresser en After Effects."
   },
   {
     "id": "5c2dbb584127",
@@ -412,28 +374,47 @@
     "score": 3,
     "tags": [
       "IA",
-      "motion design",
-      "tutoriel rapide"
+      "workflow",
+      "tutoriel court"
     ],
-    "summary_fr": "Démonstration rapide d'intégration IA pour créer du motion design, tendance actuelle à explorer."
+    "summary_fr": "Aperçu rapide de l'IA pour motion design, pertinent pour explorer les nouveaux workflows."
   },
   {
-    "id": "b340673ee221",
-    "title": "PVC at IBC 2026: Strada 2.0 Brings Distributed Media and Connects AI Workflows Across the World",
-    "url": "https://www.provideocoalition.com/pvc-at-ibc-2026-strada-2-0-brings-distributed-media-and-connects-ai-workflows-across-the-world/",
+    "id": "f27cc0841874",
+    "title": "ProVideo Coalition’s Best in Show Winners from IBC 2026",
+    "url": "https://www.provideocoalition.com/provideo-coalitions-best-in-show-winners-from-ibc-2026/",
     "external_url": null,
     "source": "rss",
     "source_name": "ProVideo Coalition",
-    "published": "2026-09-14T16:36:41+00:00",
+    "published": "2026-09-14T22:08:56+00:00",
     "thumbnail": null,
-    "raw_summary": "Strada Connect is an impressive feat of peer-to-peer networking that has crossed ProVideo Coalition&#8217;s radar many times in the past, with the platform making its debut at NAB 2026 and soon upping the ante at the following Cine Gear show with Strada 2.0. Now, Strada has come  to Europe to further show off 2.0&#8217;s capabilities [...]<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://www.provideocoalition.com/pvc-at-ibc-2026-strada-2-0-brings-distributed-media-and-conne",
+    "raw_summary": "After a few packed days walking the halls of IBC 2026, we saw everything from major advances in broadcast infrastructure to filmmaking tools small enough to fit in your pocket. The products that impressed us most weren’t simply chasing bigger numbers, they solved real problems for filmmakers, editors, and production teams. These are ProVideo Coalition’s [...]<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://www.provideocoalition.com/provideo-coalitions-best-in-show-winners-",
+    "meta": {},
+    "score": 3,
+    "tags": [
+      "tendance 2026",
+      "outils",
+      "industrie"
+    ],
+    "summary_fr": "Sélection IBC 2026 des meilleurs outils vidéo, indicateur des innovations professionnelles."
+  },
+  {
+    "id": "d79372047ba1",
+    "title": "Clankers are EDITING now? + Rive Gets Brushes | Motion Mondays",
+    "url": "https://www.youtube.com/watch?v=2nqkwFE8wd8",
+    "external_url": null,
+    "source": "youtube",
+    "source_name": "School of Motion",
+    "published": "2026-09-14T16:02:38Z",
+    "thumbnail": "https://i.ytimg.com/vi/2nqkwFE8wd8/hqdefault.jpg",
+    "raw_summary": "This week AI assistants are finding their way into creative apps, Rive is getting closer to that Flash feeling with a new Brush Tool, ...",
     "meta": {},
     "score": 3,
     "tags": [
       "IA",
-      "workflow",
-      "collaboration"
+      "Rive",
+      "tendance"
     ],
-    "summary_fr": "Strada 2.0 intègre IA et workflows distribués, intéressant pour collaboration future en motion design."
+    "summary_fr": "IA en édition et Rive Brush Tool, pertinent pour suivre l'évolution des outils créatifs."
   }
 ]
