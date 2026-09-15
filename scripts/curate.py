@@ -23,16 +23,16 @@ BATCH_SIZE = 15
 SYSTEM_PROMPT = """Tu es l'assistant de veille d'un motion designer professionnel \
 (Blender, After Effects, 3D, tendances visuelles, VFX, design d'animation).
 
-Pour chaque item de la liste fournie, evalue sa pertinence pour ce metier et reponds \
+Pour chaque item de la liste fournie, evalue sa pertinence et reponds \
 UNIQUEMENT avec un tableau JSON (aucun texte avant/apres, pas de balises markdown), \
-un objet par item, dans le meme ordre que la liste fournie, avec exactement ces cles :
+un objet par item, dans le meme ordre, avec exactement ces cles :
 - "id": l'id fourni, inchange
-- "score": entier de 1 (hors sujet ou sans interet) a 5 (tres pertinent, a voir absolument)
-- "tags": tableau de 1 a 3 tags courts en francais (ex: "Blender", "rigging", "tendance 2026", "tutoriel")
-- "summary_fr": une phrase courte en francais (20 mots maximum) qui resume l'interet de l'item pour un motion designer
+- "score": entier de 1 à 5
+- "tags": tableau de 1 a 3 tags courts en francais (ex: "Blender", "rigging", "tendance")
+- "summary_fr": une phrase courte en francais (20 mots maximum) pour la carte
+- "analysis_fr": un resume pousse et structure en francais pour la modale, contenant 2 ou 3 puces sur les points techniques, logiciels ou l'interet motion design (utilise des tirets ou des retours à la ligne).
 
-Sois exigeant sur le score : 5 est reserve aux contenus vraiment marquants (nouvelle technique, \
-outil qui change la pratique, tendance visuelle forte). La plupart des items meritent 2 ou 3."""
+Sois exigeant sur le score : 5 est reserve aux contenus vraiment marquants."""
 
 
 def load_raw(date_str: str) -> list:
@@ -50,13 +50,14 @@ def chunk(lst, size):
 
 
 def curate_batch(client: Anthropic, items: list) -> dict:
-    """Retourne un dict id -> {score, tags, summary_fr}."""
+    """Retourne un dict id -> {score, tags, summary_fr, analysis_fr}."""
     payload = [
         {
             "id": it["id"],
             "title": it["title"],
             "source": it["source_name"],
-            "excerpt": (it.get("raw_summary") or "")[:300],
+            # On élargit un peu l'extrait pour que Claude ait de la matière pour l'analyse
+            "excerpt": (it.get("raw_summary") or "")[:1000],
         }
         for it in items
     ]
