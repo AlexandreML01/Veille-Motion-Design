@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Veille · Motion Design</title>
+<meta name="description" content="Veille quotidienne automatisée : Blender, After Effects, 3D et tendances visuelles.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <div class="wordmark">Veille<span class="dot">·</span>MD</div>
+  <div class="date-control">
+    <label for="date-select" class="visually-hidden">Choisir une date</label>
+    <select id="date-select"></select>
+  </div>
+</header>
+
+<main>
+  <section class="hero">
+    <h1 id="hero-date">—</h1>
+    <p id="hero-sub" class="hero-sub">Chargement…</p>
+  </section>
+
+  <nav class="filters" aria-label="Filtres">
+    <div id="source-filters" class="chip-row"></div>
+    <div id="tag-filters" class="chip-row"></div>
+  </nav>
+
+  <section id="grid" class="grid" aria-live="polite"></section>
+
+  <p id="empty-state" class="empty-state" hidden>
+    Rien à afficher pour cette date. Le prochain scan tourne automatiquement demain matin.
+  </p>
+</main>
+
+<footer class="footer">
+  Généré automatiquement chaque jour via GitHub Actions · Curation par Claude
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>

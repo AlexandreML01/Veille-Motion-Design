@@ -1,0 +1,43 @@
+{
+  "lookback_hours": 30,
+  "reddit": {
+    "enabled": true,
+    "subreddits": [
+      "blender",
+      "vfx",
+      "MotionDesign",
+      "b3d",
+      "AfterEffects",
+      "3Dmodeling"
+    ],
+    "min_upvotes": 5
+  },
+  "youtube": {
+    "enabled": true,
+    "api_key_env": "YOUTUBE_API_KEY",
+    "keywords": [
+      "Blender tutorial",
+      "After Effects tutorial",
+      "motion design 2026",
+      "3D animation breakdown"
+    ],
+    "channels": [
+      {
+        "name": "EXEMPLE - remplace par un vrai channel ID",
+        "channel_id": "UCxxxxxxxxxxxxxxxxxxxxxx"
+      }
+    ],
+    "max_results_per_query": 6
+  },
+  "rss": [
+    { "name": "Blender Nation", "url": "https://www.blendernation.com/feed/" },
+    { "name": "CG Channel", "url": "https://www.cgchannel.com/feed/" },
+    { "name": "ProVideo Coalition", "url": "https://www.provideocoalition.com/feed/" },
+    { "name": "Motionographer", "url": "https://motionographer.com/feed/" },
+    { "name": "Dribbble Stories", "url": "https://dribbble.com/stories.rss" }
+  ],
+  "_notes": {
+    "artstation_behance_dribbble_shots": "ArtStation et Behance n'ont plus d'API publique pour la recherche, et Dribbble ne propose plus de flux RSS par tag (seulement dribbble.com/stories.rss, deja inclus ci-dessus). Pour suivre des galeries precises sur ces plateformes, la solution pratique est un service tiers comme rss.app ou FeedSpot qui genere un flux RSS a partir de n'importe quelle URL (ex: une recherche ArtStation ou un profil Behance) : colle ensuite ce flux genere dans la liste 'rss' ci-dessus, il sera traite comme n'importe quelle autre source RSS.",
+    "youtube_channels": "Remplace l'exemple par de vrais channel_id (visible dans l'URL ou via https://commentpicker.com/youtube-channel-id.php). Les mots-cles 'keywords' fonctionnent sans avoir besoin de channel_id et suffisent pour demarrer."
+  }
+}
