@@ -13,10 +13,10 @@
     "score": 5,
     "tags": [
       "Blender",
-      "tutoriel",
-      "rendu intérieur"
+      "lighting",
+      "tutoriel"
     ],
-    "summary_fr": "Cours Blender complet sur rendus intérieurs photoréalistes, essentiel pour maîtriser l'éclairage et la composition."
+    "summary_fr": "Cours complet sur les rendus intérieurs Blender : techniques de lighting, matériaux et composition très pertinents."
   },
   {
     "id": "f27cc0841874",
@@ -32,10 +32,10 @@
     "score": 4,
     "tags": [
       "tendance 2026",
-      "innovation",
-      "outils"
+      "outils",
+      "innovation"
     ],
-    "summary_fr": "Panorama des meilleurs outils 2026 pour vidéo/animation, synthèse utile des innovations du marché."
+    "summary_fr": "Vue d'ensemble des innovations IBC 2026 : outils et workflows nouveaux impactant motion design et post-production."
   },
   {
     "id": "434a6c5e9ddd",
@@ -54,45 +54,7 @@
       "modeling",
       "technique"
     ],
-    "summary_fr": "11 méthodes pour arêtes vives en Blender, tutoriel technique utile pour hard-surface modeling."
-  },
-  {
-    "id": "7d174b29b2a1",
-    "title": "PVC at IBC 2026: Creamsource Debuts the C3 Full-Color LED Fresnel",
-    "url": "https://www.provideocoalition.com/pvc-at-ibc-2026-creamsource-debuts-the-c3-full-color-led-fresnel/",
-    "external_url": null,
-    "source": "rss",
-    "source_name": "ProVideo Coalition",
-    "published": "2026-09-14T18:00:27+00:00",
-    "thumbnail": null,
-    "raw_summary": "Creamsource made the trip across the ocean to Amsterdam to debut their very first Fresnel at IBC 2026, officially expanding their lineup of high-performance cinematic LED systems. For those unfamiliar, a Fresnel light uses a specialized stepped lens to yield a bright, highly controllable beam. These fixtures deliver punchy hard light, create long throws, and, [...]<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://www.provideocoalition.com/pvc-at-ibc-2026-creamsource-debuts-",
-    "meta": {},
-    "score": 3,
-    "tags": [
-      "éclairage",
-      "LED",
-      "matériel"
-    ],
-    "summary_fr": "Fresnel LED cinématique, pertinent pour éclairage de tournage et VFX en production."
-  },
-  {
-    "id": "9ea039650aca",
-    "title": "PVC at IBC 2026: GVM Redefines Production Lighting with Ultra-Slim F-S Series COBs",
-    "url": "https://www.provideocoalition.com/pvc-at-ibc-2026-gvm-redefines-production-lighting-with-ultra-slim-f-s-series-cobs/",
-    "external_url": null,
-    "source": "rss",
-    "source_name": "ProVideo Coalition",
-    "published": "2026-09-14T17:01:42+00:00",
-    "thumbnail": null,
-    "raw_summary": "Stepping onto the IBC show floor, one of the most intriguing developments in location lighting was getting hands-on with GVM’s new flathead F-S series. Standard point-source lights offer immense power and punch, but their deep, heavy housings often make transport and tight-space rigging a constant struggle. GVM addresses that pain point directly with a lineup [...]<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://www.provideocoalition.com/pvc-at-ibc-2026-gvm-redefines-produ",
-    "meta": {},
-    "score": 3,
-    "tags": [
-      "éclairage",
-      "production",
-      "LED"
-    ],
-    "summary_fr": "Projecteurs LED compacts haute performance, pertinent pour tournages et set-ups contraints."
+    "summary_fr": "11 méthodes pour coins nets Blender : normals, topologie. Technique essentielle pour modeling haute qualité."
   },
   {
     "id": "f722aa3f9d01",
@@ -107,11 +69,30 @@
     "meta": {},
     "score": 2,
     "tags": [
-      "matériel",
+      "équipement",
       "360°",
       "capture"
     ],
-    "summary_fr": "Caméra 360° pour capture, peu pertinent pour motion design en studio mais utile pour contenu immersif."
+    "summary_fr": "Caméra 360° pour professionnels. Utile si capture VR/immersive, mais focus hardware plutôt que création."
+  },
+  {
+    "id": "7d174b29b2a1",
+    "title": "PVC at IBC 2026: Creamsource Debuts the C3 Full-Color LED Fresnel",
+    "url": "https://www.provideocoalition.com/pvc-at-ibc-2026-creamsource-debuts-the-c3-full-color-led-fresnel/",
+    "external_url": null,
+    "source": "rss",
+    "source_name": "ProVideo Coalition",
+    "published": "2026-09-14T18:00:27+00:00",
+    "thumbnail": null,
+    "raw_summary": "Creamsource made the trip across the ocean to Amsterdam to debut their very first Fresnel at IBC 2026, officially expanding their lineup of high-performance cinematic LED systems. For those unfamiliar, a Fresnel light uses a specialized stepped lens to yield a bright, highly controllable beam. These fixtures deliver punchy hard light, create long throws, and, [...]<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://www.provideocoalition.com/pvc-at-ibc-2026-creamsource-debuts-",
+    "meta": {},
+    "score": 2,
+    "tags": [
+      "éclairage",
+      "LED",
+      "production"
+    ],
+    "summary_fr": "Nouvel éclairage LED cinéma. Pertinent pour shooting/production live, moins pour travail studio 3D/motion."
   },
   {
     "id": "bb7e088c8846",
@@ -126,49 +107,30 @@
     "meta": {},
     "score": 2,
     "tags": [
-      "connectique",
+      "connectivité",
       "matériel",
       "workflow"
     ],
-    "summary_fr": "Dock Thunderbolt 5 pour connexions, utile pour workflow mais aspect technique secondaire."
+    "summary_fr": "Dock Thunderbolt 5 pour connectivité. Utile mais secondaire pour motion designer, ne change pas la création."
   },
   {
-    "id": "7c2654346e97",
-    "title": "Blackmagic Design released Blackmagic Camera 10.3 update",
-    "url": "https://www.provideocoalition.com/blackmagic-design-released-blackmagic-camera-10-3-update/",
+    "id": "b340673ee221",
+    "title": "PVC at IBC 2026: Strada 2.0 Brings Distributed Media and Connects AI Workflows Across the World",
+    "url": "https://www.provideocoalition.com/pvc-at-ibc-2026-strada-2-0-brings-distributed-media-and-connects-ai-workflows-across-the-world/",
     "external_url": null,
     "source": "rss",
     "source_name": "ProVideo Coalition",
-    "published": "2026-09-14T16:56:52+00:00",
+    "published": "2026-09-14T16:36:41+00:00",
     "thumbnail": null,
-    "raw_summary": "Blackmagic Camera 10.3 update adds SMPTE-2110 video support to Blackmagic URSA Cine 12K LF, bringing, the company says, “ stunning cinematic quality to live production!”  When the Blackmagic URSA Cine 12K LF is set to SMPTE-2110 Live in the menu, it instantly transforms into a live studio camera, according to the company, meaning that “you [...]<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://www.provideocoalition.com/blackmagic-design-released-blackmagic-camera-10-3-updat",
+    "raw_summary": "Strada Connect is an impressive feat of peer-to-peer networking that has crossed ProVideo Coalition&#8217;s radar many times in the past, with the platform making its debut at NAB 2026 and soon upping the ante at the following Cine Gear show with Strada 2.0. Now, Strada has come  to Europe to further show off 2.0&#8217;s capabilities [...]<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://www.provideocoalition.com/pvc-at-ibc-2026-strada-2-0-brings-distributed-media-and-conne",
     "meta": {},
     "score": 2,
     "tags": [
-      "caméra",
-      "broadcast",
-      "live"
+      "workflow",
+      "AI",
+      "collaboration"
     ],
-    "summary_fr": "Mise à jour caméra broadcast, peu pertinent pour motion design en studio."
-  },
-  {
-    "id": "61d26af9c440",
-    "title": "DJI Mic Mini (2 TX + 1 Mobile RX) live monitoring adventure for complete audio confidence!",
-    "url": "https://www.provideocoalition.com/dji-mic-mini-2-tx-1-mobile-rx-live-monitoring-adventure-for-complete-audio-confidence/",
-    "external_url": null,
-    "source": "rss",
-    "source_name": "ProVideo Coalition",
-    "published": "2026-09-14T15:47:09+00:00",
-    "thumbnail": null,
-    "raw_summary": "m I had a few rounds of email events with their Tech Support. I even had to diplomatically scold them for sending me inaccurate information about their own product in their initial response, after which they escalated the issue, acknowledged their error and apologized. Then, I finally got the proper information and got it to [...]<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://www.provideocoalition.com/dji-mic-mini-2-tx-1-mobile-rx-live-monitoring-adventure-for-complete-a",
-    "meta": {},
-    "score": 2,
-    "tags": [
-      "audio",
-      "matériel",
-      "wireless"
-    ],
-    "summary_fr": "Micro sans fil compact, utile pour production vidéo mais secondaire en motion design."
+    "summary_fr": "Plateforme collaboration et AI distribuée. Intéressant pour teams distantes, peu central pour création motion."
   },
   {
     "id": "521e177fceb8",
@@ -184,29 +146,45 @@
     "score": 2,
     "tags": [
       "monitoring",
-      "matériel",
-      "caméra"
+      "équipement"
     ],
-    "summary_fr": "Moniteurs pour tournage haute luminosité, pertinent surtout pour production extérieure."
+    "summary_fr": "Moniteurs de tournage améliorés. Utile sur set, secondaire pour motion designer travaillant en post/3D."
   },
   {
-    "id": "9be4fd0219df",
-    "title": "VFX portfolio and recruitment site Zerply is closing later this month",
-    "url": "https://www.cgchannel.com/2026/09/vfx-portfolio-and-recruitment-site-zerply-is-closing-later-this-month/",
+    "id": "9ea039650aca",
+    "title": "PVC at IBC 2026: GVM Redefines Production Lighting with Ultra-Slim F-S Series COBs",
+    "url": "https://www.provideocoalition.com/pvc-at-ibc-2026-gvm-redefines-production-lighting-with-ultra-slim-f-s-series-cobs/",
     "external_url": null,
     "source": "rss",
-    "source_name": "CG Channel",
-    "published": "2026-09-14T06:00:37+00:00",
+    "source_name": "ProVideo Coalition",
+    "published": "2026-09-14T17:01:42+00:00",
     "thumbnail": null,
-    "raw_summary": "Well-regarded VFX and animation industry resource shuts down on 28 September. Redirect your URL and retrieve your assets before then.",
+    "raw_summary": "Stepping onto the IBC show floor, one of the most intriguing developments in location lighting was getting hands-on with GVM’s new flathead F-S series. Standard point-source lights offer immense power and punch, but their deep, heavy housings often make transport and tight-space rigging a constant struggle. GVM addresses that pain point directly with a lineup [...]<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://www.provideocoalition.com/pvc-at-ibc-2026-gvm-redefines-produ",
     "meta": {},
-    "score": 2,
+    "score": 1,
     "tags": [
-      "portfolio",
-      "industrie",
-      "ressource"
+      "éclairage",
+      "production"
     ],
-    "summary_fr": "Fermeture plateforme portfolio VFX, information d'impact pour professionnels ayant compte actif."
+    "summary_fr": "Éclairages LED compacts pour tournage sur location. Hors sujet pour motion designer en studio/3D."
+  },
+  {
+    "id": "7c2654346e97",
+    "title": "Blackmagic Design released Blackmagic Camera 10.3 update",
+    "url": "https://www.provideocoalition.com/blackmagic-design-released-blackmagic-camera-10-3-update/",
+    "external_url": null,
+    "source": "rss",
+    "source_name": "ProVideo Coalition",
+    "published": "2026-09-14T16:56:52+00:00",
+    "thumbnail": null,
+    "raw_summary": "Blackmagic Camera 10.3 update adds SMPTE-2110 video support to Blackmagic URSA Cine 12K LF, bringing, the company says, “ stunning cinematic quality to live production!”  When the Blackmagic URSA Cine 12K LF is set to SMPTE-2110 Live in the menu, it instantly transforms into a live studio camera, according to the company, meaning that “you [...]<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://www.provideocoalition.com/blackmagic-design-released-blackmagic-camera-10-3-updat",
+    "meta": {},
+    "score": 1,
+    "tags": [
+      "broadcast",
+      "caméra"
+    ],
+    "summary_fr": "Mise à jour caméra Blackmagic pour live. Infrastructure TV-broadcast, peu pertinent pour motion design."
   },
   {
     "id": "aab6a3d7562f",
@@ -222,28 +200,26 @@
     "score": 1,
     "tags": [
       "broadcast",
-      "infrastructure",
-      "SDI"
+      "infrastructure"
     ],
-    "summary_fr": "Processeur broadcast pour infrastructure live, hors sujet pour motion designer."
+    "summary_fr": "Processeur SDI/IP pour broadcast. Infrastructure professionnelle TV, hors du scope motion design classique."
   },
   {
-    "id": "b340673ee221",
-    "title": "PVC at IBC 2026: Strada 2.0 Brings Distributed Media and Connects AI Workflows Across the World",
-    "url": "https://www.provideocoalition.com/pvc-at-ibc-2026-strada-2-0-brings-distributed-media-and-connects-ai-workflows-across-the-world/",
+    "id": "61d26af9c440",
+    "title": "DJI Mic Mini (2 TX + 1 Mobile RX) live monitoring adventure for complete audio confidence!",
+    "url": "https://www.provideocoalition.com/dji-mic-mini-2-tx-1-mobile-rx-live-monitoring-adventure-for-complete-audio-confidence/",
     "external_url": null,
     "source": "rss",
     "source_name": "ProVideo Coalition",
-    "published": "2026-09-14T16:36:41+00:00",
+    "published": "2026-09-14T15:47:09+00:00",
     "thumbnail": null,
-    "raw_summary": "Strada Connect is an impressive feat of peer-to-peer networking that has crossed ProVideo Coalition&#8217;s radar many times in the past, with the platform making its debut at NAB 2026 and soon upping the ante at the following Cine Gear show with Strada 2.0. Now, Strada has come  to Europe to further show off 2.0&#8217;s capabilities [...]<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://www.provideocoalition.com/pvc-at-ibc-2026-strada-2-0-brings-distributed-media-and-conne",
+    "raw_summary": "m I had a few rounds of email events with their Tech Support. I even had to diplomatically scold them for sending me inaccurate information about their own product in their initial response, after which they escalated the issue, acknowledged their error and apologized. Then, I finally got the proper information and got it to [...]<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://www.provideocoalition.com/dji-mic-mini-2-tx-1-mobile-rx-live-monitoring-adventure-for-complete-a",
     "meta": {},
     "score": 1,
     "tags": [
-      "broadcast",
-      "workflow cloud",
-      "infrastructure"
+      "audio",
+      "équipement"
     ],
-    "summary_fr": "Plateforme cloud pour workflows broadcast, peu pertinent pour motion design traditionnel."
+    "summary_fr": "Microphone sans fil pour production. Essentiel en tournage, moins pertinent pour motion design 3D."
   }
 ]
