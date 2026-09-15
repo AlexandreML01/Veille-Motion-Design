@@ -6,6 +6,7 @@
   --muted: #888888;
   --line: rgba(255, 255, 255, 0.08);
   --radius: 12px;
+  --content-max: 1600px;
   --font-display: "Space Grotesk", sans-serif;
   --font-body: "Inter", sans-serif;
 }
@@ -27,7 +28,7 @@ a { color: inherit; text-decoration: none; }
   position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0);
 }
 
-/* ---------- Topbar (Plein écran, alignée proprement) ---------- */
+/* ---------- Topbar (pleine largeur, contenu centré) ---------- */
 .topbar {
   position: sticky;
   top: 0;
@@ -44,6 +45,8 @@ a { color: inherit; text-decoration: none; }
   justify-content: space-between;
   height: 64px;
   padding: 0 32px;
+  max-width: var(--content-max);
+  margin: 0 auto;
   width: 100%;
 }
 
@@ -77,6 +80,8 @@ a { color: inherit; text-decoration: none; }
 /* ---------- Hero ---------- */
 .hero {
   padding: 36px 32px 20px;
+  max-width: var(--content-max);
+  margin: 0 auto;
   width: 100%;
 }
 
@@ -111,6 +116,8 @@ a { color: inherit; text-decoration: none; }
 /* ---------- Filtres ---------- */
 .filters {
   padding: 0 32px 24px;
+  max-width: var(--content-max);
+  margin: 0 auto;
   display: flex;
   flex-direction: column;
   gap: 12px;
@@ -141,32 +148,38 @@ a { color: inherit; text-decoration: none; }
 .chip.tag-chip { background: rgba(255, 255, 255, 0.03); border: 1px solid var(--line); }
 .chip.tag-chip.active { background: #fff; border-color: #fff; color: #000; }
 
-/* ---------- Grille Fluide (Style Behance) ---------- */
+/* ---------- Grille (ratio fixe, façon Behance : zéro trou) ---------- */
+/* On abandonne le masonry en colonnes CSS (column-count) au profit d'une
+   vraie grille où chaque carte occupe une cellule de même hauteur : les
+   images/placeholders sont recadrés en ratio fixe (object-fit: cover),
+   donc les rangées se remplissent toujours entièrement, même avec peu
+   d'items ou des images de tailles très différentes. */
 .grid {
   padding: 0 32px 64px;
+  max-width: var(--content-max);
+  margin: 0 auto;
   width: 100%;
-  column-count: 5;
-  column-gap: 20px;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 20px;
+  align-items: start;
 }
 
-@media (max-width: 1600px) { .grid { column-count: 4; } }
-@media (max-width: 1200px) { .grid { column-count: 3; } }
-@media (max-width: 800px)  { .grid { column-count: 2; } }
-@media (max-width: 500px)  { 
-  .grid { column-count: 1; padding: 0 16px 48px; }
+@media (max-width: 500px) {
+  .grid { grid-template-columns: 1fr; padding: 0 16px 48px; gap: 16px; }
   .topbar-inner, .hero, .filters { padding-left: 16px; padding-right: 16px; }
 }
 
 .card {
-  display: block;
-  break-inside: avoid;
-  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
   background: var(--surface);
   border-radius: var(--radius);
   overflow: hidden;
   border: 1px solid var(--line);
   cursor: pointer;
   transition: transform 0.2s ease, border-color 0.2s ease;
+  height: 100%;
 }
 
 .card:hover {
@@ -174,27 +187,29 @@ a { color: inherit; text-decoration: none; }
   border-color: rgba(255, 255, 255, 0.2);
 }
 
+/* Ratio fixe pour TOUTE vignette (image réelle ou placeholder) :
+   c'est ce qui garantit une grille pleine, sans trou en bas de colonne. */
 .card-media {
   width: 100%;
+  aspect-ratio: 4 / 3;
   position: relative;
   background: #000;
   overflow: hidden;
   display: flex;
-  align-items: flex-end;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
 }
 
 .card-media img {
   width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
   display: block;
   transition: transform 0.3s ease;
 }
-.card:hover .card-media img { transform: scale(1.02); }
-
-.card-media.placeholder {
-  aspect-ratio: 4 / 3;
-  align-items: center;
-  justify-content: center;
-}
+.card:hover .card-media img { transform: scale(1.04); }
 
 .card-media.placeholder .initial {
   font-family: var(--font-display);
@@ -216,7 +231,12 @@ a { color: inherit; text-decoration: none; }
   border: 1px solid rgba(255, 255, 255, 0.1);
 }
 
-.card-body { padding: 14px 16px 16px; }
+.card-body {
+  padding: 14px 16px 16px;
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+}
 
 .card-title {
   font-family: var(--font-display);
@@ -225,6 +245,12 @@ a { color: inherit; text-decoration: none; }
   line-height: 1.3;
   margin: 0 0 6px;
   color: #fff;
+  /* Coupe proprement les titres trop longs à 2 lignes, pour garder
+     des cartes de hauteur homogène malgré des titres de longueur variable */
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
 }
 
 .card-summary {
@@ -232,12 +258,18 @@ a { color: inherit; text-decoration: none; }
   font-size: 0.83rem;
   margin: 0 0 12px;
   line-height: 1.4;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
 }
 
 .card-footer {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  margin-top: auto;
+  padding-top: 4px;
 }
 
 .card-tags { display: flex; flex-wrap: wrap; gap: 4px; }
@@ -256,6 +288,14 @@ a { color: inherit; text-decoration: none; }
   color: var(--muted);
   font-size: 0.8rem;
   background: var(--bg);
+  max-width: var(--content-max);
+  margin: 0 auto;
+}
+
+/* Si ton HTML utilise un conteneur interne dans le footer, il est aussi centré */
+.footer-inner {
+  max-width: var(--content-max);
+  margin: 0 auto;
 }
 
 .modal-backdrop {
@@ -279,4 +319,14 @@ a { color: inherit; text-decoration: none; }
   background: rgba(255, 255, 255, 0.05); border: none;
   color: var(--ink); width: 32px; height: 32px;
   border-radius: 50%; cursor: pointer; display: flex; align-items: center; justify-content: center;
+}
+
+/* ---------- Accessibilité ---------- */
+@media (prefers-reduced-motion: reduce) {
+  .card, .card-media img { transition: none; }
+}
+
+a:focus-visible, button:focus-visible, select:focus-visible {
+  outline: 2px solid #3b82f6;
+  outline-offset: 2px;
 }
