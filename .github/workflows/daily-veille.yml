@@ -12,6 +12,11 @@ permissions:
 jobs:
   veille:
     runs-on: ubuntu-latest
+    # Définir les secrets ici les rend accessibles à toutes les étapes du job
+    env:
+      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+
     steps:
       - name: Checkout du repo
         uses: actions/checkout@v4
@@ -28,9 +33,6 @@ jobs:
         run: python scripts/collect.py
 
       - name: Curer avec Claude
-        env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
         run: python scripts/curate.py
 
       - name: Commit et push des nouvelles donnees
