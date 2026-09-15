@@ -25,12 +25,10 @@ const SOURCE_LABELS = { reddit: "Reddit", youtube: "YouTube", rss: "Blog" };
 function initModal() {
   if (!els.modal) return;
   
-  // S'assurer qu'elle est bien fermée au démarrage
   els.modal.style.display = "none";
 
   const closeModal = () => {
     els.modal.style.display = "none";
-    // Si une vidéo YouTube jouait, on vide le contenu pour stopper la lecture en fermant
     if (els.modalBody) els.modalBody.innerHTML = "";
   };
 
@@ -51,8 +49,6 @@ function openModal(item) {
   if (!els.modal || !els.modalBody) return;
 
   let mediaHtml = "";
-  
-  // Détecter si c'est une vidéo YouTube pour intégrer le lecteur
   const youtubeId = extractYouTubeId(item.url || item.external_url);
 
   if (youtubeId) {
@@ -103,11 +99,9 @@ function openModal(item) {
     </div>
   `;
 
-  // Afficher la modale en mode flex
   els.modal.style.display = "flex";
 }
 
-// Utilitaire pour extraire l'ID YouTube
 function extractYouTubeId(url) {
   if (!url) return null;
   const regExp = /^.*(youtu.be\/|v\/|u\/\w\/|embed\/|watch\?v=|\&v=)([^#\&\?]*).*/;
@@ -137,7 +131,7 @@ async function init() {
 
   if (state.dates.length === 0) {
     els.heroDate.textContent = "Pas encore de veille";
-    els.heroSub.textContent = "Le premier scan automatique n'a pas encore tourné. Revenez demain, ou lancez le workflow manuellement depuis l'onglet Actions du dépôt.";
+    els.heroSub.textContent = "Le premier scan automatique n'a pas encore tourné. Revenez demain.";
     els.emptyState.hidden = true;
     return;
   }
@@ -185,8 +179,8 @@ function renderHero() {
     els.heroSub.textContent = "Aucune trouvaille ce jour-là.";
     return;
   }
-  // Sous-titre épuré sans redondance de tags
-  els.heroSub.textContent = `${n} trouvaille${n > 1 ? "s" : ""} indexée${n > 1 ? "s" : ""}`;
+  // NETTOYAGE : On affiche uniquement le compteur numérique, plus de tags en doublon !
+  els.heroSub.textContent = `${n} trouvaille${n > 1 ? "s" : ""}`;
 }
 
 function renderFilters() {
