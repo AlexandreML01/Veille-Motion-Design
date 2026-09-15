@@ -124,13 +124,16 @@ def main():
     for it in raw_items:
         curation = scores.get(it["id"])
         if not curation:
-            # Si le modele a saute un item, on le garde quand meme avec des valeurs neutres
+            # Si le modele a saute un item, on lui met un score neutre de 2 (qui sera filtre si < 3)
             curation = {"score": 2, "tags": [], "summary_fr": ""}
         digest.append({**it, **{
             "score": curation.get("score", 2),
             "tags": curation.get("tags", []),
             "summary_fr": curation.get("summary_fr", ""),
         }})
+
+    # Filtrer pour ne garder que les scores 3, 4 et 5 (suppression des scores 1 et 2)
+    digest = [item for item in digest if item.get("score", 0) >= 3]
 
     digest.sort(key=lambda x: x.get("score", 0), reverse=True)
 
@@ -139,7 +142,7 @@ def main():
         json.dump(digest, f, ensure_ascii=False, indent=2)
 
     update_index(today)
-    print(f"Curation terminee : {len(digest)} items -> data/{today}.json")
+    print(f"Curation terminee : {len(digest)} items pertinents (scores 3-5) -> data/{today}.json")
 
 
 if __name__ == "__main__":
