@@ -185,9 +185,8 @@ function renderHero() {
     els.heroSub.textContent = "Aucune trouvaille ce jour-là.";
     return;
   }
-  const topTags = topN(countTags(state.items), 3).map(([t]) => t);
-  const suffix = topTags.length ? ` · ${topTags.join(", ")}` : "";
-  els.heroSub.textContent = `${n} trouvaille${n > 1 ? "s" : ""}${suffix}`;
+  // Sous-titre épuré sans redondance de tags
+  els.heroSub.textContent = `${n} trouvaille${n > 1 ? "s" : ""} indexée${n > 1 ? "s" : ""}`;
 }
 
 function renderFilters() {
