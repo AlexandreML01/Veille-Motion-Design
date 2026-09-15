@@ -100,10 +100,10 @@ def main():
     today = datetime.date.today().isoformat()
     raw_items = load_raw(today)
 
-    # Filtrer d'office les YouTube Shorts (URLs contenant "/shorts/")
+    # Filtrer d'office les YouTube Shorts (avec protection anti-None)
     raw_items = [
         it for it in raw_items 
-        if "/shorts/" not in it.get("url", "") and "/shorts/" not in it.get("external_url", "")
+        if "/shorts/" not in (it.get("url") or "") and "/shorts/" not in (it.get("external_url") or "")
     ]
 
     if not raw_items:
@@ -130,7 +130,6 @@ def main():
         if not curation:
             curation = {"score": 2, "tags": [], "summary_fr": "", "analysis_fr": ""}
         
-        # S'assure que l'analyse est bien présente et distincte du résumé court
         analysis = curation.get("analysis_fr", "")
         summary = curation.get("summary_fr", "")
         if not analysis or analysis == summary:
