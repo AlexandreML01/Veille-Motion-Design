@@ -36,8 +36,6 @@ def item_id(url: str) -> str:
 
 def within_lookback(published_dt: datetime.datetime, lookback_hours: int) -> bool:
     if published_dt is None:
-        # Si on ne connait pas la date de publication, on garde l'item
-        # plutot que de risquer de rater du contenu (les flux RSS mal formes existent).
         return True
     now = datetime.datetime.now(datetime.timezone.utc)
     if published_dt.tzinfo is None:
@@ -97,7 +95,7 @@ def collect_reddit(cfg: dict, lookback_hours: int) -> list:
                 "meta": {"score": score, "num_comments": post.get("num_comments", 0)},
             })
 
-        time.sleep(1)  # politesse envers l'API publique de Reddit
+        time.sleep(1)
 
     return items
 
@@ -123,6 +121,7 @@ def collect_youtube(cfg: dict, lookback_hours: int) -> list:
     ).strftime("%Y-%m-%dT%H:%M:%SZ")
 
     search_url = "https://www.googleapis.com/youtube/v3/search"
+    videos_url = "https://www.googleapis.com/youtube/v3/videos"
 
     def run_search(params):
         params = {
@@ -151,15 +150,48 @@ def collect_youtube(cfg: dict, lookback_hours: int) -> list:
             queries.append({"channelId": cid})
 
     seen_video_ids = set()
+    raw_video_entries = []
+
     for q in queries:
         for entry in run_search(q):
             vid = entry.get("id", {}).get("videoId")
             if not vid or vid in seen_video_ids:
                 continue
             seen_video_ids.add(vid)
+            raw_video_entries.append(entry)
+
+    # Filtrage en amont des Shorts via l'API YouTube (vérification de la durée et du format)
+    if raw_video_entries:
+        video_ids_str = ",".join([e["id"]["videoId"] for e in raw_video_entries])
+        try:
+            v_resp = requests.get(videos_url, params={"part": "contentDetails", "id": video_ids_str, "key": api_key}, timeout=15)
+            v_resp.raise_for_status()
+            details_map = {item["id"]: item["contentDetails"] for item in v_resp.json().get("items", [])}
+        except Exception:
+            details_map = {}
+
+        for entry in raw_video_entries:
+            vid = entry["id"]["videoId"]
+            video_url = f"https://www.youtube.com/watch?v={vid}"
+            
+            # Vérification anti-Shorts costaud
+            details = details_map.get(vid, {})
+            duration_str = details.get("duration", "PT0S")
+            
+            # Convertit la durée ISO 8601 (ex: PT1M30S) en secondes approximatives
+            import re
+            match_m = re.search(r'(\d+)M', duration_str)
+            match_s = re.search(r'(\d+)S', duration_str)
+            match_h = re.search(r'(\d+)H', duration_str)
+            total_seconds = (int(match_h.group(1)) * 3600 if match_h else 0) + \
+                            (int(match_m.group(1)) * 60 if match_m else 0) + \
+                            (int(match_s.group(1)) if match_s else 0)
+
+            # Si la vidéo dure moins de 61 secondes, c'est un Short -> on zappe !
+            if 0 < total_seconds < 61:
+                continue
 
             snippet = entry.get("snippet", {})
-            video_url = f"https://www.youtube.com/watch?v={vid}"
             thumbs = snippet.get("thumbnails", {})
             thumb = (thumbs.get("high") or thumbs.get("medium") or thumbs.get("default") or {}).get("url")
 
@@ -198,6 +230,10 @@ def collect_rss(cfg: dict, lookback_hours: int) -> list:
         for entry in parsed.entries:
             link = entry.get("link")
             if not link:
+                continue
+
+            # Sécurité additionnelle : si un lien RSS pointe vers un Short YouTube
+            if "/shorts/" in link:
                 continue
 
             published_dt = None
@@ -251,7 +287,6 @@ def main():
     all_items += collect_youtube(cfg, lookback_hours)
     all_items += collect_rss(cfg, lookback_hours)
 
-    # Dedoublonnage par id (= hash de l'URL)
     dedup = {item["id"]: item for item in all_items}
     result = list(dedup.values())
     result.sort(key=lambda x: x.get("published") or "", reverse=True)
@@ -262,7 +297,7 @@ def main():
     with open(out_path, "w", encoding="utf-8") as f:
         json.dump(result, f, ensure_ascii=False, indent=2)
 
-    print(f"Collecte terminee : {len(result)} items -> {out_path}")
+    print(f"Collecte terminee : {len(result)} items propres -> {out_path}")
 
 
 if __name__ == "__main__":
