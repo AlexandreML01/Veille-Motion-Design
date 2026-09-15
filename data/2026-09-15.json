@@ -1,24 +1,5 @@
 [
   {
-    "id": "56c230ee822c",
-    "title": "SESSIONS: Interior – Six Blender Interior Scenes, Two Hours Each",
-    "url": "https://www.blendernation.com/2026/09/15/sessions-interior-six-blender-interior-scenes-two-hours-each/",
-    "external_url": null,
-    "source": "rss",
-    "source_name": "Blender Nation",
-    "published": "2026-09-15T07:55:43+00:00",
-    "thumbnail": null,
-    "raw_summary": "Interior is a project-based course about making beautiful interior renders in Blender, one focused scene at a time. Across six sessions, instructor Sascha Feider builds six complete vignettes from a default scene to a polished final image or animation: a sunlit staircase, a coffee corner, a flowing curtain, a marble colonnade, a cabin with a [&#8230;]\n<p><a href=\"https://www.blendernation.com/2026/09/15/sessions-interior-six-blender-interior-scenes-two-hours-each/\" rel=\"nofollow\">Source</a></p>",
-    "meta": {},
-    "score": 5,
-    "tags": [
-      "Blender",
-      "formation complète",
-      "rendering intérieur"
-    ],
-    "summary_fr": "Cours project-based Blender sur 6 scènes intérieures. Formation structurée couvrant rendering et animation."
-  },
-  {
     "id": "e7994e6175a0",
     "title": "NEW COURSE | AI Foundations for Motion Design",
     "url": "https://www.youtube.com/watch?v=jFABc0wAIT8",
@@ -35,7 +16,7 @@
       "formation",
       "motion design"
     ],
-    "summary_fr": "Cours officiel IA Foundations by School of Motion, ressource majeure pour intégrer l'IA au workflow motion design."
+    "summary_fr": "Cours officiel AI Foundations for Motion Design de School of Motion, formation essentielle et très pertinente."
   },
   {
     "id": "d34e4e8d7357",
@@ -54,7 +35,7 @@
       "rigging",
       "technique avancée"
     ],
-    "summary_fr": "Contrôle rigging temps réel sans keyframes. Technique novatrice pour animation puppet-pin avancée."
+    "summary_fr": "Rigging temps réel sans keyframes avec contrôles indirects. Technique innovation pour animation mécanique."
   },
   {
     "id": "2ab748ccfc79",
@@ -69,12 +50,11 @@
     "meta": {},
     "score": 4,
     "tags": [
-      "VFX",
-      "Cinema 4D",
+      "breakdown",
       "Houdini",
-      "luxury design"
+      "VFX professionnel"
     ],
-    "summary_fr": "Breakdown professionnel Valentino avec Houdini/C4D. Inspiration haute qualité, technique mixed-tools."
+    "summary_fr": "Breakdown CGI Valentino avec Houdini et Cinema 4D. Workflow professionnel et liquid effects haut de gamme."
   },
   {
     "id": "ee937f198880",
@@ -93,26 +73,26 @@
       "IA générative",
       "workflow 3D"
     ],
-    "summary_fr": "Triverse AI convertit images en environnements 3D. Technique prometteuse pour accélérer la création d'assets."
+    "summary_fr": "Workflow innovant : générer des environnements 3D depuis une image avec Triverse et Blender."
   },
   {
-    "id": "b4063079d10b",
-    "title": "🎬 **AFTER EFFECTS TUTORIAL | CC Rainfall #bluemoonanimation",
-    "url": "https://www.youtube.com/watch?v=LytpX_p9HNY",
+    "id": "56c230ee822c",
+    "title": "SESSIONS: Interior – Six Blender Interior Scenes, Two Hours Each",
+    "url": "https://www.blendernation.com/2026/09/15/sessions-interior-six-blender-interior-scenes-two-hours-each/",
     "external_url": null,
-    "source": "youtube",
-    "source_name": "Bluemoon Animation",
-    "published": "2026-09-15T12:30:17Z",
-    "thumbnail": "https://i.ytimg.com/vi/LytpX_p9HNY/hqdefault.jpg",
-    "raw_summary": "Want to create a realistic rain effect in After Effects? ☔ Try **CC Rainfall** and give your shots a cinematic rainy look! ✨ Effects ...",
+    "source": "rss",
+    "source_name": "Blender Nation",
+    "published": "2026-09-15T07:55:43+00:00",
+    "thumbnail": null,
+    "raw_summary": "Interior is a project-based course about making beautiful interior renders in Blender, one focused scene at a time. Across six sessions, instructor Sascha Feider builds six complete vignettes from a default scene to a polished final image or animation: a sunlit staircase, a coffee corner, a flowing curtain, a marble colonnade, a cabin with a [&#8230;]\n<p><a href=\"https://www.blendernation.com/2026/09/15/sessions-interior-six-blender-interior-scenes-two-hours-each/\" rel=\"nofollow\">Source</a></p>",
     "meta": {},
     "score": 4,
     "tags": [
-      "After Effects",
-      "effet pluie",
-      "tutoriel"
+      "Blender",
+      "cours complet",
+      "interior design"
     ],
-    "summary_fr": "CC Rainfall pour créer des effets de pluie cinématographiques. Technique incontournable en post-production."
+    "summary_fr": "Cours complet Blender sur les renders d'intérieurs, formation structurée pour maîtriser la 3D architecturale."
   },
   {
     "id": "9ea0fd731745",
@@ -128,10 +108,10 @@
     "score": 4,
     "tags": [
       "Blender",
-      "product viz",
+      "product visualization",
       "breakdown"
     ],
-    "summary_fr": "Breakdown d'une visualisation produit Garnier en Blender. Technique de packaging 3D très pertinente."
+    "summary_fr": "Breakdown détaillé d'une visualisation produit 3D commerciale, cas réel professionnellement pertinent."
   },
   {
     "id": "556952633cc3",
@@ -147,10 +127,10 @@
     "score": 4,
     "tags": [
       "motion design",
-      "explainer video",
+      "explainer",
       "SaaS"
     ],
-    "summary_fr": "Explainer video SaaS professionnel. Bon exemple de motion design commercial et narration visuelle."
+    "summary_fr": "Explainer video professionnel SaaS, excellent exemple de motion design commercial appliqué et efficace."
   },
   {
     "id": "f27cc0841874",
@@ -165,11 +145,11 @@
     "meta": {},
     "score": 4,
     "tags": [
-      "IBC 2026",
-      "innovations",
-      "tendances"
+      "tendance 2026",
+      "outils",
+      "innovation"
     ],
-    "summary_fr": "Synthèse des meilleurs outils et innovations de IBC 2026, essentiel pour rester informé sur l'écosystème professionnel."
+    "summary_fr": "Récapitulatif des meilleures innovations IBC 2026, essentiel pour connaître l'écosystème professionnel actuel."
   },
   {
     "id": "d79372047ba1",
@@ -185,10 +165,10 @@
     "score": 4,
     "tags": [
       "IA",
-      "Rive",
-      "outils"
+      "montage",
+      "tendance"
     ],
-    "summary_fr": "IA intégrée aux outils créatifs et Rive Brush Tool, tendances majeures affectant le motion design."
+    "summary_fr": "IA en édition et Rive Brushes, développements clés du workflow créatif et animation numérique actuel."
   },
   {
     "id": "7923b915061c",
@@ -204,10 +184,10 @@
     "score": 4,
     "tags": [
       "IA",
-      "Rive",
-      "outils créatifs"
+      "montage",
+      "Rive"
     ],
-    "summary_fr": "IA dans les outils créatifs et Rive Brush Tool, contenu clé sur l'évolution des logiciels motion design."
+    "summary_fr": "IA en édition et outils Rive, tendances majeures pour le workflow motion design contemporain."
   },
   {
     "id": "c31060ff659e",
@@ -223,10 +203,10 @@
     "score": 3,
     "tags": [
       "Blender",
-      "VFX",
-      "simulation"
+      "simulation smoke",
+      "VFX"
     ],
-    "summary_fr": "Modélisation lanterne volante avec simulation feu. Utile pour maîtriser smoke et fire effects en Blender."
+    "summary_fr": "Modélisation lanterne volante avec effet de feu. Technique utile pour les simulations atmosphériques basiques."
   },
   {
     "id": "1a140a45b789",
@@ -242,10 +222,10 @@
     "score": 3,
     "tags": [
       "Blender",
-      "animation",
-      "Particle System"
+      "particle system",
+      "animation"
     ],
-    "summary_fr": "Animation lanterne avec particle system. Bon tuto pour maîtriser les systèmes de particules en Blender."
+    "summary_fr": "Animation systèmes de particules pour lanternes volantes. Applicable pour effets collectifs et animations de masse."
   },
   {
     "id": "88d9bb0eac87",
@@ -261,10 +241,10 @@
     "score": 3,
     "tags": [
       "After Effects",
-      "transitions",
+      "transition",
       "tendance"
     ],
-    "summary_fr": "Transition parallèle tendance AE. Effet populaire actuel, bon pour rester à jour sur les styles."
+    "summary_fr": "Transition parallèle tendance After Effects. Effet visuel actuel mais technique relativement classique."
   },
   {
     "id": "40b3ea2c5ea9",
@@ -280,10 +260,29 @@
     "score": 3,
     "tags": [
       "After Effects",
-      "VFX",
-      "animation créative"
+      "hand-drawn",
+      "animation"
     ],
-    "summary_fr": "Effet main dessinée en AE. Technique créative et tendance, applicable à plusieurs styles visuels."
+    "summary_fr": "Effet dessin animé main levée After Effects. Technique classique et populaire, pertinente pour animations créatives."
+  },
+  {
+    "id": "427f0c7ea773",
+    "title": "Mastering the Bevel Tool in Blender!  #blendershorts #blender3d #blendertutorial",
+    "url": "https://www.youtube.com/watch?v=EAfaRRQF9E8",
+    "external_url": null,
+    "source": "youtube",
+    "source_name": "Blender with Dhaval",
+    "published": "2026-09-15T12:30:22Z",
+    "thumbnail": "https://i.ytimg.com/vi/EAfaRRQF9E8/hqdefault.jpg",
+    "raw_summary": "Learn Blender Easily with easy tutorials.. #blender #blender3d #blendertutorial #blenderanimation #blendercommunity ...",
+    "meta": {},
+    "score": 3,
+    "tags": [
+      "Blender",
+      "tutoriel",
+      "modeling"
+    ],
+    "summary_fr": "Tutoriel sur l'outil Bevel de Blender, technique fondamentale pour le modeling et les détails."
   },
   {
     "id": "34cf7ae36875",
@@ -302,7 +301,7 @@
       "prop design",
       "breakdown"
     ],
-    "summary_fr": "Breakdown détaillé d'une arme 3D cinématographique. Inspiration pour la modélisation réaliste d'objets."
+    "summary_fr": "Breakdown détaillé d'un prop 3D réaliste d'un film, inspiration pour le modeling et le texturing."
   },
   {
     "id": "c6baa958243e",
@@ -321,7 +320,45 @@
       "prop design",
       "breakdown"
     ],
-    "summary_fr": "Breakdown détaillé d'une arme 3D cinématographique. Inspiration pour la modélisation réaliste d'objets."
+    "summary_fr": "Breakdown détaillé d'un prop 3D réaliste d'un film, inspiration pour le modeling et le texturing."
+  },
+  {
+    "id": "75be77f8fd55",
+    "title": "Showreel Motion Design 2026",
+    "url": "https://www.youtube.com/watch?v=ht724MZlLyA",
+    "external_url": null,
+    "source": "youtube",
+    "source_name": "Les Services de Eustache",
+    "published": "2026-09-15T10:15:00Z",
+    "thumbnail": "https://i.ytimg.com/vi/ht724MZlLyA/hqdefault.jpg",
+    "raw_summary": "Bonjour à vous Je vous présente mon Showreel en motion design. N'hésitez pas à me contacter.",
+    "meta": {},
+    "score": 3,
+    "tags": [
+      "showreel",
+      "portfolio",
+      "tendance 2026"
+    ],
+    "summary_fr": "Showreel motion design 2026, référence visuelle pour les tendances actuelles du secteur."
+  },
+  {
+    "id": "b0c2855414d2",
+    "title": "Extracorporeal Shock Wave Lithotripsy (ESWL) Step-by-Step Explained #medicalanimation #science",
+    "url": "https://www.youtube.com/watch?v=bGdrJ6ESMNs",
+    "external_url": null,
+    "source": "youtube",
+    "source_name": "Thehealthdiarysl",
+    "published": "2026-09-15T10:00:29Z",
+    "thumbnail": "https://i.ytimg.com/vi/bGdrJ6ESMNs/hqdefault.jpg",
+    "raw_summary": "Discover how modern medical science treats kidney stones without a single incision! In this high-end 3D medical animation, we ...",
+    "meta": {},
+    "score": 3,
+    "tags": [
+      "animation médicale",
+      "3D",
+      "VFX"
+    ],
+    "summary_fr": "Animation 3D médicale complexe, cas d'usage professionnel montrant les capacités de visualisation 3D."
   },
   {
     "id": "978251241cd2",
@@ -337,10 +374,29 @@
     "score": 3,
     "tags": [
       "After Effects",
-      "challenge créatif",
-      "inspiration"
+      "challenge",
+      "motion design"
     ],
-    "summary_fr": "Challenge 30 jours de motion design. Exercice créatif source d'inspiration et tendances."
+    "summary_fr": "Défi 30 jours de motion design, source d'inspiration et entraînement aux techniques AE quotidiennes."
+  },
+  {
+    "id": "227e2720d59d",
+    "title": "Motion graphics Show reel 2026",
+    "url": "https://www.youtube.com/watch?v=DEDtbZL2OV0",
+    "external_url": null,
+    "source": "youtube",
+    "source_name": "Lisha Panja",
+    "published": "2026-09-15T06:20:46Z",
+    "thumbnail": "https://i.ytimg.com/vi/DEDtbZL2OV0/hqdefault.jpg",
+    "raw_summary": "Hey Creators & Brands! I am a creative Motion Graphics Designer and Visual Artist!In this video, I am showcasing a compilation of ...",
+    "meta": {},
+    "score": 3,
+    "tags": [
+      "showreel",
+      "motion graphics",
+      "tendance 2026"
+    ],
+    "summary_fr": "Showreel motion graphics 2026, reference visuelle des standards actuels du secteur professionnel."
   },
   {
     "id": "5c2dbb584127",
@@ -359,6 +415,25 @@
       "motion design",
       "tutoriel rapide"
     ],
-    "summary_fr": "Introduction à la création de motion design assistée par IA, pertinent pour explorer les nouveaux workflows."
+    "summary_fr": "Démonstration rapide d'intégration IA pour créer du motion design, tendance actuelle à explorer."
+  },
+  {
+    "id": "b340673ee221",
+    "title": "PVC at IBC 2026: Strada 2.0 Brings Distributed Media and Connects AI Workflows Across the World",
+    "url": "https://www.provideocoalition.com/pvc-at-ibc-2026-strada-2-0-brings-distributed-media-and-connects-ai-workflows-across-the-world/",
+    "external_url": null,
+    "source": "rss",
+    "source_name": "ProVideo Coalition",
+    "published": "2026-09-14T16:36:41+00:00",
+    "thumbnail": null,
+    "raw_summary": "Strada Connect is an impressive feat of peer-to-peer networking that has crossed ProVideo Coalition&#8217;s radar many times in the past, with the platform making its debut at NAB 2026 and soon upping the ante at the following Cine Gear show with Strada 2.0. Now, Strada has come  to Europe to further show off 2.0&#8217;s capabilities [...]<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://www.provideocoalition.com/pvc-at-ibc-2026-strada-2-0-brings-distributed-media-and-conne",
+    "meta": {},
+    "score": 3,
+    "tags": [
+      "IA",
+      "workflow",
+      "collaboration"
+    ],
+    "summary_fr": "Strada 2.0 intègre IA et workflows distribués, intéressant pour collaboration future en motion design."
   }
 ]
