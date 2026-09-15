@@ -63,7 +63,7 @@ def curate_batch(client: Anthropic, items: list) -> dict:
 
     message = client.messages.create(
         model=MODEL,
-        max_tokens=2000,
+        max_tokens=4000,
         system=SYSTEM_PROMPT,
         messages=[{
             "role": "user",
