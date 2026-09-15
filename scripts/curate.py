@@ -28,7 +28,7 @@ UNIQUEMENT avec un tableau JSON (aucun texte avant/apres, pas de balises markdow
 un objet par item, dans le meme ordre, avec exactement ces cles :
 - "id": l'id fourni, inchange
 - "score": entier de 1 à 5. ATTENTION : Attribue un score de 1 ou 2 aux YouTube Shorts, formats verticaux superficiels ou contenus putaclic. Le score 5 est reserve aux vraies pépites techniques.
-- "tags": tableau de 1 a 3 tags courts en francais (ex: "Blender", "rigging", "tendance")
+- "tags": tableau de 1 ou 2 tags choisis STRICTEMENT parmi cette liste de référence pour éviter la dispersion : ["Blender", "After Effects", "3D", "VFX", "Rigging", "Animation", "Tendance", "Shader", "Tutoriel"]
 - "summary_fr": une phrase courte en francais (20 mots maximum) pour la carte.
 - "analysis_fr": un resume d'expert approfondi et structure en plusieurs puces avec des tirets (-) détaillant les aspects techniques, logiciels ou l'intérêt concret pour un motion designer. Ne répète pas le summary_fr, apporte de la profondeur technique.
 
@@ -142,7 +142,7 @@ def main():
             "analysis_fr": analysis,
         }})
 
-    # Filtrer pour ne garder que les scores 3, 4 et 5
+    # Filtrer pour ne garder que les scores 3, 4 et 5 (ou 2 si tu veux tester l'affichage)
     digest = [item for item in digest if item.get("score", 0) >= 3]
 
     digest.sort(key=lambda x: x.get("score", 0), reverse=True)
@@ -152,7 +152,7 @@ def main():
         json.dump(digest, f, ensure_ascii=False, indent=2)
 
     update_index(today)
-    print(f"Curation terminee : {len(digest)} items pertinents (scores 3-5) -> data/{today}.json")
+    print(f"Curation terminee : {len(digest)} items pertinents -> data/{today}.json")
 
 
 if __name__ == "__main__":
