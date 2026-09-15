@@ -14,13 +14,73 @@ const els = {
   tagFilters: document.getElementById("tag-filters"),
   grid: document.getElementById("grid"),
   emptyState: document.getElementById("empty-state"),
+  modal: document.getElementById("detail-modal"),
+  modalBody: document.getElementById("modal-body"),
+  modalClose: document.getElementById("modal-close"),
 };
 
 const SOURCE_LABELS = { reddit: "Reddit", youtube: "YouTube", rss: "Blog" };
 
+// --- Gestion de la modale ---
+function initModal() {
+  if (!els.modal) return;
+  
+  const closeModal = () => els.modal.setAttribute("hidden", "true");
+
+  els.modalClose.addEventListener("click", closeModal);
+  els.modal.addEventListener("click", (e) => {
+    if (e.target === els.modal) closeModal();
+  });
+  document.addEventListener("keydown", (e) => {
+    if (e.key === "Escape") closeModal();
+  });
+}
+
+function openModal(item) {
+  if (!els.modal || !els.modalBody) return;
+
+  let mediaHtml = "";
+  if (item.thumbnail) {
+    mediaHtml = `<img src="${escapeHtml(item.thumbnail)}" alt="" class="modal-thumb">`;
+  } else {
+    const hue = hashHue(item.source_name || item.source || "veille");
+    mediaHtml = `
+      <div class="card-media placeholder" style="background: linear-gradient(135deg, hsl(${hue} 70% 45%), hsl(${(hue + 40) % 360} 70% 35%)); margin-bottom: 16px; border-radius: var(--radius); min-height: 200px; display: flex; align-items: center; justify-content: center;">
+        <span class="initial" style="font-family: var(--font-display); font-weight: 700; font-size: 2.5rem; color: rgba(255,255,255,0.85);">${(item.source_name || "?").trim().charAt(0).toUpperCase()}</span>
+      </div>
+    `;
+  }
+
+  const sourceName = item.source_name || SOURCE_LABELS[item.source] || item.source || "";
+  const tagsList = (item.tags || []).map(t => `<span>${escapeHtml(t)}</span>`).join("");
+  const targetUrl = item.external_url || item.url || "#";
+
+  els.modalBody.innerHTML = `
+    ${mediaHtml}
+    <span class="source-pill" style="position:static; display:inline-block; margin-bottom:12px;">${escapeHtml(sourceName)}</span>
+    <h2>${escapeHtml(item.title)}</h2>
+    <p>${escapeHtml(item.summary_fr || item.raw_summary || "Aucun résumé disponible.")}</p>
+    <div class="modal-footer-action" style="display: flex; justify-content: space-between; align-items: center; border-top: 1px solid var(--line); padding-top: 16px; flex-wrap: wrap; gap: 12px;">
+      <div class="card-tags">${tagsList}</div>
+      <a href="${escapeHtml(targetUrl)}" target="_blank" rel="noopener noreferrer" class="external-btn">Voir l'original →</a>
+    </div>
+  `;
+
+  els.modal.removeAttribute("hidden");
+}
+
+function escapeHtml(str) {
+  if (!str) return "";
+  return str.replace(/[&<>'"]/g, 
+    tag => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', "'": '&#39;', '"': '&quot;' }[tag] || tag)
+  );
+}
+
 init();
 
 async function init() {
+  initModal();
+
   try {
     const res = await fetch("data/index.json", { cache: "no-store" });
     if (!res.ok) throw new Error("index.json introuvable");
@@ -85,7 +145,6 @@ function renderHero() {
 }
 
 function renderFilters() {
-  // Sources presentes dans le digest du jour
   const sources = [...new Set(state.items.map((it) => it.source))];
   els.sourceFilters.innerHTML = "";
   els.sourceFilters.appendChild(makeChip("Tous", state.activeSource === null, () => {
@@ -102,7 +161,6 @@ function renderFilters() {
     els.sourceFilters.appendChild(chip);
   }
 
-  // Tags presents
   const tagCounts = countTags(state.items);
   const tags = topN(tagCounts, 12).map(([t]) => t);
   els.tagFilters.innerHTML = "";
@@ -147,13 +205,13 @@ function renderGrid() {
 }
 
 function renderCard(item) {
-  const a = document.createElement("a");
-  a.className = "card";
-  a.href = item.external_url || item.url;
-  a.target = "_blank";
-  a.rel = "noopener noreferrer";
+  // On utilise un article cliquable au lieu d'un lien direct
+  const article = document.createElement("article");
+  article.className = "card";
+  article.style.cursor = "pointer";
 
   const media = document.createElement("div");
+  let mediaEl;
   if (item.thumbnail) {
     media.className = "card-media";
     const img = document.createElement("img");
@@ -162,10 +220,10 @@ function renderCard(item) {
     img.alt = "";
     img.onerror = () => { media.replaceWith(placeholderMedia(item)); };
     media.appendChild(img);
+    mediaEl = media;
   } else {
-    media.replaceWith ? null : null;
+    mediaEl = placeholderMedia(item);
   }
-  const mediaEl = item.thumbnail ? media : placeholderMedia(item);
 
   const pill = document.createElement("span");
   pill.className = "source-pill";
@@ -199,13 +257,17 @@ function renderCard(item) {
   }
   footer.appendChild(tagsWrap);
 
-  footer.appendChild(scoreDots(item.score || 0));
-
   body.appendChild(footer);
 
-  a.appendChild(mediaEl);
-  a.appendChild(body);
-  return a;
+  article.appendChild(mediaEl);
+  article.appendChild(body);
+
+  // Ouverture de la modale au clic
+  article.addEventListener("click", () => {
+    openModal(item);
+  });
+
+  return article;
 }
 
 function placeholderMedia(item) {
@@ -220,18 +282,6 @@ function placeholderMedia(item) {
   return div;
 }
 
-function scoreDots(score) {
-  const wrap = document.createElement("div");
-  wrap.className = "score-dots";
-  wrap.setAttribute("aria-label", `Pertinence ${score} sur 5`);
-  for (let i = 1; i <= 5; i++) {
-    const dot = document.createElement("span");
-    if (i <= score) dot.classList.add("filled");
-    wrap.appendChild(dot);
-  }
-  return wrap;
-}
-
 function countTags(items) {
   const counts = {};
   for (const it of items) {
@@ -243,7 +293,7 @@ function countTags(items) {
 }
 
 function topN(countsObj, n) {
-  return Object.entries(countsObj).sort((a, b) => b[1] - a[1]).slice(0, n);
+  return Object.entries(countsObj).sort((a, b) => b[1] - (b[1] || 0)).slice(0, n);
 }
 
 function hashHue(str) {
