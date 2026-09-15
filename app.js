@@ -30,6 +30,8 @@ function initModal() {
 
   const closeModal = () => {
     els.modal.style.display = "none";
+    // Si une vidéo YouTube jouait, on vide le contenu pour stopper la lecture en fermant
+    if (els.modalBody) els.modalBody.innerHTML = "";
   };
 
   if (els.modalClose) {
@@ -49,7 +51,23 @@ function openModal(item) {
   if (!els.modal || !els.modalBody) return;
 
   let mediaHtml = "";
-  if (item.thumbnail) {
+  
+  // Détecter si c'est une vidéo YouTube pour intégrer le lecteur
+  const youtubeId = extractYouTubeId(item.url || item.external_url);
+
+  if (youtubeId) {
+    mediaHtml = `
+      <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: var(--radius); margin-bottom: 16px; background: #000;">
+        <iframe src="https://www.youtube-nocookie.com/embed/${youtubeId}?autoplay=1" 
+                title="YouTube video player" 
+                frameborder="0" 
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                allowfullscreen 
+                style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+        </iframe>
+      </div>
+    `;
+  } else if (item.thumbnail) {
     mediaHtml = `<img src="${escapeHtml(item.thumbnail)}" alt="" class="modal-thumb">`;
   } else {
     const hue = hashHue(item.source_name || item.source || "veille");
@@ -63,20 +81,38 @@ function openModal(item) {
   const sourceName = item.source_name || SOURCE_LABELS[item.source] || item.source || "";
   const tagsList = (item.tags || []).map(t => `<span>${escapeHtml(t)}</span>`).join("");
   const targetUrl = item.external_url || item.url || "#";
+  const btnLabel = youtubeId ? "Ouvrir sur YouTube ↗" : "Voir l'original →";
 
   els.modalBody.innerHTML = `
     ${mediaHtml}
-    <span class="source-pill" style="position:static; display:inline-block; margin-bottom:12px;">${escapeHtml(sourceName)}</span>
-    <h2>${escapeHtml(item.title)}</h2>
-    <p>${escapeHtml(item.summary_fr || item.raw_summary || "Aucun résumé disponible.")}</p>
+    <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 12px;">
+      <span class="source-pill" style="position:static; display:inline-block;">${escapeHtml(sourceName)}</span>
+    </div>
+    <h2 style="font-size: 1.4rem; margin-bottom: 16px;">${escapeHtml(item.title)}</h2>
+    
+    <div style="background: var(--bg); border: 1px solid var(--line); border-radius: var(--radius); padding: 16px; margin-bottom: 24px;">
+      <h3 style="font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--muted); margin: 0 0 8px;">Synthèse & Analyse</h3>
+      <div style="font-size: 0.95rem; line-height: 1.6; color: var(--ink); white-space: pre-line;">
+        ${escapeHtml(item.summary_fr || "Aucun résumé disponible.")}
+      </div>
+    </div>
+
     <div class="modal-footer-action" style="display: flex; justify-content: space-between; align-items: center; border-top: 1px solid var(--line); padding-top: 16px; flex-wrap: wrap; gap: 12px;">
       <div class="card-tags">${tagsList}</div>
-      <a href="${escapeHtml(targetUrl)}" target="_blank" rel="noopener noreferrer" class="external-btn">Voir l'original →</a>
+      <a href="${escapeHtml(targetUrl)}" target="_blank" rel="noopener noreferrer" class="external-btn">${btnLabel}</a>
     </div>
   `;
 
   // Afficher la modale en mode flex
   els.modal.style.display = "flex";
+}
+
+// Utilitaire pour extraire l'ID YouTube
+function extractYouTubeId(url) {
+  if (!url) return null;
+  const regExp = /^.*(youtu.be\/|v\/|u\/\w\/|embed\/|watch\?v=|\&v=)([^#\&\?]*).*/;
+  const match = url.match(regExp);
+  return (match && match[2].length === 11) ? match[2] : null;
 }
 
 function escapeHtml(str) {
