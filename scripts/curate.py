@@ -27,12 +27,12 @@ Pour chaque item de la liste fournie, evalue sa pertinence et reponds \
 UNIQUEMENT avec un tableau JSON (aucun texte avant/apres, pas de balises markdown), \
 un objet par item, dans le meme ordre, avec exactement ces cles :
 - "id": l'id fourni, inchange
-- "score": entier de 1 à 5
+- "score": entier de 1 à 5. ATTENTION : Attribue un score de 1 ou 2 aux YouTube Shorts, formats verticaux superficiels ou contenus putaclic. Le score 5 est reserve aux vraies pépites techniques.
 - "tags": tableau de 1 a 3 tags courts en francais (ex: "Blender", "rigging", "tendance")
-- "summary_fr": une phrase courte en francais (20 mots maximum) pour la carte
-- "analysis_fr": un resume pousse et structure en francais pour la modale, contenant 2 ou 3 puces sur les points techniques, logiciels ou l'interet motion design (utilise des tirets ou des retours à la ligne).
+- "summary_fr": une phrase courte en francais (20 mots maximum) pour la carte.
+- "analysis_fr": un resume d'expert approfondi et structure en plusieurs puces avec des tirets (-) détaillant les aspects techniques, logiciels ou l'intérêt concret pour un motion designer. Ne répète pas le summary_fr, apporte de la profondeur technique.
 
-Sois exigeant sur le score : 5 est reserve aux contenus vraiment marquants."""
+Sois extrêmement exigeant sur le score."""
 
 
 def load_raw(date_str: str) -> list:
@@ -56,7 +56,6 @@ def curate_batch(client: Anthropic, items: list) -> dict:
             "id": it["id"],
             "title": it["title"],
             "source": it["source_name"],
-            # On élargit un peu l'extrait pour que Claude ait de la matière pour l'analyse
             "excerpt": (it.get("raw_summary") or "")[:1000],
         }
         for it in items
@@ -73,7 +72,6 @@ def curate_batch(client: Anthropic, items: list) -> dict:
     )
 
     text = "".join(block.text for block in message.content if block.type == "text").strip()
-    # Securite : au cas ou le modele encapsule malgre tout dans des balises markdown
     text = text.removeprefix("```json").removeprefix("```").removesuffix("```").strip()
 
     try:
@@ -102,9 +100,14 @@ def main():
     today = datetime.date.today().isoformat()
     raw_items = load_raw(today)
 
+    # Filtrer d'office les YouTube Shorts (URLs contenant "/shorts/")
+    raw_items = [
+        it for it in raw_items 
+        if "/shorts/" not in it.get("url", "") and "/shorts/" not in it.get("external_url", "")
+    ]
+
     if not raw_items:
         print("Rien a curer aujourd'hui.")
-        # On ecrit quand meme un digest vide pour que le front ait quelque chose de coherent
         with open(DATA_DIR / f"{today}.json", "w", encoding="utf-8") as f:
             json.dump([], f, ensure_ascii=False, indent=2)
         update_index(today)
@@ -125,16 +128,22 @@ def main():
     for it in raw_items:
         curation = scores.get(it["id"])
         if not curation:
-            # Si le modele a saute un item, on lui met un score neutre de 2
             curation = {"score": 2, "tags": [], "summary_fr": "", "analysis_fr": ""}
+        
+        # S'assure que l'analyse est bien présente et distincte du résumé court
+        analysis = curation.get("analysis_fr", "")
+        summary = curation.get("summary_fr", "")
+        if not analysis or analysis == summary:
+            analysis = f"- Analyse technique non détaillée pour cet item.\n- Consultez le lien d'origine pour en savoir plus."
+
         digest.append({**it, **{
             "score": curation.get("score", 2),
             "tags": curation.get("tags", []),
-            "summary_fr": curation.get("summary_fr", ""),
-            "analysis_fr": curation.get("analysis_fr", curation.get("summary_fr", "")),
+            "summary_fr": summary,
+            "analysis_fr": analysis,
         }})
 
-    # Filtrer pour ne garder que les scores 3, 4 et 5 (suppression des scores 1 et 2)
+    # Filtrer pour ne garder que les scores 3, 4 et 5
     digest = [item for item in digest if item.get("score", 0) >= 3]
 
     digest.sort(key=lambda x: x.get("score", 0), reverse=True)
