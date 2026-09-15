@@ -13,29 +13,124 @@
     "score": 5,
     "tags": [
       "Blender",
-      "tutoriel",
+      "formation",
       "rendering"
     ],
-    "summary_fr": "Cours Blender complet sur renders intérieurs photoréalistes. Excellente ressource pédagogique pour maîtriser la mise en scène."
+    "summary_fr": "Cours complet Blender sur les intérieurs professionnels, ressource d'apprentissage majeure."
   },
   {
-    "id": "bf9c94a9c476",
-    "title": "Adobe releases After Effects 26.5, plus experimental new AI Assistant",
-    "url": "https://www.cgchannel.com/2026/09/adobe-releases-after-effects-26-5-and-new-ai-assistant-in-beta/",
+    "id": "d79372047ba1",
+    "title": "Clankers are EDITING now? + Rive Gets Brushes | Motion Mondays",
+    "url": "https://www.youtube.com/watch?v=2nqkwFE8wd8",
     "external_url": null,
-    "source": "rss",
-    "source_name": "CG Channel",
-    "published": "2026-09-09T16:13:46+00:00",
-    "thumbnail": null,
-    "raw_summary": "Check out the new features in compositing and motion graphics app, including the new agentic AI Assistant in the current beta build.",
+    "source": "youtube",
+    "source_name": "School of Motion",
+    "published": "2026-09-14T16:02:38Z",
+    "thumbnail": "https://i.ytimg.com/vi/2nqkwFE8wd8/hqdefault.jpg",
+    "raw_summary": "This week AI assistants are finding their way into creative apps, Rive is getting closer to that Flash feeling with a new Brush Tool, ...",
     "meta": {},
     "score": 5,
     "tags": [
-      "After Effects",
-      "AI Assistant",
-      "mise à jour majeure"
+      "AI",
+      "tendance 2026",
+      "Rive brushes"
     ],
-    "summary_fr": "After Effects 26.5 avec nouvel AI Assistant agentic. Évolution fondamentale du workflow motion design."
+    "summary_fr": "IA dans les apps créatives et Rive Brush Tool : évolutions critiques pour motion designers en 2026."
+  },
+  {
+    "id": "e7994e6175a0",
+    "title": "NEW COURSE | AI Foundations for Motion Design",
+    "url": "https://www.youtube.com/watch?v=jFABc0wAIT8",
+    "external_url": null,
+    "source": "youtube",
+    "source_name": "School of Motion",
+    "published": "2026-09-14T13:59:07Z",
+    "thumbnail": "https://i.ytimg.com/vi/jFABc0wAIT8/hqdefault.jpg",
+    "raw_summary": "We are excited to release AI Foundations for Motion, an intermediate course taught by School of Motion founder Joey Korenman.",
+    "meta": {},
+    "score": 5,
+    "tags": [
+      "AI",
+      "formation",
+      "School of Motion"
+    ],
+    "summary_fr": "Cours IA Foundations for Motion : formation essentielle sur l'intégration IA dans motion design 2026."
+  },
+  {
+    "id": "2ab748ccfc79",
+    "title": "Valentino Liquid Smear breakdown #c4d #aftereffects #design #beauty",
+    "url": "https://www.youtube.com/watch?v=9D4I1eBacak",
+    "external_url": null,
+    "source": "youtube",
+    "source_name": "Brett McManus",
+    "published": "2026-09-15T12:34:11Z",
+    "thumbnail": "https://i.ytimg.com/vi/9D4I1eBacak/hqdefault.jpg",
+    "raw_summary": "Another process breakdown from a CGI film I created for Valentino lipstick. This shot involved a mix of Houdini and Cinema 4D, ...",
+    "meta": {},
+    "score": 4,
+    "tags": [
+      "C4D",
+      "Houdini",
+      "breakdown professional"
+    ],
+    "summary_fr": "Breakdown d'un projet commercial Valentino mixant Houdini et C4D, cas d'étude inspiration pour VFX beauté."
+  },
+  {
+    "id": "339ba565f5f5",
+    "title": "Create This Viral Carousel Animation in 30 Seconds! 🔥 #aetools",
+    "url": "https://www.youtube.com/watch?v=hUinBGog6I8",
+    "external_url": null,
+    "source": "youtube",
+    "source_name": "Motionsfly",
+    "published": "2026-09-15T11:56:03Z",
+    "thumbnail": "https://i.ytimg.com/vi/hUinBGog6I8/hqdefault.jpg",
+    "raw_summary": "Before you spend hours creating carousel animations in After Effects, try this plugin! ⚡ ✨ Create stunning carousel animations in ...",
+    "meta": {},
+    "score": 4,
+    "tags": [
+      "After Effects",
+      "plugin",
+      "animation carousel"
+    ],
+    "summary_fr": "Plugin After Effects pour créer rapidement des animations de carousel virales."
+  },
+  {
+    "id": "c6baa958243e",
+    "title": "3D Weapon Prop Breakdown: Dagger from &quot;Puss in Boots: The Last Wish&quot; (Realistic Style)",
+    "url": "https://www.youtube.com/watch?v=mQdY1exqb_E",
+    "external_url": null,
+    "source": "youtube",
+    "source_name": "Bryan",
+    "published": "2026-09-15T11:00:24Z",
+    "thumbnail": "https://i.ytimg.com/vi/mQdY1exqb_E/hqdefault.jpg",
+    "raw_summary": "Welcome to my 3D prop showcase. This model is a realistic interpretation of the dagger from the movie \"Puss in Boots: The Last ...",
+    "meta": {},
+    "score": 4,
+    "tags": [
+      "3D",
+      "modélisation",
+      "breakdown"
+    ],
+    "summary_fr": "Breakdown détaillé d'une arme 3D réaliste, source d'inspiration pour les props."
+  },
+  {
+    "id": "9ea0fd731745",
+    "title": "Garnier 3D project breakdown🔥🎨 #blender #blender3d #productvisualization #3danimation #shorts",
+    "url": "https://www.youtube.com/watch?v=h7-AyhyqMGY",
+    "external_url": null,
+    "source": "youtube",
+    "source_name": "bylarty ",
+    "published": "2026-09-15T07:21:58Z",
+    "thumbnail": "https://i.ytimg.com/vi/h7-AyhyqMGY/hqdefault.jpg",
+    "raw_summary": "In this video, I break down how I created my Garnier 3D product visualization in Blender. I originally created 6 scenes for the ...",
+    "meta": {},
+    "score": 4,
+    "tags": [
+      "Blender",
+      "product visualization",
+      "breakdown"
+    ],
+    "summary_fr": "Breakdown d'une visualisation produit Garnier en Blender, cas d'usage professionnel."
   },
   {
     "id": "f27cc0841874",
@@ -51,10 +146,86 @@
     "score": 4,
     "tags": [
       "tendance 2026",
-      "innovation",
-      "outils"
+      "outils",
+      "IBC"
     ],
-    "summary_fr": "Innovations IBC 2026 impactant la production vidéo et animation. Bon aperçu des nouvelles solutions techniques du marché."
+    "summary_fr": "Panorama des innovations IBC 2026 : nouvelles solutions filming et outils pratiques pour motion designers et éditeurs."
+  },
+  {
+    "id": "ac1c5ea40a87",
+    "title": "Motion design workflow: from sketch to final render #animation #design #motion",
+    "url": "https://www.youtube.com/watch?v=jNW_CmkosQE",
+    "external_url": null,
+    "source": "youtube",
+    "source_name": "Anmol Lakra",
+    "published": "2026-09-14T18:40:58Z",
+    "thumbnail": "https://i.ytimg.com/vi/jNW_CmkosQE/hqdefault.jpg",
+    "raw_summary": "Watch the complete 2D animation process from initial sketch to final render. See how to design a box that opens to release custom ...",
+    "meta": {},
+    "score": 4,
+    "tags": [
+      "workflow",
+      "tutoriel",
+      "2D animation"
+    ],
+    "summary_fr": "Démonstration complète du processus 2D : du sketch à la final render, processus clé pour motion designers."
+  },
+  {
+    "id": "142d29dba69b",
+    "title": "Micro Showreel: Brand Identity in Motion",
+    "url": "https://www.youtube.com/watch?v=zP3zEu0tPOA",
+    "external_url": null,
+    "source": "youtube",
+    "source_name": "Disgrace Design",
+    "published": "2026-09-14T18:23:54Z",
+    "thumbnail": "https://i.ytimg.com/vi/zP3zEu0tPOA/hqdefault.jpg",
+    "raw_summary": "A selection of brand identities brought to life through art direction, animation and motion design by Disgrace Design.",
+    "meta": {},
+    "score": 4,
+    "tags": [
+      "branding",
+      "motion design",
+      "inspiration"
+    ],
+    "summary_fr": "Identités de marques animées : direction artistique et timing, cas d'école du motion design moderne."
+  },
+  {
+    "id": "c4e287970ac7",
+    "title": "AK EDITS | Minimalist Logo Animation | Creative Motion Design",
+    "url": "https://www.youtube.com/watch?v=AWIoHNSTDHM",
+    "external_url": null,
+    "source": "youtube",
+    "source_name": "A.K. EDiTS",
+    "published": "2026-09-14T17:37:17Z",
+    "thumbnail": "https://i.ytimg.com/vi/AWIoHNSTDHM/hqdefault.jpg",
+    "raw_summary": "A clean and minimalist AK EDITS logo animation created with a focus on smooth motion, timing and modern visual design.",
+    "meta": {},
+    "score": 4,
+    "tags": [
+      "logo animation",
+      "minimalism",
+      "timing"
+    ],
+    "summary_fr": "Animation logo épurée : excellent exemple de motion design minimaliste avec focus sur timing et fluidité."
+  },
+  {
+    "id": "7923b915061c",
+    "title": "Clankers are EDITING now?! + Rive Gets Brushes | Motion Mondays",
+    "url": "https://www.youtube.com/watch?v=ue1t9LUlSjY",
+    "external_url": null,
+    "source": "youtube",
+    "source_name": "School of Motion",
+    "published": "2026-09-14T12:00:24Z",
+    "thumbnail": "https://i.ytimg.com/vi/ue1t9LUlSjY/hqdefault.jpg",
+    "raw_summary": "AI assistants are finding their way into creative apps, Rive is getting closer to that Flash feeling with a new Brush Tool, and After ...",
+    "meta": {},
+    "score": 4,
+    "tags": [
+      "IA créative",
+      "After Effects",
+      "tendance 2026"
+    ],
+    "summary_fr": "AI dans les apps créatives et nouvelle brush tool Rive : évolutions majeures pour l'animation et l'édition."
   },
   {
     "id": "434a6c5e9ddd",
@@ -70,10 +241,10 @@
     "score": 4,
     "tags": [
       "Blender",
-      "techniques",
-      "modélisation"
+      "modélisation 3D",
+      "technique"
     ],
-    "summary_fr": "11 techniques Blender pour angles aigus et normales. Guide technique très utile pour modélisation précise."
+    "summary_fr": "11 méthodes pour gérer les arêtes vives en Blender : fondamental pour la qualité 3D et les normales."
   },
   {
     "id": "3590577edbaf",
@@ -88,68 +259,30 @@
     "meta": {},
     "score": 4,
     "tags": [
-      "VFX",
+      "breakdown technique",
       "Houdini",
       "inspiration"
     ],
-    "summary_fr": "Breakdowns projets étudiants Gnomon. Excellente source d'inspiration technique et processus créatif."
+    "summary_fr": "Making-ofs de projets primés : analyses techniques et visuelles inspirantes pour la pratique."
   },
   {
-    "id": "87ba5737759e",
-    "title": "Caustify – a free, open-source spectral dispersion path tracer",
-    "url": "https://www.blendernation.com/2026/09/13/caustify-a-free-open-source-spectral-dispersion-path-tracer/",
+    "id": "73a4c69f2160",
+    "title": "Raccord parfait",
+    "url": "https://www.youtube.com/watch?v=6-ADs7cARzo",
     "external_url": null,
-    "source": "rss",
-    "source_name": "Blender Nation",
-    "published": "2026-09-13T15:55:53+00:00",
-    "thumbnail": null,
-    "raw_summary": "Immineal shares a rendering experiment. Cycles (like most RGB path tracers) approximates chromatic dispersion, the way glass bends different wavelengths by different amounts, by nudging the IOR per RGB channel. That&#8217;s a shortcut: real dispersion is a continuous function of wavelength, not three samples of it, and it&#8217;s most visible exactly where you&#8217;d want it, [&#8230;]\n<p><a href=\"https://www.blendernation.com/2026/09/13/caustify-a-free-open-source-spectral-dispersion-path-trac",
+    "source": "youtube",
+    "source_name": "Benjamin Cerbai",
+    "published": "2026-09-12T15:04:35Z",
+    "thumbnail": "https://i.ytimg.com/vi/6-ADs7cARzo/hqdefault.jpg",
+    "raw_summary": "Le point d'attention entre les plans est le moyen de guider le regard d'un plan à un autre. Dans cette séquence de Ratatouille, ...",
     "meta": {},
     "score": 4,
     "tags": [
-      "rendering",
-      "shader",
-      "open-source"
+      "direction artistique",
+      "montage",
+      "Ratatouille"
     ],
-    "summary_fr": "Path tracer spectral Caustify pour dispersion chromatique réaliste. Innovation rendu avancée très pertinente."
-  },
-  {
-    "id": "0b316a6abc6e",
-    "title": "New CG software you may have missed: 13 September 2026",
-    "url": "https://www.cgchannel.com/2026/09/new-cg-software-you-may-have-missed-13-september-2026/",
-    "external_url": null,
-    "source": "rss",
-    "source_name": "CG Channel",
-    "published": "2026-09-13T06:00:06+00:00",
-    "thumbnail": null,
-    "raw_summary": "Check out the week's other updates to CG tools, like HDR Light Studio, free Maya rigging toolset mGear, and SwitchX, Beeble's VFX AI model.",
-    "meta": {},
-    "score": 4,
-    "tags": [
-      "outils CG",
-      "mise à jour logiciels",
-      "VFX AI"
-    ],
-    "summary_fr": "Panorama hebdomadaire des nouveaux outils CG incluant SwitchX et mGear. Essentiel pour rester à jour."
-  },
-  {
-    "id": "710ddeaffb1e",
-    "title": "An NPR Horror Animation",
-    "url": "https://www.blendernation.com/2026/09/12/a-npr-horror-animation/",
-    "external_url": null,
-    "source": "rss",
-    "source_name": "Blender Nation",
-    "published": "2026-09-12T15:55:00+00:00",
-    "thumbnail": null,
-    "raw_summary": "Someone Ate Her Pizza&#8230; That was a mistake. Agu Rex UD writes: This is an animation I made in Blender. It&#8217;s in an anime style. I rendered the animated characters and car in blender and then drew the background in Krita and added the lighting effects in Tahoma2D\n<p><a href=\"https://www.blendernation.com/2026/09/12/a-npr-horror-animation/\" rel=\"nofollow\">Source</a></p>",
-    "meta": {},
-    "score": 4,
-    "tags": [
-      "animation stylisée",
-      "NPR",
-      "pipeline multi-logiciels"
-    ],
-    "summary_fr": "Animation anime Blender + Krita. Démontre les tendances actuelles en stylisation 2D/3D hybride."
+    "summary_fr": "Analyse du raccord parfait entre plans : fondamental pour la narration visuelle en motion design."
   },
   {
     "id": "f0cca538bf37",
@@ -166,9 +299,9 @@
     "tags": [
       "concept art",
       "matte painting",
-      "film VFX"
+      "ILM"
     ],
-    "summary_fr": "Masterclass ILM sur concept art et matte painting. Formation professionnelle de très haut niveau."
+    "summary_fr": "Masterclass ILM sur concept art et matte painting : expertise film de haut niveau pour l'apprentissage."
   },
   {
     "id": "be954209fd32",
@@ -184,10 +317,29 @@
     "score": 4,
     "tags": [
       "Blender",
-      "éclairage",
-      "addon productivité"
+      "lighting",
+      "productivité"
     ],
-    "summary_fr": "Addon complet 37 rigs d'éclairage studio et portrait. Gain de productivité majeur pour motion design."
+    "summary_fr": "Addon Blender pour créer des rigs d'éclairage professionnels en un clic avec 37 présets."
+  },
+  {
+    "id": "8b972c580c85",
+    "title": "EDGY - C4D &amp; Blender plugin that bakes cracks and other damage into the mesh?! | Motion Mondays",
+    "url": "https://www.youtube.com/watch?v=Bv1rAJz7wfA",
+    "external_url": null,
+    "source": "youtube",
+    "source_name": "School of Motion",
+    "published": "2026-09-10T14:03:06Z",
+    "thumbnail": "https://i.ytimg.com/vi/Bv1rAJz7wfA/hqdefault.jpg",
+    "raw_summary": "EDGY, by 3D artist Cornelius Dämmrich, is a new wear-and-tear plugin for C4D and Blender that actually modifies the geometry, ...",
+    "meta": {},
+    "score": 4,
+    "tags": [
+      "Blender",
+      "C4D",
+      "wear-and-tear"
+    ],
+    "summary_fr": "Plugin EDGY qui bake usure et dégâts directement dans la géométrie Blender/C4D."
   },
   {
     "id": "9d4f47d1771e",
@@ -203,29 +355,48 @@
     "score": 4,
     "tags": [
       "Redshift",
-      "GPU rendering",
+      "rendu GPU",
       "mise à jour"
     ],
-    "summary_fr": "Redshift 2026.9 avec updates Redshift Live. Mise à jour majeure du renderer production essentiel."
+    "summary_fr": "Redshift 2026.9 : nouvelles fonctionnalités du moteur de rendu GPU et Redshift Live."
   },
   {
-    "id": "1a1163518d78",
-    "title": "Discover Future Associate’s VFX and postvis for Mortal Kombat II",
-    "url": "https://www.cgchannel.com/2026/09/discover-future-associates-postvis-and-vfx-for-mortal-kombat-ii/",
+    "id": "bf9c94a9c476",
+    "title": "Adobe releases After Effects 26.5, plus experimental new AI Assistant",
+    "url": "https://www.cgchannel.com/2026/09/adobe-releases-after-effects-26-5-and-new-ai-assistant-in-beta/",
     "external_url": null,
     "source": "rss",
     "source_name": "CG Channel",
-    "published": "2026-09-10T05:53:58+00:00",
+    "published": "2026-09-09T16:13:46+00:00",
     "thumbnail": null,
-    "raw_summary": "Discover the studio's EmberGen-augmented postvis and final VFX for the martial arts movie's Red Throne Room and Netherworld sequences.",
+    "raw_summary": "Check out the new features in compositing and motion graphics app, including the new agentic AI Assistant in the current beta build.",
     "meta": {},
     "score": 4,
     "tags": [
-      "VFX film",
-      "postvis",
-      "case study"
+      "After Effects",
+      "IA",
+      "mise à jour"
     ],
-    "summary_fr": "VFX et postvis Future Associate Mortal Kombat II. Cas d'étude professionnel de haut niveau."
+    "summary_fr": "After Effects 26.5 avec nouvel Assistant IA expérimental pour motion graphics."
+  },
+  {
+    "id": "b87694fab863",
+    "title": "The C4D Tag That Makes Procedural Animation SUPER Easy! | Quick Tips",
+    "url": "https://www.youtube.com/watch?v=hf1eMmk4OXk",
+    "external_url": null,
+    "source": "youtube",
+    "source_name": "School of Motion",
+    "published": "2026-09-09T14:02:33Z",
+    "thumbnail": "https://i.ytimg.com/vi/hf1eMmk4OXk/hqdefault.jpg",
+    "raw_summary": "The Field Driver Tag in Cinema 4D is one of those hidden gems! Drive any object parameter with Fields - perfect for procedural ...",
+    "meta": {},
+    "score": 4,
+    "tags": [
+      "Cinema 4D",
+      "animation procédurale",
+      "trick"
+    ],
+    "summary_fr": "Field Driver Tag C4D pour animer des paramètres d'objet de manière procédurale."
   },
   {
     "id": "d321c94af5d9",
@@ -240,68 +411,372 @@
     "meta": {},
     "score": 4,
     "tags": [
-      "Fusion Studio",
-      "compositing 3D",
-      "motion graphics"
+      "Fusion",
+      "motion graphics",
+      "compositing"
     ],
-    "summary_fr": "Mise à jour Fusion avec nouveaux outils Krokodove et améliorations compositing et correction optique."
+    "summary_fr": "Fusion 21.1 apporte les outils Krokodove pour motion graphics, améliore la composition et correction optique."
   },
   {
-    "id": "b340673ee221",
-    "title": "PVC at IBC 2026: Strada 2.0 Brings Distributed Media and Connects AI Workflows Across the World",
-    "url": "https://www.provideocoalition.com/pvc-at-ibc-2026-strada-2-0-brings-distributed-media-and-connects-ai-workflows-across-the-world/",
+    "id": "da7cbbd0bb89",
+    "title": "Adobe&#39;s been BUSY! AE Beta, Photoshop 27.10, Illustrator 30.8 | Motion Mondays",
+    "url": "https://www.youtube.com/watch?v=uT7ZMaEWOVI",
     "external_url": null,
-    "source": "rss",
-    "source_name": "ProVideo Coalition",
-    "published": "2026-09-14T16:36:41+00:00",
-    "thumbnail": null,
-    "raw_summary": "Strada Connect is an impressive feat of peer-to-peer networking that has crossed ProVideo Coalition&#8217;s radar many times in the past, with the platform making its debut at NAB 2026 and soon upping the ante at the following Cine Gear show with Strada 2.0. Now, Strada has come  to Europe to further show off 2.0&#8217;s capabilities [...]<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://www.provideocoalition.com/pvc-at-ibc-2026-strada-2-0-brings-distributed-media-and-conne",
+    "source": "youtube",
+    "source_name": "School of Motion",
+    "published": "2026-09-08T16:06:15Z",
+    "thumbnail": "https://i.ytimg.com/vi/uT7ZMaEWOVI/hqdefault.jpg",
+    "raw_summary": "Adobe was BUSY last week, rolling out updates across After Effects, Photoshop and Illustrator! Get the full scoop on Motion ...",
+    "meta": {},
+    "score": 4,
+    "tags": [
+      "After Effects",
+      "mise à jour",
+      "ecosystem Adobe"
+    ],
+    "summary_fr": "Mises à jour simultanées AE, Photoshop, Illustrator : à suivre pour les dernières évolutions du workflow motion."
+  },
+  {
+    "id": "40b3ea2c5ea9",
+    "title": "✏️🔥 Create a Hand Drawn😍 Effect in After Effects ☝️ | Creative Animation Tutorial #viral #vfx #edit",
+    "url": "https://www.youtube.com/watch?v=O9VmIprm8F4",
+    "external_url": null,
+    "source": "youtube",
+    "source_name": "Suraj Editing Tips",
+    "published": "2026-09-15T12:40:13Z",
+    "thumbnail": "https://i.ytimg.com/vi/O9VmIprm8F4/hqdefault.jpg",
+    "raw_summary": "Create a Hand Drawn Effect in After Effects | Creative Animation Tutorial Want to give your videos a unique, handmade and ...",
     "meta": {},
     "score": 3,
     "tags": [
-      "collaboration",
-      "AI",
-      "tendance 2026"
+      "After Effects",
+      "animation hand-drawn",
+      "tutoriel"
     ],
-    "summary_fr": "Plateforme collaboration distribuée avec workflows IA. Pertinent pour équipes motion design collaboratives."
+    "summary_fr": "Tutoriel sur l'effet hand-drawn en After Effects, technique classique utile pour les animations créatives."
   },
   {
-    "id": "4319b4c51c94",
-    "title": "How to Make a Low Poly Stylized Hand Painted Shield",
-    "url": "https://www.blendernation.com/2026/09/13/how-to-make-a-low-poly-stylized-hand-painted-shield/",
+    "id": "ee937f198880",
+    "title": "Blender &amp; Triverse:I Built an RPG Game Environment from an Image#rpg #blender",
+    "url": "https://www.youtube.com/watch?v=on0XHHHLfgw",
     "external_url": null,
-    "source": "rss",
-    "source_name": "Blender Nation",
-    "published": "2026-09-13T07:00:09+00:00",
-    "thumbnail": null,
-    "raw_summary": "In this Blender tutorial Ryan King creates a game ready low poly stylized hand painted shield 3d model.\n<p><a href=\"https://www.blendernation.com/2026/09/13/how-to-make-a-low-poly-stylized-hand-painted-shield/\" rel=\"nofollow\">Source</a></p>",
+    "source": "youtube",
+    "source_name": "Triverse AI",
+    "published": "2026-09-15T12:30:21Z",
+    "thumbnail": "https://i.ytimg.com/vi/on0XHHHLfgw/hqdefault.jpg",
+    "raw_summary": "From a single image to an RPG game environment. I used Triverse Image to 3D to turn the visual concept into 3D assets, then ...",
     "meta": {},
     "score": 3,
     "tags": [
       "Blender",
-      "modélisation low poly",
-      "stylisation"
+      "IA",
+      "asset 3D"
     ],
-    "summary_fr": "Tutoriel sur la création d'un bouclier 3D stylisé. Technique utile pour game design et assets motion."
+    "summary_fr": "Utilisation d'IA pour générer environnements 3D depuis images, tendance émergente pour workflow rapide."
   },
   {
-    "id": "b8cfbd85a2bb",
-    "title": "Best of Blender Artists: 2026-37",
-    "url": "https://www.blendernation.com/2026/09/12/best-of-blender-artists-2026-37/",
+    "id": "3177001ac65b",
+    "title": "How to Model a Rope FAST in Blender",
+    "url": "https://www.youtube.com/watch?v=73FqFskSp2E",
     "external_url": null,
-    "source": "rss",
-    "source_name": "Blender Nation",
-    "published": "2026-09-12T08:18:53+00:00",
-    "thumbnail": null,
-    "raw_summary": "Every week, hundreds of artists share their work on the Blender Artists forum. I&#8217;m putting some of the best work in the spotlight in a weekly post here on BlenderNation.\n<p><a href=\"https://www.blendernation.com/2026/09/12/best-of-blender-artists-2026-37/\" rel=\"nofollow\">Source</a></p>",
+    "source": "youtube",
+    "source_name": "BlenderGuruji",
+    "published": "2026-09-15T12:20:05Z",
+    "thumbnail": "https://i.ytimg.com/vi/73FqFskSp2E/hqdefault.jpg",
+    "raw_summary": "In this quick Blender tutorial, I'll show you a simple technique to create a rope model using the Screw Modifier instead of manually ...",
     "meta": {},
     "score": 3,
     "tags": [
-      "inspiration",
-      "portfolios",
-      "tendances"
+      "Blender",
+      "modélisation",
+      "optimisation"
     ],
-    "summary_fr": "Sélection hebdomadaire des meilleurs travaux Blender Artists. Bonne source d'inspiration et de tendances."
+    "summary_fr": "Technique rapide pour modéliser une corde avec Screw Modifier, astuce utile de workflow."
+  },
+  {
+    "id": "ec19ffd3b2d0",
+    "title": "Abraham Lincoln Bust Statue (Blender Sculpting Tutorial)",
+    "url": "https://www.youtube.com/watch?v=Jp4wvPxMJiI",
+    "external_url": null,
+    "source": "youtube",
+    "source_name": "Ryan King Art",
+    "published": "2026-09-15T12:00:21Z",
+    "thumbnail": "https://i.ytimg.com/vi/Jp4wvPxMJiI/hqdefault.jpg",
+    "raw_summary": "In this Blender sculpting tutorial I show the full process of how I made this Abraham Lincoln bust statue.* *Artwork on ...",
+    "meta": {},
+    "score": 3,
+    "tags": [
+      "Blender",
+      "sculpting",
+      "tutoriel process"
+    ],
+    "summary_fr": "Tutoriel sculpting Blender complet sur statue, utile pour développer compétences sculpting."
+  },
+  {
+    "id": "34cf7ae36875",
+    "title": "3D Weapon Prop Breakdown: Dagger from &quot;Puss in Boots: The Last Wish&quot; (Realistic Style)",
+    "url": "https://www.youtube.com/watch?v=QNDWo8IXUec",
+    "external_url": null,
+    "source": "youtube",
+    "source_name": "Bryan",
+    "published": "2026-09-15T12:00:04Z",
+    "thumbnail": "https://i.ytimg.com/vi/QNDWo8IXUec/hqdefault.jpg",
+    "raw_summary": "Welcome to my 3D prop showcase. This model is a realistic interpretation of the dagger from the movie \"Puss in Boots: The Last ...",
+    "meta": {},
+    "score": 3,
+    "tags": [
+      "3D prop",
+      "breakdown",
+      "modeling"
+    ],
+    "summary_fr": "Breakdown 3D d'accessoire film cinéma, inspiration pour modeling et texturing réaliste."
+  },
+  {
+    "id": "7b0f51d50588",
+    "title": "I Made a SPIDER ROBOT in Blender! 🕷️ | Modeling, UVs, Texturing Tutorial",
+    "url": "https://www.youtube.com/watch?v=dV_Dljs7_Zs",
+    "external_url": null,
+    "source": "youtube",
+    "source_name": "Magic vertex",
+    "published": "2026-09-15T12:00:03Z",
+    "thumbnail": "https://i.ytimg.com/vi/dV_Dljs7_Zs/hqdefault.jpg",
+    "raw_summary": "Welcome to my channel! I'm a 3D Artist passionate about creating stylized characters, game-ready assets, shaders, materials, and ...",
+    "meta": {},
+    "score": 3,
+    "tags": [
+      "Blender",
+      "modeling",
+      "texturing rigging"
+    ],
+    "summary_fr": "Tutoriel complet modeling + UV + texturing d'asset stylisé, process pédagogique solide."
+  },
+  {
+    "id": "f0fa43b29c76",
+    "title": "How to Create Motion Graphics Reels in After Effects | Beginner Tutorial",
+    "url": "https://www.youtube.com/watch?v=W3MpbSh_zn0",
+    "external_url": null,
+    "source": "youtube",
+    "source_name": "Usman Explains",
+    "published": "2026-09-15T11:59:21Z",
+    "thumbnail": "https://i.ytimg.com/vi/W3MpbSh_zn0/hqdefault.jpg",
+    "raw_summary": "Learn how to create modern motion graphics reels in After Effects with this beginner-friendly tutorial! In this video, I'll walk you ...",
+    "meta": {},
+    "score": 3,
+    "tags": [
+      "After Effects",
+      "motion graphics",
+      "tutoriel"
+    ],
+    "summary_fr": "Tutoriel reels motion graphics After Effects, basique mais pertinent pour portfolio et démos."
+  },
+  {
+    "id": "34584355ef32",
+    "title": "Think 3D modeling is difficult? Think again! 🔥In this reel, see how you can create realistic stairs",
+    "url": "https://www.youtube.com/watch?v=eowXBBXWdYM",
+    "external_url": null,
+    "source": "youtube",
+    "source_name": "UBGOT Academy",
+    "published": "2026-09-15T11:58:12Z",
+    "thumbnail": "https://i.ytimg.com/vi/eowXBBXWdYM/hqdefault.jpg",
+    "raw_summary": "Think 3D modeling is difficult? Think again! In this reel, see how you can create realistic stairs in Blender step by step.",
+    "meta": {},
+    "score": 3,
+    "tags": [
+      "Blender",
+      "modélisation",
+      "tutoriel"
+    ],
+    "summary_fr": "Tutoriel Blender sur la modélisation d'escaliers réalistes, accessible aux débutants."
+  },
+  {
+    "id": "fc8c9a9066ae",
+    "title": "&quot;Smooth Text Animation&quot; | After Effects Tutorial || #tutorial #short",
+    "url": "https://www.youtube.com/watch?v=dPfqc6wpbs8",
+    "external_url": null,
+    "source": "youtube",
+    "source_name": "h7n_Editz",
+    "published": "2026-09-15T11:50:47Z",
+    "thumbnail": "https://i.ytimg.com/vi/dPfqc6wpbs8/hqdefault.jpg",
+    "raw_summary": "\"Smooth Text Animation\" | After Effects Tutorial || #tutorial #short ----------------------------------------------- Editing Software :After Effects ...",
+    "meta": {},
+    "score": 3,
+    "tags": [
+      "After Effects",
+      "animation texte",
+      "tutoriel"
+    ],
+    "summary_fr": "Tutoriel After Effects sur les animations de texte fluides et lisses."
+  },
+  {
+    "id": "75be77f8fd55",
+    "title": "Showreel Motion Design 2026",
+    "url": "https://www.youtube.com/watch?v=ht724MZlLyA",
+    "external_url": null,
+    "source": "youtube",
+    "source_name": "Les Services de Eustache",
+    "published": "2026-09-15T10:15:00Z",
+    "thumbnail": "https://i.ytimg.com/vi/ht724MZlLyA/hqdefault.jpg",
+    "raw_summary": "Bonjour à vous Je vous présente mon Showreel en motion design. N'hésitez pas à me contacter.",
+    "meta": {},
+    "score": 3,
+    "tags": [
+      "showreel",
+      "portfolio",
+      "motion design"
+    ],
+    "summary_fr": "Showreel motion design 2026, référence pour les tendances actuelles du domaine."
+  },
+  {
+    "id": "978251241cd2",
+    "title": "😼Day 15 of 30 Days 30 Motion Designs #30daychallenge #aftereffects #motiondesign",
+    "url": "https://www.youtube.com/watch?v=Q8tOjSyv40I",
+    "external_url": null,
+    "source": "youtube",
+    "source_name": "Motion Lenser",
+    "published": "2026-09-15T07:33:59Z",
+    "thumbnail": "https://i.ytimg.com/vi/Q8tOjSyv40I/hqdefault.jpg",
+    "raw_summary": "",
+    "meta": {},
+    "score": 3,
+    "tags": [
+      "After Effects",
+      "challenge",
+      "motion design"
+    ],
+    "summary_fr": "Défi 30 jours motion design, source d'inspiration et d'idées créatives."
+  },
+  {
+    "id": "227e2720d59d",
+    "title": "Motion graphics Show reel 2026",
+    "url": "https://www.youtube.com/watch?v=DEDtbZL2OV0",
+    "external_url": null,
+    "source": "youtube",
+    "source_name": "Lisha Panja",
+    "published": "2026-09-15T06:20:46Z",
+    "thumbnail": "https://i.ytimg.com/vi/DEDtbZL2OV0/hqdefault.jpg",
+    "raw_summary": "Hey Creators & Brands! I am a creative Motion Graphics Designer and Visual Artist!In this video, I am showcasing a compilation of ...",
+    "meta": {},
+    "score": 3,
+    "tags": [
+      "showreel",
+      "portfolio",
+      "motion graphics"
+    ],
+    "summary_fr": "Showreel motion graphics 2026, référence visuelle pour les tendances du secteur."
+  },
+  {
+    "id": "e08210f0468e",
+    "title": "👋Seamless transitions and smooth motion design.",
+    "url": "https://www.youtube.com/watch?v=zcz14doQPyM",
+    "external_url": null,
+    "source": "youtube",
+    "source_name": "Jalal Motion",
+    "published": "2026-09-14T23:53:12Z",
+    "thumbnail": "https://i.ytimg.com/vi/zcz14doQPyM/hqdefault.jpg",
+    "raw_summary": "Looking for custom edits? Send me a DM or check the link in bio. ......................................................................... #aftereffectsedit ...",
+    "meta": {},
+    "score": 3,
+    "tags": [
+      "After Effects",
+      "transitions",
+      "animation"
+    ],
+    "summary_fr": "Tutoriel sur les transitions fluides et animations motion design en After Effects."
+  },
+  {
+    "id": "55a7d0194c10",
+    "title": "COMBAT ROBOTICS TEAM DALHOUSIE UNIVERSITY | Industrial Motion Design Animation",
+    "url": "https://www.youtube.com/watch?v=E493c5UNPdA",
+    "external_url": null,
+    "source": "youtube",
+    "source_name": "John Torres3D",
+    "published": "2026-09-14T19:36:37Z",
+    "thumbnail": "https://i.ytimg.com/vi/E493c5UNPdA/hqdefault.jpg",
+    "raw_summary": "A motion design animation created for the **Dalhousie University Combat Robotics Team**, showcasing their combat robot ...",
+    "meta": {},
+    "score": 3,
+    "tags": [
+      "portfolio",
+      "animation 3D",
+      "cas d'usage"
+    ],
+    "summary_fr": "Animation 3D d'un robot de combat : exemple concret de motion design appliqué à des projets industriels."
+  },
+  {
+    "id": "87ba5737759e",
+    "title": "Caustify – a free, open-source spectral dispersion path tracer",
+    "url": "https://www.blendernation.com/2026/09/13/caustify-a-free-open-source-spectral-dispersion-path-tracer/",
+    "external_url": null,
+    "source": "rss",
+    "source_name": "Blender Nation",
+    "published": "2026-09-13T15:55:53+00:00",
+    "thumbnail": null,
+    "raw_summary": "Immineal shares a rendering experiment. Cycles (like most RGB path tracers) approximates chromatic dispersion, the way glass bends different wavelengths by different amounts, by nudging the IOR per RGB channel. That&#8217;s a shortcut: real dispersion is a continuous function of wavelength, not three samples of it, and it&#8217;s most visible exactly where you&#8217;d want it, [&#8230;]\n<p><a href=\"https://www.blendernation.com/2026/09/13/caustify-a-free-open-source-spectral-dispersion-path-trac",
+    "meta": {},
+    "score": 3,
+    "tags": [
+      "rendu",
+      "Blender",
+      "dispersion spectrale"
+    ],
+    "summary_fr": "Path tracer open-source pour dispersion chromatique réaliste : technique avancée de rendu innovante."
+  },
+  {
+    "id": "0b316a6abc6e",
+    "title": "New CG software you may have missed: 13 September 2026",
+    "url": "https://www.cgchannel.com/2026/09/new-cg-software-you-may-have-missed-13-september-2026/",
+    "external_url": null,
+    "source": "rss",
+    "source_name": "CG Channel",
+    "published": "2026-09-13T06:00:06+00:00",
+    "thumbnail": null,
+    "raw_summary": "Check out the week's other updates to CG tools, like HDR Light Studio, free Maya rigging toolset mGear, and SwitchX, Beeble's VFX AI model.",
+    "meta": {},
+    "score": 3,
+    "tags": [
+      "outils CG",
+      "tendance",
+      "mises à jour"
+    ],
+    "summary_fr": "Nouveaux outils CG : HDR Light Studio, mGear, SwitchX VFX IA à surveiller pour workflow."
+  },
+  {
+    "id": "710ddeaffb1e",
+    "title": "An NPR Horror Animation",
+    "url": "https://www.blendernation.com/2026/09/12/a-npr-horror-animation/",
+    "external_url": null,
+    "source": "rss",
+    "source_name": "Blender Nation",
+    "published": "2026-09-12T15:55:00+00:00",
+    "thumbnail": null,
+    "raw_summary": "Someone Ate Her Pizza&#8230; That was a mistake. Agu Rex UD writes: This is an animation I made in Blender. It&#8217;s in an anime style. I rendered the animated characters and car in blender and then drew the background in Krita and added the lighting effects in Tahoma2D\n<p><a href=\"https://www.blendernation.com/2026/09/12/a-npr-horror-animation/\" rel=\"nofollow\">Source</a></p>",
+    "meta": {},
+    "score": 3,
+    "tags": [
+      "animation NPR",
+      "Blender",
+      "inspiration"
+    ],
+    "summary_fr": "Animation style anime en Blender avec post-production : exemple inspirant de pipeline hybride créatif."
+  },
+  {
+    "id": "a9df6c8a127e",
+    "title": "CGI Animated Short Film: &quot;SOURCE&quot; Animation Short Film by ESMA | CGMeetup",
+    "url": "https://www.youtube.com/watch?v=LjRvU8muVeg",
+    "external_url": null,
+    "source": "youtube",
+    "source_name": "CGMeetup",
+    "published": "2026-09-12T15:30:21Z",
+    "thumbnail": "https://i.ytimg.com/vi/LjRvU8muVeg/hqdefault.jpg",
+    "raw_summary": "CGI 3D Animated Short Film: SOURCE Animated Short Film by ESMA. Featured on CGMeetup Gallery ...",
+    "meta": {},
+    "score": 3,
+    "tags": [
+      "animation 3D",
+      "court-métrage",
+      "inspiration"
+    ],
+    "summary_fr": "Court-métrage 3D d'école : source d'inspiration pour direction artistique et techniques animées."
   },
   {
     "id": "2deecbd274e2",
@@ -318,9 +793,9 @@
     "tags": [
       "Blender",
       "optimisation",
-      "extension gratuite"
+      "extension libre"
     ],
-    "summary_fr": "Extension gratuite pour tracer et optimiser les performances Blender. Utile pour gros projets."
+    "summary_fr": "Extension SceneTrace pour optimiser performance Blender : outil pratique pour debug render."
   },
   {
     "id": "d00e1ac9e8bf",
@@ -335,30 +810,49 @@
     "meta": {},
     "score": 3,
     "tags": [
-      "Gaussian Splatting",
-      "3D",
-      "technologie émergente"
+      "3D Gaussian Splats",
+      "VFX",
+      "technologie"
     ],
-    "summary_fr": "Update SuperSplat 3.0 pour visualiser millions de Gaussians. Technologie pertinente pour VFX futur."
+    "summary_fr": "Mise à jour majeure de l'éditeur Gaussian Splats pour meilleures performances de visualisation 3D."
   },
   {
-    "id": "5a3847b3e9ac",
-    "title": "MAKE’s 2026 Animation Thesis Grant Now Open to Support the Next Generation of Animators",
-    "url": "https://motionographer.com/news/makes-2026-animation-thesis-grant-now-open-to-support-the-next-generation-of-animators/",
+    "id": "1a1163518d78",
+    "title": "Discover Future Associate’s VFX and postvis for Mortal Kombat II",
+    "url": "https://www.cgchannel.com/2026/09/discover-future-associates-postvis-and-vfx-for-mortal-kombat-ii/",
     "external_url": null,
     "source": "rss",
-    "source_name": "Motionographer",
-    "published": "2026-09-09T14:26:21+00:00",
-    "thumbnail": "https://s35726.pcdn.co/wp-content/uploads/2026/09/MakeThesisGrant_2025_Thumbnail_16x9_v001-700x394.jpg",
-    "raw_summary": "MAKE, the creative studio known for impactful animation and original storytelling, has officially opened applications for the 2026 MAKE Animation Thesis Grant. The annual program offers senior animation students funding, production resources, and promotional visibility to help bring their thesis films to life exactly as envisioned. Launched in 2024, the grant was created to champion...  <a class=\"excerpt-read-more\" href=\"https://motionographer.com/news/makes-2026-animation-thesis-grant-now-open-",
+    "source_name": "CG Channel",
+    "published": "2026-09-10T05:53:58+00:00",
+    "thumbnail": null,
+    "raw_summary": "Discover the studio's EmberGen-augmented postvis and final VFX for the martial arts movie's Red Throne Room and Netherworld sequences.",
     "meta": {},
     "score": 3,
     "tags": [
-      "opportunité",
-      "financement",
-      "étudiants"
+      "VFX",
+      "postvis",
+      "case study"
     ],
-    "summary_fr": "Programme de bourse pour étudiants en animation avec ressources de production et visibilité professionnelle."
+    "summary_fr": "Breakdown VFX et postvis de Future Associate pour Mortal Kombat II."
+  },
+  {
+    "id": "fffed5b08dff",
+    "title": "We Tried to Light This Scene While Exhausted | Behind the Render Ep. 6",
+    "url": "https://www.youtube.com/watch?v=nwBpkCPFG0s",
+    "external_url": null,
+    "source": "youtube",
+    "source_name": "Greyscalegorilla",
+    "published": "2026-09-09T16:33:39Z",
+    "thumbnail": "https://i.ytimg.com/vi/nwBpkCPFG0s/hqdefault.jpg",
+    "raw_summary": "Let's learn how chad sets up realistic practical lighting in Cinema 4D. See what's new in Cargo, and learn how we problem solve ...",
+    "meta": {},
+    "score": 3,
+    "tags": [
+      "Cinema 4D",
+      "lighting",
+      "tutoriel"
+    ],
+    "summary_fr": "Tutoriel Greyscalegorilla sur l'éclairage pratique réaliste en C4D avec Cargo."
   },
   {
     "id": "d905e738924d",
@@ -375,9 +869,123 @@
     "tags": [
       "DaVinci Resolve",
       "VFX",
-      "color grading"
+      "édition"
     ],
-    "summary_fr": "Mise à jour majeure de DaVinci Resolve pour VFX et coloristes avec nouvelles fonctionnalités."
+    "summary_fr": "Resolve 21.1 apporte améliorations VFX et color grading, outil polyvalent pour motion designers intéressés par édition."
+  },
+  {
+    "id": "23f1fbb30e1b",
+    "title": "Blender 5.2.1 Tutorial for Beginners 🔥 | Create Your First 3D Model Step by Step!📽️005",
+    "url": "https://www.youtube.com/watch?v=l_t8gfRyMPk",
+    "external_url": null,
+    "source": "youtube",
+    "source_name": "Creative Capsule",
+    "published": "2026-09-15T12:30:28Z",
+    "thumbnail": "https://i.ytimg.com/vi/l_t8gfRyMPk/hqdefault.jpg",
+    "raw_summary": "Want to learn Blender 5.2.1 from scratch? In this beginner-friendly Blender tutorial, you'll learn the basics of 3D modeling, ...",
+    "meta": {},
+    "score": 2,
+    "tags": [
+      "Blender",
+      "tutoriel débutant",
+      "modélisation"
+    ],
+    "summary_fr": "Tutoriel Blender 5.2.1 basique pour débutants, contenu d'introduction peu pertinent pour un professionnel."
+  },
+  {
+    "id": "427f0c7ea773",
+    "title": "Mastering the Bevel Tool in Blender!  #blendershorts #blender3d #blendertutorial",
+    "url": "https://www.youtube.com/watch?v=EAfaRRQF9E8",
+    "external_url": null,
+    "source": "youtube",
+    "source_name": "Blender with Dhaval",
+    "published": "2026-09-15T12:30:22Z",
+    "thumbnail": "https://i.ytimg.com/vi/EAfaRRQF9E8/hqdefault.jpg",
+    "raw_summary": "Learn Blender Easily with easy tutorials.. #blender #blender3d #blendertutorial #blenderanimation #blendercommunity ...",
+    "meta": {},
+    "score": 2,
+    "tags": [
+      "Blender",
+      "outils",
+      "tutoriel court"
+    ],
+    "summary_fr": "Tuto rapide sur l'outil Bevel, technique commune peu novatrice pour un motion designer expérimenté."
+  },
+  {
+    "id": "b4063079d10b",
+    "title": "🎬 **AFTER EFFECTS TUTORIAL | CC Rainfall #bluemoonanimation",
+    "url": "https://www.youtube.com/watch?v=LytpX_p9HNY",
+    "external_url": null,
+    "source": "youtube",
+    "source_name": "Bluemoon Animation",
+    "published": "2026-09-15T12:30:17Z",
+    "thumbnail": "https://i.ytimg.com/vi/LytpX_p9HNY/hqdefault.jpg",
+    "raw_summary": "Want to create a realistic rain effect in After Effects? ☔ Try **CC Rainfall** and give your shots a cinematic rainy look! ✨ Effects ...",
+    "meta": {},
+    "score": 2,
+    "tags": [
+      "After Effects",
+      "effets",
+      "tutoriel"
+    ],
+    "summary_fr": "Tutoriel sur CC Rainfall, effet standard After Effects utile mais basique pour créer de la pluie."
+  },
+  {
+    "id": "74d23548a058",
+    "title": "create cool split text in #aftereffects",
+    "url": "https://www.youtube.com/watch?v=XyVBINmTnQc",
+    "external_url": null,
+    "source": "youtube",
+    "source_name": "Motion by Dk",
+    "published": "2026-09-15T12:30:06Z",
+    "thumbnail": "https://i.ytimg.com/vi/XyVBINmTnQc/hqdefault.jpg",
+    "raw_summary": "",
+    "meta": {},
+    "score": 2,
+    "tags": [
+      "After Effects",
+      "animation texte",
+      "tutoriel court"
+    ],
+    "summary_fr": "Tuto court sur animation texte split, technique courante sans détails ou innovation apparente."
+  },
+  {
+    "id": "a4a99398e866",
+    "title": "I Made This in Blender in Under 10 Minutes #blendertutorial #3dart #cgi #digitalart #digitalartist",
+    "url": "https://www.youtube.com/watch?v=TfWJahmBexg",
+    "external_url": null,
+    "source": "youtube",
+    "source_name": "StressedOut",
+    "published": "2026-09-15T12:05:56Z",
+    "thumbnail": "https://i.ytimg.com/vi/TfWJahmBexg/hqdefault.jpg",
+    "raw_summary": "A monolith art that i made in blender in under 10 minutes. its pretty good........i think.....it is really. watch the longform video ...",
+    "meta": {},
+    "score": 2,
+    "tags": [
+      "Blender",
+      "speedart",
+      "concept"
+    ],
+    "summary_fr": "Speed modeling d'un monolithe Blender, format court sans profondeur pédagogique ou technique."
+  },
+  {
+    "id": "3f36f5462253",
+    "title": "Make Free Ai Voice For Your Tutorial After Effects Tutorial",
+    "url": "https://www.youtube.com/watch?v=IcBEfIT9sgI",
+    "external_url": null,
+    "source": "youtube",
+    "source_name": "I'm Flynn",
+    "published": "2026-09-15T12:00:12Z",
+    "thumbnail": "https://i.ytimg.com/vi/IcBEfIT9sgI/hqdefault.jpg",
+    "raw_summary": "Make Free Ai Voice For Your Tutorial After Effects Tutorial In this tutorial, I'll show you how to Using ElevenLabs & Minimax Audio.",
+    "meta": {},
+    "score": 2,
+    "tags": [
+      "After Effects",
+      "IA voix",
+      "workflow"
+    ],
+    "summary_fr": "Intégration voix IA avec ElevenLabs en After Effects, solution pratique mais tangentielle au motion design."
   },
   {
     "id": "f722aa3f9d01",
@@ -392,10 +1000,10 @@
     "meta": {},
     "score": 2,
     "tags": [
-      "équipement",
-      "capture 360"
+      "matériel",
+      "vidéo 360"
     ],
-    "summary_fr": "Caméra 360 DJI pour capture immersive, utile pour certains projets VFX mais pas directement motion design."
+    "summary_fr": "Revue matériel pour capture 360°, utile mais pas directement lié au motion design."
   },
   {
     "id": "7d174b29b2a1",
@@ -411,9 +1019,10 @@
     "score": 2,
     "tags": [
       "éclairage",
-      "production"
+      "production",
+      "hardware"
     ],
-    "summary_fr": "LED Fresnel Creamsource pour tournage. Pertinent pour prévisualisation d'éclairage en VFX, moins pour motion design pur."
+    "summary_fr": "Nouveau projecteur LED Fresnel : matériel de production pertinent pour tournages mais hors motion design studio."
   },
   {
     "id": "bb7e088c8846",
@@ -428,10 +1037,11 @@
     "meta": {},
     "score": 2,
     "tags": [
-      "connectivité",
+      "connectivity",
+      "hardware",
       "infrastructure"
     ],
-    "summary_fr": "Dock Thunderbolt 5 OWC pour professionnels vidéo. Infrastructure utile mais non spécifique au motion design."
+    "summary_fr": "Dock Thunderbolt 5 : connectivité utile pour professionnels mais secondaire pour motion designers."
   },
   {
     "id": "9ea039650aca",
@@ -447,9 +1057,10 @@
     "score": 2,
     "tags": [
       "éclairage",
-      "production"
+      "production",
+      "COB"
     ],
-    "summary_fr": "Éclairages COB compacts GVM pour tournage. Moins pertinent pour motion designer sauf en production mixte."
+    "summary_fr": "Projecteurs LED ultra-slim GVM : matériel de set pertinent pour production mais non-essentiel en motion design."
   },
   {
     "id": "7c2654346e97",
@@ -465,9 +1076,48 @@
     "score": 2,
     "tags": [
       "caméra",
-      "mise à jour"
+      "live production",
+      "SMPTE"
     ],
-    "summary_fr": "Mise à jour caméra Blackmagic avec support SMPTE-2110. Concerne surtout les workflows broadcast/live."
+    "summary_fr": "Update caméra Blackmagic : amélioration live production, moins pertinent pour motion designers studio."
+  },
+  {
+    "id": "aab6a3d7562f",
+    "title": "PVC at IBC 2026: AJA Launches FS8 Multi-Channel Processor with Integrated HDR Conversion and ST 2110 Support",
+    "url": "https://www.provideocoalition.com/pvc-at-ibc-2026-aja-launches-fs8-multi-channel-processor-with-integrated-hdr-conversion-and-st-2110-support/",
+    "external_url": null,
+    "source": "rss",
+    "source_name": "ProVideo Coalition",
+    "published": "2026-09-14T16:43:30+00:00",
+    "thumbnail": null,
+    "raw_summary": "AJA Video Systems has brought its FS8 hybrid SDI/IP media processor to IBC 2026, offering broadcasters and live-production teams a flexible way to bridge established SDI infrastructure with SMPTE ST 2110 workflows. AJA gave ProVideo Coalition the rundown of the FS8&#8217;s technical specs and features, demonstrating its capabilities as a broadcast workhorse, both in proficiency [...]<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://www.provideocoalition.com/pvc-at-ibc-2026-",
+    "meta": {},
+    "score": 2,
+    "tags": [
+      "broadcast",
+      "infrastructure",
+      "HDR"
+    ],
+    "summary_fr": "Processeur SDI/IP pour broadcasters : infrastructure broadcast, peu applicable en motion design."
+  },
+  {
+    "id": "b340673ee221",
+    "title": "PVC at IBC 2026: Strada 2.0 Brings Distributed Media and Connects AI Workflows Across the World",
+    "url": "https://www.provideocoalition.com/pvc-at-ibc-2026-strada-2-0-brings-distributed-media-and-connects-ai-workflows-across-the-world/",
+    "external_url": null,
+    "source": "rss",
+    "source_name": "ProVideo Coalition",
+    "published": "2026-09-14T16:36:41+00:00",
+    "thumbnail": null,
+    "raw_summary": "Strada Connect is an impressive feat of peer-to-peer networking that has crossed ProVideo Coalition&#8217;s radar many times in the past, with the platform making its debut at NAB 2026 and soon upping the ante at the following Cine Gear show with Strada 2.0. Now, Strada has come  to Europe to further show off 2.0&#8217;s capabilities [...]<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://www.provideocoalition.com/pvc-at-ibc-2026-strada-2-0-brings-distributed-media-and-conne",
+    "meta": {},
+    "score": 2,
+    "tags": [
+      "workflow",
+      "collaboration",
+      "cloud"
+    ],
+    "summary_fr": "Plateforme collaboration cloud Strada 2.0 : outils de workflow collectif, valeur limitée pour motion design."
   },
   {
     "id": "521e177fceb8",
@@ -483,9 +1133,10 @@
     "score": 2,
     "tags": [
       "monitoring",
-      "production"
+      "production",
+      "hardware"
     ],
-    "summary_fr": "Moniteurs caméra Atomos améliorés. Utile en production mais non essentiel pour motion designer."
+    "summary_fr": "Moniteurs Atomos IBC 2026 : outils production utiles mais secondaires pour motion designers."
   },
   {
     "id": "9be4fd0219df",
@@ -500,10 +1151,47 @@
     "meta": {},
     "score": 2,
     "tags": [
-      "portfolio",
-      "réseau professionnel"
+      "industrie",
+      "portfolio VFX"
     ],
-    "summary_fr": "Fermeture plateforme Zerply VFX. Information administrative utile pour archivage de portfolios."
+    "summary_fr": "Fermeture de Zerply : info pratique mais peu pertinent pour la pratique quotidienne du motion design."
+  },
+  {
+    "id": "4319b4c51c94",
+    "title": "How to Make a Low Poly Stylized Hand Painted Shield",
+    "url": "https://www.blendernation.com/2026/09/13/how-to-make-a-low-poly-stylized-hand-painted-shield/",
+    "external_url": null,
+    "source": "rss",
+    "source_name": "Blender Nation",
+    "published": "2026-09-13T07:00:09+00:00",
+    "thumbnail": null,
+    "raw_summary": "In this Blender tutorial Ryan King creates a game ready low poly stylized hand painted shield 3d model.\n<p><a href=\"https://www.blendernation.com/2026/09/13/how-to-make-a-low-poly-stylized-hand-painted-shield/\" rel=\"nofollow\">Source</a></p>",
+    "meta": {},
+    "score": 2,
+    "tags": [
+      "Blender",
+      "tutoriel",
+      "stylisé"
+    ],
+    "summary_fr": "Tuto low poly shield : pratique utile mais spécialisée game asset, moins pertinent pour motion design."
+  },
+  {
+    "id": "b8cfbd85a2bb",
+    "title": "Best of Blender Artists: 2026-37",
+    "url": "https://www.blendernation.com/2026/09/12/best-of-blender-artists-2026-37/",
+    "external_url": null,
+    "source": "rss",
+    "source_name": "Blender Nation",
+    "published": "2026-09-12T08:18:53+00:00",
+    "thumbnail": null,
+    "raw_summary": "Every week, hundreds of artists share their work on the Blender Artists forum. I&#8217;m putting some of the best work in the spotlight in a weekly post here on BlenderNation.\n<p><a href=\"https://www.blendernation.com/2026/09/12/best-of-blender-artists-2026-37/\" rel=\"nofollow\">Source</a></p>",
+    "meta": {},
+    "score": 2,
+    "tags": [
+      "showcase",
+      "communauté Blender"
+    ],
+    "summary_fr": "Galerie hebdomadaire d'artistes Blender : curation intéressante mais inégale en pertinence."
   },
   {
     "id": "b272b9d8b068",
@@ -520,9 +1208,9 @@
     "tags": [
       "Blender",
       "tutoriel",
-      "modeling"
+      "modélisation"
     ],
-    "summary_fr": "Tutoriel lanterne vintage via curve profiles. Technique de modeling standard, peu innovant."
+    "summary_fr": "Tuto lanterne vintage avec curve profiles : technique utile mais projet décoratif peu pertinent."
   },
   {
     "id": "1049718097a1",
@@ -537,28 +1225,204 @@
     "meta": {},
     "score": 2,
     "tags": [
-      "emploi",
-      "annonces"
+      "opportunités",
+      "emploi"
     ],
-    "summary_fr": "Motionographer Jobs gratuit 20 jours. Peu pertinent pour veille créative et technique."
+    "summary_fr": "Annonces d'emploi gratuites et révisées sur Motionographer pour les 20 ans de la plateforme."
   },
   {
-    "id": "aab6a3d7562f",
-    "title": "PVC at IBC 2026: AJA Launches FS8 Multi-Channel Processor with Integrated HDR Conversion and ST 2110 Support",
-    "url": "https://www.provideocoalition.com/pvc-at-ibc-2026-aja-launches-fs8-multi-channel-processor-with-integrated-hdr-conversion-and-st-2110-support/",
+    "id": "5b951052913e",
+    "title": "Combien je gagne vraiment en Freelance ?",
+    "url": "https://www.youtube.com/watch?v=eoVvWVUTa80",
+    "external_url": null,
+    "source": "youtube",
+    "source_name": "JUSTIN BUISSON",
+    "published": "2026-09-10T16:06:16Z",
+    "thumbnail": "https://i.ytimg.com/vi/eoVvWVUTa80/hqdefault.jpg",
+    "raw_summary": "",
+    "meta": {},
+    "score": 2,
+    "tags": [
+      "freelance",
+      "business"
+    ],
+    "summary_fr": "Témoignage sur les revenus réels en freelance pour motion designers."
+  },
+  {
+    "id": "dd06d9c2a9f0",
+    "title": "Mon plan d&#39;animation préférée du documentaire",
+    "url": "https://www.youtube.com/watch?v=W6_jDxLBOAE",
+    "external_url": null,
+    "source": "youtube",
+    "source_name": "Benjamin Cerbai",
+    "published": "2026-09-10T15:04:22Z",
+    "thumbnail": "https://i.ytimg.com/vi/W6_jDxLBOAE/hqdefault.jpg",
+    "raw_summary": "J'ai adoré faire cette animation avec un personnage qui rentre dans sa voiture et démarre. Si vous voulez voir en détail comment ...",
+    "meta": {},
+    "score": 2,
+    "tags": [
+      "breakdown",
+      "animation personnage"
+    ],
+    "summary_fr": "Breakdown d'animation de personnage dans véhicule du documentariste Benjamin Cerbai."
+  },
+  {
+    "id": "fbfef8a61dfd",
+    "title": "BRAINROT | Lazy Square",
+    "url": "https://motionographer.com/quickie/brainrot-lazy-square/",
     "external_url": null,
     "source": "rss",
-    "source_name": "ProVideo Coalition",
-    "published": "2026-09-14T16:43:30+00:00",
-    "thumbnail": null,
-    "raw_summary": "AJA Video Systems has brought its FS8 hybrid SDI/IP media processor to IBC 2026, offering broadcasters and live-production teams a flexible way to bridge established SDI infrastructure with SMPTE ST 2110 workflows. AJA gave ProVideo Coalition the rundown of the FS8&#8217;s technical specs and features, demonstrating its capabilities as a broadcast workhorse, both in proficiency [...]<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://www.provideocoalition.com/pvc-at-ibc-2026-",
+    "source_name": "Motionographer",
+    "published": "2026-09-10T13:27:29+00:00",
+    "thumbnail": "https://s35726.pcdn.co/wp-content/uploads/2026/09/Brainrot_DaVinchi-700x394.jpg",
+    "raw_summary": "",
+    "meta": {},
+    "score": 2,
+    "tags": [
+      "inspiration",
+      "portfolio"
+    ],
+    "summary_fr": "Projet motion design BRAINROT de Lazy Square à étudier pour tendances actuelles."
+  },
+  {
+    "id": "5a3847b3e9ac",
+    "title": "MAKE’s 2026 Animation Thesis Grant Now Open to Support the Next Generation of Animators",
+    "url": "https://motionographer.com/news/makes-2026-animation-thesis-grant-now-open-to-support-the-next-generation-of-animators/",
+    "external_url": null,
+    "source": "rss",
+    "source_name": "Motionographer",
+    "published": "2026-09-09T14:26:21+00:00",
+    "thumbnail": "https://s35726.pcdn.co/wp-content/uploads/2026/09/MakeThesisGrant_2025_Thumbnail_16x9_v001-700x394.jpg",
+    "raw_summary": "MAKE, the creative studio known for impactful animation and original storytelling, has officially opened applications for the 2026 MAKE Animation Thesis Grant. The annual program offers senior animation students funding, production resources, and promotional visibility to help bring their thesis films to life exactly as envisioned. Launched in 2024, the grant was created to champion...  <a class=\"excerpt-read-more\" href=\"https://motionographer.com/news/makes-2026-animation-thesis-grant-now-open-",
+    "meta": {},
+    "score": 2,
+    "tags": [
+      "opportunités",
+      "bourse"
+    ],
+    "summary_fr": "Bourse MAKE Animation Thesis 2026 pour jeunes animateurs avec production et visibilité."
+  },
+  {
+    "id": "878fb5259b31",
+    "title": "Birdie | Ribbit.",
+    "url": "https://motionographer.com/quickie/birdie-ribbit/",
+    "external_url": null,
+    "source": "rss",
+    "source_name": "Motionographer",
+    "published": "2026-09-09T13:36:20+00:00",
+    "thumbnail": "https://s35726.pcdn.co/wp-content/uploads/2026/09/Birdie_16x9_img02-700x394.png",
+    "raw_summary": "",
+    "meta": {},
+    "score": 2,
+    "tags": [
+      "inspiration",
+      "portfolio"
+    ],
+    "summary_fr": "Projet motion Birdie de Ribbit à découvrir pour études de tendances visuelles."
+  },
+  {
+    "id": "5b7a645f0950",
+    "title": "MiniMax H3 : Le rival GRATUIT de Seedance ? | MiniMax Design",
+    "url": "https://www.youtube.com/watch?v=1MKlszvk-YI",
+    "external_url": null,
+    "source": "youtube",
+    "source_name": "ATOM",
+    "published": "2026-09-08T15:14:32Z",
+    "thumbnail": "https://i.ytimg.com/vi/1MKlszvk-YI/hqdefault.jpg",
+    "raw_summary": "https://design.minimax.io/ Exclusivité MiniMax Design : 3 000 crédits offerts aux nouveaux utilisateurs Offre abonnement annuel ...",
+    "meta": {},
+    "score": 2,
+    "tags": [
+      "IA générative",
+      "alternative gratuite"
+    ],
+    "summary_fr": "MiniMax H3 offre une alternative gratuite pour génération d'images IA, utilité limitée pour motion design pur."
+  },
+  {
+    "id": "4130f0a8d689",
+    "title": "How To Download Adobe After Effects 2026 Safely | Full Guide #windows #tutorial #install",
+    "url": "https://www.youtube.com/watch?v=F1z3JrHHqp4",
+    "external_url": null,
+    "source": "youtube",
+    "source_name": "Roam with Ed",
+    "published": "2026-09-15T12:24:23Z",
+    "thumbnail": "https://i.ytimg.com/vi/F1z3JrHHqp4/hqdefault.jpg",
+    "raw_summary": "How To Download Adobe After Effects 2026 Safely | Full Guide 00:00 Where To Download Adobe After Effects in 2026 00:52 How ...",
     "meta": {},
     "score": 1,
     "tags": [
-      "infrastructure",
-      "broadcast"
+      "installation",
+      "hors-sujet"
     ],
-    "summary_fr": "Processeur multicanal AJA pour infrastructure broadcast. Sans intérêt direct pour motion designer."
+    "summary_fr": "Guide d'installation After Effects 2026, contenu administratif sans intérêt créatif ou technique."
+  },
+  {
+    "id": "e839f60e3b29",
+    "title": "What ACTUALLY Happens When You Pop Your Neck 🦴",
+    "url": "https://www.youtube.com/watch?v=Ky7IQB9jb4I",
+    "external_url": null,
+    "source": "youtube",
+    "source_name": "Fruity English Tales",
+    "published": "2026-09-15T11:00:33Z",
+    "thumbnail": "https://i.ytimg.com/vi/Ky7IQB9jb4I/hqdefault.jpg",
+    "raw_summary": "Ever wondered what that loud cracking sound is when you twist your neck? It isn't your bones grinding together—it's cavitation!",
+    "meta": {},
+    "score": 1,
+    "tags": [
+      "hors-sujet"
+    ],
+    "summary_fr": "Contenu éducatif sur l'anatomie humaine, sans rapport avec le motion design."
+  },
+  {
+    "id": "8f7981524a9d",
+    "title": "Reaction On Modi vs Putin Security Comparison 3D Animation | Pakistani Reaction 🇵🇰❤️🇮🇳",
+    "url": "https://www.youtube.com/watch?v=Oxs5BSBvwIU",
+    "external_url": null,
+    "source": "youtube",
+    "source_name": "Brology Reactions",
+    "published": "2026-09-15T09:00:04Z",
+    "thumbnail": "https://i.ytimg.com/vi/Oxs5BSBvwIU/hqdefault.jpg",
+    "raw_summary": "Pakistani Reaction On Modi vs Putin Security Setup ❤️     Hey Guys! Welcome back to Brology Reactions! Today we ...",
+    "meta": {},
+    "score": 1,
+    "tags": [
+      "hors-sujet"
+    ],
+    "summary_fr": "Contenu réactionnel sans intérêt pédagogique pour le motion designer."
+  },
+  {
+    "id": "288696737fd5",
+    "title": "What Happens When You Step On A Stingray? 🦂 #shorts #zackdfilm",
+    "url": "https://www.youtube.com/watch?v=OvtCfTnWXpY",
+    "external_url": null,
+    "source": "youtube",
+    "source_name": "Adonis 3D",
+    "published": "2026-09-15T08:44:46Z",
+    "thumbnail": "https://i.ytimg.com/vi/OvtCfTnWXpY/hqdefault.jpg",
+    "raw_summary": "When you step on a stingray, its tail whip delivers more than just a cut—it injects heat-sensitive protein venom deep into your ...",
+    "meta": {},
+    "score": 1,
+    "tags": [
+      "hors-sujet"
+    ],
+    "summary_fr": "Contenu éducatif sur les raies, sans rapport avec le motion design."
+  },
+  {
+    "id": "43f14b4adbb5",
+    "title": "What If You Only Eat Chocolate For 30 Days? 🍫 #Shorts #Viral #Trending",
+    "url": "https://www.youtube.com/watch?v=zZvvQMutsfw",
+    "external_url": null,
+    "source": "youtube",
+    "source_name": " skeleton chacha",
+    "published": "2026-09-15T07:06:31Z",
+    "thumbnail": "https://i.ytimg.com/vi/zZvvQMutsfw/hqdefault.jpg",
+    "raw_summary": "What actually happens to your liver, blood sugar, teeth, and brain if you eat ONLY chocolate for 30 days straight? Watch this ...",
+    "meta": {},
+    "score": 1,
+    "tags": [
+      "hors-sujet"
+    ],
+    "summary_fr": "Contenu viral sans rapport avec le motion design ou les techniques créatives."
   },
   {
     "id": "61d26af9c440",
@@ -574,9 +1438,10 @@
     "score": 1,
     "tags": [
       "audio",
-      "équipement"
+      "equipment",
+      "review"
     ],
-    "summary_fr": "Microphone sans fil DJI. Hors du périmètre motion design/VFX 3D."
+    "summary_fr": "Test microphone DJI : équipement audio, hors champ du motion design."
   },
   {
     "id": "7ebd349055fe",
@@ -591,44 +1456,25 @@
     "meta": {},
     "score": 1,
     "tags": [
-      "emploi",
-      "annonces"
+      "offres d'emploi"
     ],
-    "summary_fr": "Annonces d'emploi Blender. Peu pertinent pour la veille créative et technique."
+    "summary_fr": "Annonces d'emploi Blender : informationnel non pertinent pour veille technique ou tendances."
   },
   {
-    "id": "fbfef8a61dfd",
-    "title": "BRAINROT | Lazy Square",
-    "url": "https://motionographer.com/quickie/brainrot-lazy-square/",
+    "id": "c274d5173630",
+    "title": "Tout le monde se trompe sur le DLSS 5.0",
+    "url": "https://www.youtube.com/watch?v=GyxUAdEhWN0",
     "external_url": null,
-    "source": "rss",
-    "source_name": "Motionographer",
-    "published": "2026-09-10T13:27:29+00:00",
-    "thumbnail": "https://s35726.pcdn.co/wp-content/uploads/2026/09/Brainrot_DaVinchi-700x394.jpg",
-    "raw_summary": "",
+    "source": "youtube",
+    "source_name": "ATOM",
+    "published": "2026-09-10T15:31:00Z",
+    "thumbnail": "https://i.ytimg.com/vi/GyxUAdEhWN0/hqdefault.jpg",
+    "raw_summary": "Profitez de 12% de réduction sur le Plaud Note Pro jusqu'au 13 septembre: https://bit.ly/4ihZpbO ABONNE-TOI ! MES ...",
     "meta": {},
     "score": 1,
     "tags": [
-      "portfolio"
+      "technologie"
     ],
-    "summary_fr": "Portfolio Lazy Square sans détails fournis. Impossible à évaluer sans contexte."
-  },
-  {
-    "id": "878fb5259b31",
-    "title": "Birdie | Ribbit.",
-    "url": "https://motionographer.com/quickie/birdie-ribbit/",
-    "external_url": null,
-    "source": "rss",
-    "source_name": "Motionographer",
-    "published": "2026-09-09T13:36:20+00:00",
-    "thumbnail": "https://s35726.pcdn.co/wp-content/uploads/2026/09/Birdie_16x9_img02-700x394.png",
-    "raw_summary": "",
-    "meta": {},
-    "score": 1,
-    "tags": [
-      "projet",
-      "animation"
-    ],
-    "summary_fr": "Projet d'animation sans informations détaillées exploitables pour la veille professionnelle."
+    "summary_fr": "Article sur DLSS 5.0 avec promotion produit non-pertinente pour motion design."
   }
 ]
