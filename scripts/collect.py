@@ -23,8 +23,7 @@ ROOT = Path(__file__).resolve().parent.parent
 CONFIG_PATH = ROOT / "config" / "sources.json"
 RAW_DIR = ROOT / "data" / "raw"
 
-USER_AGENT = "veille-motion-design/1.0 (script de veille personnelle)"
-
+USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 
 def load_config():
     with open(CONFIG_PATH, "r", encoding="utf-8") as f:
