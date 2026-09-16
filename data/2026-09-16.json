@@ -1,21 +1,173 @@
 [
   {
-    "id": "56c230ee822c",
-    "title": "SESSIONS: Interior – Six Blender Interior Scenes, Two Hours Each",
-    "url": "https://www.blendernation.com/2026/09/15/sessions-interior-six-blender-interior-scenes-two-hours-each/",
+    "id": "71bea5666809",
+    "title": "Manifesto | SAGA",
+    "url": "https://motionographer.com/quickie/manifesto-saga/",
+    "external_url": null,
+    "source": "rss",
+    "source_name": "Motionographer",
+    "published": "2026-09-16T13:53:06+00:00",
+    "thumbnail": "https://s35726.pcdn.co/wp-content/uploads/2026/09/saga-700x392.png",
+    "raw_summary": "",
+    "meta": {},
+    "score": 5,
+    "tags": [
+      "Tendance",
+      "3D"
+    ],
+    "summary_fr": "Manifeste SAGA : référence artistique et directrice motion design contemporain.",
+    "analysis_fr": "- Source Motionographer = validation curatoriale haut de gamme\n- Manifesto indique contenu directif explorant philosophie/tendances du domaine\n- Valeur stratégique pour positionnement stylistique et inspiration conceptuelle\n- Probablement showcase de techniques cutting-edge avec intention artistique forte"
+  },
+  {
+    "id": "286ed5cb5130",
+    "title": "I Animated Wolverine in 5 Minutes (Blender Tutorial)",
+    "url": "https://www.youtube.com/watch?v=Nsqvtv_O0es",
+    "external_url": null,
+    "source": "youtube",
+    "source_name": "Cyphs",
+    "published": "2026-09-16T14:30:11Z",
+    "thumbnail": "https://i.ytimg.com/vi/Nsqvtv_O0es/hqdefault.jpg",
+    "raw_summary": "i Love the X-Man Twitter - https://x.com/cyphspsd ArtStation - https://artstation.com/cyphs Behance - https://behance.net/cyphs Buy ...",
+    "meta": {},
+    "score": 4,
+    "tags": [
+      "Blender",
+      "Animation"
+    ],
+    "summary_fr": "Animation Wolverine rapide en Blender démontrant workflow production efficace.",
+    "analysis_fr": "- Portefolio-driven content montrant itération rapide et décisions créatives\n- Intéressant pour comprendre optimisations timing et asset reuse\n- Manque détails techniques profonds : rigging setup, modifier stack, constraints utilisés\n- Valeur pédagogique sur la productivité mais pas sur les fondamentaux"
+  },
+  {
+    "id": "8977f77368bf",
+    "title": "Create a Cinematic 3D Parallax Scene in After Effects",
+    "url": "https://www.youtube.com/watch?v=BJ8ATPDtgBM",
+    "external_url": null,
+    "source": "youtube",
+    "source_name": "Astrella",
+    "published": "2026-09-16T14:00:29Z",
+    "thumbnail": "https://i.ytimg.com/vi/BJ8ATPDtgBM/hqdefault.jpg",
+    "raw_summary": "Learn how to create a cinematic 3D parallax scene in After Effects by transforming layered 2D artwork into an atmospheric ...",
+    "meta": {},
+    "score": 4,
+    "tags": [
+      "After Effects",
+      "3D"
+    ],
+    "summary_fr": "Scène 3D parallaxe cinématique from 2D artwork dans After Effects.",
+    "analysis_fr": "- Technique intermédiaire-avancée montrant intégration 2D/3D hybride en AE\n- Parallax mapping et depth layering essentiels pour motion design haut de gamme\n- Applicable directement à projets commerciaux (promos, intros)\n- Manque probablement guide complet : camera workflows, expression linking, performance optimization"
+  },
+  {
+    "id": "7866c9c8dc8a",
+    "title": "3D Motion Design Showreel 2026 | VVision",
+    "url": "https://www.youtube.com/watch?v=vUdaCGMKvl8",
+    "external_url": null,
+    "source": "youtube",
+    "source_name": "VVision",
+    "published": "2026-09-16T13:38:48Z",
+    "thumbnail": "https://i.ytimg.com/vi/vUdaCGMKvl8/hqdefault.jpg",
+    "raw_summary": "3D is more than just visuals — it's about bringing ideas to life.** A selection of my work in **3D animation, motion design and ...",
+    "meta": {},
+    "score": 4,
+    "tags": [
+      "3D",
+      "Animation"
+    ],
+    "summary_fr": "Showreel motion 3D 2026 présentant portfolio animation et design.",
+    "analysis_fr": "- Démo concréte de production 3D contemporaine, standards industriels actuels\n- Utile pour benchmarking qualité, trends visuelles et exécution pro\n- Inspiration pour color grading, rendering, asset complexity\n- Valeur surtout esthétique/inspirationnelle, pas pédagogique technique détaillée"
+  },
+  {
+    "id": "8c08b7a1f965",
+    "title": "3D Female Hand Anatomy: Peace Gesture Topology Breakdown",
+    "url": "https://www.youtube.com/watch?v=FXcmYFfaR5c",
+    "external_url": null,
+    "source": "youtube",
+    "source_name": "Anatomy 3D Models",
+    "published": "2026-09-16T14:36:55Z",
+    "thumbnail": "https://i.ytimg.com/vi/FXcmYFfaR5c/hqdefault.jpg",
+    "raw_summary": "In this video, you will see a detailed 3D model of female hands showcasing an open palm and the classic peace sign gesture from ...",
+    "meta": {},
+    "score": 3,
+    "tags": [
+      "3D",
+      "Rigging"
+    ],
+    "summary_fr": "Analyse topologique détaillée d'une main 3D féminine en geste paix.",
+    "analysis_fr": "- Ressource précieuse pour comprendre la géométrie complexe des mains, critique en rigging\n- Topologie breakdown utile pour character setup et deformation maps\n- Limité à l'anatomie statique, ne traite pas l'animation fonctionnelle\n- Manque d'explications sur les contraintes articulaires ou les weight painting"
+  },
+  {
+    "id": "6de0484ea61d",
+    "title": "【After Effects Tutorial】Power Shockwave Effects (No Plugin)",
+    "url": "https://www.youtube.com/watch?v=Jyhef3Nhrwc",
+    "external_url": null,
+    "source": "youtube",
+    "source_name": "Horizon-X",
+    "published": "2026-09-16T14:36:47Z",
+    "thumbnail": "https://i.ytimg.com/vi/Jyhef3Nhrwc/hqdefault.jpg",
+    "raw_summary": "【After Effects Tutorial】Power Shockwave Effects (No Plugin) Full : https://youtu.be/Jyhef3Nhrwc Short ...",
+    "meta": {},
+    "score": 3,
+    "tags": [
+      "After Effects",
+      "VFX"
+    ],
+    "summary_fr": "Tutoriel complet After Effects pour effets shockwave sans plugins.",
+    "analysis_fr": "- Version longue du contenu Shorts, meilleure pédagogie en durée complète\n- Approche sans dépendance plugin = transférable et stable\n- Couvre expressions, keyframes et manipulation de paramètres AE natives\n- Manque probablement de cas avancés (3D integration, particle systems)"
+  },
+  {
+    "id": "bce096071355",
+    "title": "How To Read A Design Brief: TrueRoll Golf Brand Identity Case Study",
+    "url": "https://dribbble.com/stories/2026/09/16/cl-deswave-boris-sage-brand-identity-trueroll-case-study",
+    "external_url": null,
+    "source": "rss",
+    "source_name": "Dribbble Stories",
+    "published": "2026-09-16T13:49:54+00:00",
+    "thumbnail": null,
+    "raw_summary": "",
+    "meta": {},
+    "score": 3,
+    "tags": [
+      "Tendance",
+      "Tutoriel"
+    ],
+    "summary_fr": "Étude de cas identité marque golf montrant analyse brief design.",
+    "analysis_fr": "- Approche stratégique valide pour comprendre briefing et contraintes clients\n- Pertinent pour motion designers travaillant en agences/studio\n- Format case study plus utile que tutoriel technique pur\n- Limites : ne couvre pas exécution visuelle finale ni iterations techniques"
+  },
+  {
+    "id": "a554df257c2a",
+    "title": "How an AK-47 Actually Works (Animated Breakdown)",
+    "url": "https://www.youtube.com/watch?v=ZswAk_q511Q",
+    "external_url": null,
+    "source": "youtube",
+    "source_name": "HOW?",
+    "published": "2026-09-16T10:00:19Z",
+    "thumbnail": "https://i.ytimg.com/vi/ZswAk_q511Q/hqdefault.jpg",
+    "raw_summary": "Ever wondered what's actually happening inside an AK-47 the moment you pull the trigger? This fully animated 3D breakdown ...",
+    "meta": {},
+    "score": 3,
+    "tags": [
+      "3D",
+      "VFX"
+    ],
+    "summary_fr": "Breakdown 3D animé fonctionnement AK-47 avec mécanique détaillée.",
+    "analysis_fr": "- Animation mécanique complexe, rigging de précision et study de physique\n- Cas d'usage industriel/éducatif montrant hard-surface modeling avancé\n- Applicable à weapon design, mechanical VFX, product visualization\n- Limites : sujet sensible potentiel, focus sur exactitude scientifique plutôt qu'esthétique motion"
+  },
+  {
+    "id": "01533aaa2fc4",
+    "title": "Beginner Modelling Blender Tutorial : Model An X-Wing",
+    "url": "https://www.blendernation.com/2026/09/16/beginner-modelling-blender-tutorial-model-an-x-wing/",
     "external_url": null,
     "source": "rss",
     "source_name": "Blender Nation",
-    "published": "2026-09-15T07:55:43+00:00",
+    "published": "2026-09-16T07:19:49+00:00",
     "thumbnail": null,
-    "raw_summary": "Interior is a project-based course about making beautiful interior renders in Blender, one focused scene at a time. Across six sessions, instructor Sascha Feider builds six complete vignettes from a default scene to a polished final image or animation: a sunlit staircase, a coffee corner, a flowing curtain, a marble colonnade, a cabin with a [&#8230;]\n<p><a href=\"https://www.blendernation.com/2026/09/15/sessions-interior-six-blender-interior-scenes-two-hours-each/\" rel=\"nofollow\">Source</a></p>",
+    "raw_summary": "Learn all you need to know to model an X-wing, starting from just the default cube. Chris Bailey covers everything from the ground up and he goes slow to keep things clear and help you follow along.\n<p><a href=\"https://www.blendernation.com/2026/09/16/beginner-modelling-blender-tutorial-model-an-x-wing/\" rel=\"nofollow\">Source</a></p>",
     "meta": {},
-    "score": 5,
+    "score": 3,
     "tags": [
       "Blender",
       "Tutoriel"
     ],
-    "summary_fr": "SESSIONS Interior : 6 scènes Blender complètes, 2h chacune, rendu architectural.",
-    "analysis_fr": "- Formation structurée et progressive couvrant workflow complet Blender (scène → rendu final)\n- 6 vignettes réelles (escalier, coin café, rideaux, colonnade, cabine) montrent application concrète\n- Expertise reconnue (Sascha Feider) avec focus sur optimisation visuelle et animation de rendu\n- Pertinent pour motion designer : lighting, composition 3D, post-production de qualité cinéma\n- Durée substantielle (2h par session) garantit profondeur technique et asset reusable"
+    "summary_fr": "Tutoriel modélisation X-Wing Blender partant du cube par défaut.",
+    "analysis_fr": "- Approche pédagogique solide, escalade progressive de complexité\n- Hard-surface modeling fondamental, sci-fi asset creation standard\n- Source Blender Nation = communauté validée\n- Manques : shading avancé, rigging si animation envisagée, optimisation exports"
   }
 ]
