@@ -1,0 +1,305 @@
+[
+  {
+    "id": "a2b8659f8aa9",
+    "title": "63 Web Effects You’ll See Everywhere in 2026",
+    "url": "https://www.youtube.com/watch?v=xPvZsPA7Yb8",
+    "external_url": null,
+    "source": "youtube",
+    "source_name": "Future Fragments",
+    "published": "2026-09-25T06:12:33Z",
+    "thumbnail": "https://i.ytimg.com/vi/xPvZsPA7Yb8/hqdefault.jpg",
+    "raw_summary": "What are the web effects you keep seeing in modern websites and apps — and what are they actually called? In this video, I break ...",
+    "meta": {},
+    "score": 4,
+    "tags": [
+      "Tendance",
+      "After Effects"
+    ],
+    "summary_fr": "Catalogue des 63 effets web modernes : noms, usages et implémentation en 2026.",
+    "analysis_fr": "- Ressource de veille très utile pour identifier les tendances visuelles actuelles en web design\n- Permet de nommer et catégoriser les effets vus partout (parallax, glassmorphism, micro-interactions)\n- Intérêt pédagogique : comprendre comment transposer ces tendances en After Effects ou Blender\n- Couvre l'intersection motion design / web design\n- Format long-form favorise une analyse approfondie plutôt que du putaclic"
+  },
+  {
+    "id": "c4745486a859",
+    "title": "5 FREE After Effects Plugins to Make Your VFX Look Expensive",
+    "url": "https://www.youtube.com/watch?v=5tGHD68DSpo",
+    "external_url": null,
+    "source": "youtube",
+    "source_name": "VFX Nirvana",
+    "published": "2026-09-25T06:00:11Z",
+    "thumbnail": "https://i.ytimg.com/vi/5tGHD68DSpo/hqdefault.jpg",
+    "raw_summary": "Looking for the best free After Effects plugins in 2026? In this video, I'm using 5 completely free After Effects plugins that make ...",
+    "meta": {},
+    "score": 4,
+    "tags": [
+      "After Effects",
+      "VFX"
+    ],
+    "summary_fr": "5 plugins After Effects gratuits pour VFX profesionnel : évaluation pragmatique.",
+    "analysis_fr": "- Très pertinent pour réduire les coûts sans sacrifier la qualité\n- Identification des plugins gratuits vraiment utilisables en prod (probablement Optical Flares, Particular alternatives, etc.)\n- Intérêt commercial réel : alternatives aux solutions coûteuses\n- Aide à constituer un kit d'outils lean mais efficace\n- Format éducatif orienté résultat pratique et immédiat"
+  },
+  {
+    "id": "53915372a228",
+    "title": "2 methods for cleaning up topology after applying a boolean #B3D #Blender #Blender3D",
+    "url": "https://www.youtube.com/watch?v=AOvDiT25NCU",
+    "external_url": null,
+    "source": "youtube",
+    "source_name": "Blender Secrets",
+    "published": "2026-09-25T05:21:16Z",
+    "thumbnail": "https://i.ytimg.com/vi/AOvDiT25NCU/hqdefault.jpg",
+    "raw_summary": "More Blender tips: https://www.3DSecrets.com.",
+    "meta": {},
+    "score": 4,
+    "tags": [
+      "Blender",
+      "Tutoriel"
+    ],
+    "summary_fr": "Nettoyage de topologie après booléen : tip ultra-technique et pratique.",
+    "analysis_fr": "- Problem-solving direct : les booléens laissent de la géométrie pourrie, c'est un vrai problème quotidien\n- Source (Blender Secrets) = haute crédibilité, réputée pour contenus techniques pointus\n- 2 méthodes offrent comparaison et choix contextuels\n- Très compact mais hyper pertinent pour pipeline 3D pro\n- Pas de bullshit, pure valeur ajoutée technique"
+  },
+  {
+    "id": "16521eae9b82",
+    "title": "Foundry releases Mari 8.0 in open beta",
+    "url": "https://www.cgchannel.com/2026/09/foundry-releases-mari-8-0-in-open-beta/",
+    "external_url": null,
+    "source": "rss",
+    "source_name": "CG Channel",
+    "published": "2026-09-24T16:00:49+00:00",
+    "thumbnail": null,
+    "raw_summary": "Updated for Beta 2: 3D texture painting software gets new Tri-Planar Tiled and Hex Tile nodes, plus support for A/B comparisons.",
+    "meta": {},
+    "score": 4,
+    "tags": [
+      "3D",
+      "Shader"
+    ],
+    "summary_fr": "Mari 8.0 bêta : nouvelles nodes tri-planaires, hex tiles et comparaison A/B.",
+    "analysis_fr": "- Information release officiel outil industrie professionnel (Foundry Mari)\n- Features techniques pertinentes : tri-planar tiling améliore workflow texture painting complexes\n- Support A/B comparison utile pour itération texture temps réel\n- Très pertinent pour VFX/3D spécialisés texture painting; légèrement en retrait du maximum car c'est annonce vs tutoriel actif"
+  },
+  {
+    "id": "ac288aa0b7d6",
+    "title": "How to Create Realistic Neon in Cinema 4D | Behind the Render Ep. 7",
+    "url": "https://www.youtube.com/watch?v=EPsK7fUvqZI",
+    "external_url": null,
+    "source": "youtube",
+    "source_name": "Greyscalegorilla",
+    "published": "2026-09-24T15:16:18Z",
+    "thumbnail": "https://i.ytimg.com/vi/EPsK7fUvqZI/hqdefault.jpg",
+    "raw_summary": "Join Nick and Chad as they discuss the importance of going to real life industry events and watch how Chad builds Neon ...",
+    "meta": {},
+    "score": 4,
+    "tags": [
+      "3D",
+      "Shader"
+    ],
+    "summary_fr": "Behind the Render: créer des néons réalistes en Cinema 4D avec case study.",
+    "analysis_fr": "- Format 'Behind the Render' établi = garant qualité technique avancée (Greyscalegorilla)\n- Néons : cas d'étude complexe touchant émissif, volumétrique, rendu\n- Bonus contextuel : discussion événements industrie et networking\n- Highly relevant pour motion designers 3D cherchant lighting et matériaux cinema 4D; process filmé vs théorique"
+  },
+  {
+    "id": "1e61fe3ccdbb",
+    "title": "Otoy releases OctaneRender 2027.1 in alpha",
+    "url": "https://www.cgchannel.com/2026/09/otoy-releases-octanerender-2027-1-in-alpha/",
+    "external_url": null,
+    "source": "rss",
+    "source_name": "CG Channel",
+    "published": "2026-09-24T14:00:43+00:00",
+    "thumbnail": null,
+    "raw_summary": "Updated for Alpha 3: next major version of the GPU renderer can now bake SDFs to  meshes, to use as proxy geometry in simulations.",
+    "meta": {},
+    "score": 4,
+    "tags": [
+      "3D",
+      "VFX"
+    ],
+    "summary_fr": "OctaneRender 2027.1 alpha : baking SDF en meshes pour proxy géométrie simulations.",
+    "analysis_fr": "- Feature technique avancée : SDF (Signed Distance Fields) baking = workflow VFX/simulations optimisé\n- Proxy geometry pour simulations = amélioration production pipeline lourd (fluides, particules)\n- Alpha = early access, intérêt élevé pour early adopters VFX\n- Directement applicable motion designers 3D cherchant rendering optimization et simulation"
+  },
+  {
+    "id": "c3a985f0dd4b",
+    "title": "Check out Vine FX’s VFX breakdown for Alice and Steve",
+    "url": "https://www.cgchannel.com/2026/09/check-out-vine-fxs-vfx-breakdown-for-alice-and-steve/",
+    "external_url": null,
+    "source": "rss",
+    "source_name": "CG Channel",
+    "published": "2026-09-24T13:00:50+00:00",
+    "thumbnail": null,
+    "raw_summary": "Watch the studio's breakdown of a blazing building, with simulated fire, smoke and particles, from the finale of the Disney+ 'wrong-com'.",
+    "meta": {},
+    "score": 4,
+    "tags": [
+      "VFX",
+      "3D"
+    ],
+    "summary_fr": "Vine FX breakdown VFX : feu/fumée/particules Disney+ 'Alice and Steve'.",
+    "analysis_fr": "- Breakdown studio professionnel (Vine FX) = expertise terrain avancée garantie\n- Cas d'étude complexe multi-élément : fire simulation + smoke + particle systems\n- Contenu Disney+ : production haut-tier validant qualité techniques partagées\n- Extrêmement pertinent motion designers VFX; manque détail spécifique logiciels (Houdini/Maya/etc) en excerpt"
+  },
+  {
+    "id": "8df8e220e202",
+    "title": "Blender Rigid Body Tutorial: Character Wall Break Animation 🏃‍♂️💥",
+    "url": "https://www.youtube.com/watch?v=eNABFWGvBII",
+    "external_url": null,
+    "source": "youtube",
+    "source_name": "Manish Animation Academy",
+    "published": "2026-09-25T05:51:18Z",
+    "thumbnail": "https://i.ytimg.com/vi/eNABFWGvBII/hqdefault.jpg",
+    "raw_summary": "Blender Rigid Body Tutorial: Character Wall Break Animation ‍♂️   Hey guys! Aaj ke is Blender tutorial mein hum seekhenge ...",
+    "meta": {},
+    "score": 3,
+    "tags": [
+      "Blender",
+      "Animation"
+    ],
+    "summary_fr": "Rigid Body pour animation de destruction : personnage traversant mur.",
+    "analysis_fr": "- Cas d'usage spécifique et exécutable : destruction de murs et physique du corps rigide\n- Rigid Body Dynamics est technique pertinente pour VFX et action shots\n- Audience: tutoriel en anglais-hindi mélangé, probablement pas de profondeur avancée\n- Démo pratique mais risque de rester sur les bases plutôt que des optimisations\n- Utile pour action VFX mais non-révolutionnaire"
+  },
+  {
+    "id": "2c38fb342c83",
+    "title": "How to Rig a 3D Character in Blender | Easy Blender Rigging Tutorial 🔥",
+    "url": "https://www.youtube.com/watch?v=rEONOfGJkds",
+    "external_url": null,
+    "source": "youtube",
+    "source_name": "3D With Umar",
+    "published": "2026-09-25T05:50:07Z",
+    "thumbnail": "https://i.ytimg.com/vi/rEONOfGJkds/hqdefault.jpg",
+    "raw_summary": "Is Blender tutorial mein main aapko step-by-step batata hoon ke 3D character ko Blender mein rig kaise karte hain. Armature add ...",
+    "meta": {},
+    "score": 3,
+    "tags": [
+      "Blender",
+      "Rigging"
+    ],
+    "summary_fr": "Rigging 3D character complet en Blender : setup armature step-by-step.",
+    "analysis_fr": "- Rigging est une compétence core pour animation 3D et VFX character\n- Step-by-step accessible suggère une structure pédagogique claire\n- Couvre les fondamentaux (Armature, constraints, weights) essentiels\n- Audience mix (hindi/anglais) indique contenu généraliste plutôt qu'avancé\n- Bon pour débutants, moins pour experts cherchant techniques cutting-edge"
+  },
+  {
+    "id": "e7134590e3bc",
+    "title": "How to Make a Smooth Shake Transition | After Effects Tutorial",
+    "url": "https://www.youtube.com/watch?v=eR9mqOLBl6c",
+    "external_url": null,
+    "source": "youtube",
+    "source_name": "Kali edits",
+    "published": "2026-09-25T05:08:17Z",
+    "thumbnail": "https://i.ytimg.com/vi/eR9mqOLBl6c/hqdefault.jpg",
+    "raw_summary": "How to Make a Smooth Shake Transition | After Effects Tutorial Learn how to create a SMOOTH SHAKE TRANSITION in After ...",
+    "meta": {},
+    "score": 3,
+    "tags": [
+      "After Effects",
+      "Animation"
+    ],
+    "summary_fr": "Shake transition fluide en After Effects : effet courant et exécutable.",
+    "analysis_fr": "- Transition = cas d'usage courant en motion design et vidéo\n- « Smooth » suggère sophistication par rapport aux shake bruts\n- Probablement utilise expressions ou keyframe technique\n- Utile pour portfolios et projets commerciaux\n- Pas révolutionnaire mais pratique et transferable immédiatement"
+  },
+  {
+    "id": "5359909d0236",
+    "title": "Flag Animation using cloth simulation! 🔥 #blendertutorials  #blendercommunity  #blendertips #b3d",
+    "url": "https://www.youtube.com/watch?v=SWi0dMyft4I",
+    "external_url": null,
+    "source": "youtube",
+    "source_name": "Malikose  Studio",
+    "published": "2026-09-25T05:00:31Z",
+    "thumbnail": "https://i.ytimg.com/vi/SWi0dMyft4I/hqdefault.jpg",
+    "raw_summary": "Flag Animation using cloth simulation! | Blender 3D . I hope you will enjoy it. your Malikose. #shorts #blender3d #b3d ...",
+    "meta": {},
+    "score": 3,
+    "tags": [
+      "Blender",
+      "Animation"
+    ],
+    "summary_fr": "Flag cloth simulation Blender : simulation physique dynamique et démonstration.",
+    "analysis_fr": "- Cloth simulation = technique avancée et visuellement spectaculaire\n- Cas d'usage réel : drapeaux, tissus, vêtements (très demandés en VFX/anim)\n- Format court (#shorts) limite la profondeur d'explication des paramètres\n- Risque d'être une démo sans détails sur collision, wind forces, cache\n- Intéressant visuellement mais peut manquer de substance tutorielle"
+  },
+  {
+    "id": "174a71400c86",
+    "title": "AI Motion Design Showreel 2026. VFX, 2D/3D Animation &amp; AI-Generated Video.",
+    "url": "https://www.youtube.com/watch?v=eKcxXst7HF8",
+    "external_url": null,
+    "source": "youtube",
+    "source_name": "Brand8",
+    "published": "2026-09-25T03:57:56Z",
+    "thumbnail": "https://i.ytimg.com/vi/eKcxXst7HF8/hqdefault.jpg",
+    "raw_summary": "A short showcase of AI-powered motion design and VFX work — from concept to final render. This reel combines 2D/3D ...",
+    "meta": {},
+    "score": 3,
+    "tags": [
+      "VFX",
+      "Tendance"
+    ],
+    "summary_fr": "Showreel AI motion design 2026 : tendance IA + VFX/3D/2D hybride.",
+    "analysis_fr": "- Pertinent pour veille tendance 2026 : IA en motion design explode\n- Showcase permet d'identifier patterns visuels (IA-generated video quirks, render styles)\n- Format court mais curated pour montrer le spectrum 2D/3D/AI\n- Intérêt : comprendre ce que clients attendent (AI-powered workflows)\n- Source (Brand8) = agence créative pro, crédible\n- Limité par nature de showreel (peu de détails techniques, focus résultat)"
+  },
+  {
+    "id": "01cb29a4bb2f",
+    "title": "Look At Me When You&#39;re Talking To Me! (+ Breakdown)",
+    "url": "https://www.youtube.com/watch?v=stGjtqX-hwY",
+    "external_url": null,
+    "source": "youtube",
+    "source_name": "KesAnim",
+    "published": "2026-09-24T22:49:05Z",
+    "thumbnail": "https://i.ytimg.com/vi/stGjtqX-hwY/hqdefault.jpg",
+    "raw_summary": "Here's my latest completed performance piece based on a clip from the show \"It's Always Sunny in Philadelphia\". Including a Step ...",
+    "meta": {},
+    "score": 3,
+    "tags": [
+      "Animation",
+      "Tutoriel"
+    ],
+    "summary_fr": "Pièce animation performance avec breakdown technique sur clip \"It's Always Sunny\".",
+    "analysis_fr": "- Breakdown inclus prometteur pour décomposition technique d'animation\n- Animation de performance/character généralement riche en principes d'timing et staging\n- Manque détails en excerpt sur spécificités techniques (logiciels, méthodes)\n- Potentiel modéré : contenu créatif mais sans garantie de profondeur technique avancée"
+  },
+  {
+    "id": "ca3abf7f54de",
+    "title": "Let’s breakdown this render from The Blush Scouts! #3d #3danimation",
+    "url": "https://www.youtube.com/watch?v=SEIPQYzq9Do",
+    "external_url": null,
+    "source": "youtube",
+    "source_name": "Diane Hoang",
+    "published": "2026-09-24T20:00:02Z",
+    "thumbnail": "https://i.ytimg.com/vi/SEIPQYzq9Do/hqdefault.jpg",
+    "raw_summary": "",
+    "meta": {},
+    "score": 3,
+    "tags": [
+      "3D",
+      "Tutoriel"
+    ],
+    "summary_fr": "Breakdown render 3D du studio The Blush Scouts avec analyse technique.",
+    "analysis_fr": "- Format breakdown = excellent pour détail procédé et bonnes pratiques\n- Absence de contenu en excerpt limite évaluation précise de la profondeur\n- The Blush Scouts : studio réputé pour qualité animation 3D, fiabilité présumée\n- Score modéré : contenu probablement solide mais manque visibilité détails techniques avant consultation"
+  },
+  {
+    "id": "839eb1bbebd4",
+    "title": "Create This Simple Realistic Landscape in Blender",
+    "url": "https://www.blendernation.com/2026/09/24/create-this-simple-realistic-landscape-in-blender/",
+    "external_url": null,
+    "source": "rss",
+    "source_name": "Blender Nation",
+    "published": "2026-09-24T07:00:49+00:00",
+    "thumbnail": null,
+    "raw_summary": "Yeho Studios shows how to set up landscapes in Blender. Have you ever found trouble creating nature art in Blender? Or are you struggling to create a realistic nature scene as a beginner? I understand you because I have been there before. In this tutorial, I will guide you step-by-step on how to create this [&#8230;]\n<p><a href=\"https://www.blendernation.com/2026/09/24/create-this-simple-realistic-landscape-in-blender/\" rel=\"nofollow\">Source</a></p>",
+    "meta": {},
+    "score": 3,
+    "tags": [
+      "Blender",
+      "Tutoriel"
+    ],
+    "summary_fr": "Tutoriel Blender : créer paysages réalistes, guide débutants/avancés nature.",
+    "analysis_fr": "- Tutoriel beginner-focused explicitement, pas profondeur expert recherchée\n- Landscape creation = skill core Blender mais execution basique présumée\n- Yeho Studios : canaux éducatifs fiables, bonnes pédagogies\n- Score modéré : contenu structuré mais public débutant limite innovation technique avancée"
+  },
+  {
+    "id": "d3d5b60326f0",
+    "title": "Adobe acquires Topaz Labs",
+    "url": "https://www.cgchannel.com/2026/09/adobe-to-acquire-topaz-labs/",
+    "external_url": null,
+    "source": "rss",
+    "source_name": "CG Channel",
+    "published": "2026-09-24T04:30:47+00:00",
+    "thumbnail": null,
+    "raw_summary": "Adobe buys pioneering developer of AI image enhancement and upscaling tools. Read our FAQs on what the deal means for CG artists.",
+    "meta": {},
+    "score": 3,
+    "tags": [
+      "Tendance"
+    ],
+    "summary_fr": "Adobe acquiert Topaz Labs : impact tools IA upscaling/enhancement pour CG artists.",
+    "analysis_fr": "- News industry stratégique majeure : implications pipeline CG long-terme\n- Topaz Labs = spécialiste IA image enhancement, acquisition suggère intégration Adobe\n- Pertinence modérée : business news vs contenu technique immédiat\n- Important pour veille tendances/outils mais pas breakdown ou tutoriel opérationnel"
+  }
+]
