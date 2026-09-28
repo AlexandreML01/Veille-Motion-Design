@@ -1,0 +1,135 @@
+[
+  {
+    "id": "81e6ddaa0d50",
+    "title": "First Look: Shape Keys in Blender Grease Pencil & 2D Rigging Test",
+    "url": "https://www.blendernation.com/2026/09/27/first-look-shape-keys-in-blender-grease-pencil-2d-rigging-test/",
+    "external_url": null,
+    "source": "rss",
+    "source_name": "Blender Nation",
+    "published": "2026-09-27T07:00:37+00:00",
+    "thumbnail": null,
+    "raw_summary": "In this video, Mumu Mundo explores the highly anticipated new feature in development for Blender Grease Pencil: Shape Keys. Testing an experimental build with a 2D Peppa Pig character rig, this walkthrough demonstrates how Grease Pencil strokes and Bézier curves interact with shape keys to create flexible 2D facial expressions (smiles, frowns, mouth phonemes) and [&#8230;]\n<p><a href=\"https://www.blendernation.com/2026/09/27/first-look-shape-keys-in-blender-grease-pencil-2d-rigging-test/\" rel=\"n",
+    "meta": {},
+    "score": 5,
+    "tags": [
+      "Blender",
+      "Rigging"
+    ],
+    "summary_fr": "Shape Keys révolutionnaire pour Grease Pencil : rigging 2D avec expressions faciales phonémiques.",
+    "analysis_fr": "- Feature critique en développement : Shape Keys appliqués à Grease Pencil = bond majeur pour l'animation 2D procédurale\n- Démonstration pratique sur rig facial complet (expressions, phonèmes) = cas d'usage production-ready\n- Intégration Bézier curves + Shape Keys ouvre workflows hybrides 2D/3D impossibles avant\n- Pépite technique : early access à une innovation Blender core impactant directement les pipelines d'animation 2D\n- Essential pour motion designers explorant Blender comme alternative aux suites traditionnelles"
+  },
+  {
+    "id": "afeb4654f543",
+    "title": "Blender夏日荷塘教程 04 场景的布光与搭建",
+    "url": "https://www.youtube.com/watch?v=jXaAKJ61wfM",
+    "external_url": null,
+    "source": "youtube",
+    "source_name": "KurTips",
+    "published": "2026-09-28T06:12:27Z",
+    "thumbnail": "https://i.ytimg.com/vi/jXaAKJ61wfM/hqdefault.jpg",
+    "raw_summary": "本节课是本套夏日荷塘场景的最后一节课，我们一起来搭建这两个荷塘的场景并进行打光，所有课程课件我都放到了网上，大家可以 ...",
+    "meta": {},
+    "score": 4,
+    "tags": [
+      "Blender",
+      "VFX"
+    ],
+    "summary_fr": "Tutoriel complet sur la scène de retenue d'eau : éclairage et composition finales.",
+    "analysis_fr": "- Approche structurée d'un projet complet (série 04/4) : lighting design et scene building en Blender\n- Travail sur l'éclairage réaliste pour un environnement naturel complexe (eau, reflets, ambiance)\n- Matériaux et rendu de scènes 3D complètes : pertinent pour motion design environnemental\n- Contenu de qualité académique, ressources fournies, progression pédagogique claire"
+  },
+  {
+    "id": "9419c0281bad",
+    "title": "Blender夏日荷塘教程 03 湖水材质的制作",
+    "url": "https://www.youtube.com/watch?v=oj3yKf0izuc",
+    "external_url": null,
+    "source": "youtube",
+    "source_name": "KurTips",
+    "published": "2026-09-28T06:10:29Z",
+    "thumbnail": "https://i.ytimg.com/vi/oj3yKf0izuc/hqdefault.jpg",
+    "raw_summary": "本节是blender夏日荷塘场景的第三节，这节课我们来学习如何制作这种波光粼粼的湖水材质。",
+    "meta": {},
+    "score": 4,
+    "tags": [
+      "Blender",
+      "Shader"
+    ],
+    "summary_fr": "Création de matériau eau réaliste avec effets de scintillement dans Blender.",
+    "analysis_fr": "- Shader procedural pour simulation de surface liquide animée : technique avancée en shading\n- Gestion des réflexions et réfractions pour eau photoréaliste avec dépliages lumineux\n- Compositing shader nodes et possibilités d'animation de matériaux\n- Applicable aux environnements 3D, VFX eau, et background réaliste pour motion design"
+  },
+  {
+    "id": "e12f5ceb3ca7",
+    "title": "Flatten Curved UVs in Seconds! 🔥 | Blender Follow Active Quads",
+    "url": "https://www.youtube.com/watch?v=fcPAWIwXNBU",
+    "external_url": null,
+    "source": "youtube",
+    "source_name": "Itz Bevel",
+    "published": "2026-09-28T06:00:13Z",
+    "thumbnail": "https://i.ytimg.com/vi/fcPAWIwXNBU/hqdefault.jpg",
+    "raw_summary": "Curved UVs looking messy? ‍   Use Follow Active Quads in Blender to quickly flatten and organize your UVs. A simple Blender ...",
+    "meta": {},
+    "score": 4,
+    "tags": [
+      "Blender",
+      "Tutoriel"
+    ],
+    "summary_fr": "Technique UV : Follow Active Quads pour aplatir rapidement UVs courbes et désordonnées.",
+    "analysis_fr": "- Astuce procédurale Blender pratique et immédiate : workflow UV optimisé pour assets 3D\n- Outil Follow Active Quads souvent méconnu : améliore drastiquement texture mapping efficiency\n- Applicable à tout projet 3D (game assets, VFX, rendering préparation)\n- Court et actionnable : solution réelle à problème technique courant en production 3D"
+  },
+  {
+    "id": "251a63f31aa4",
+    "title": "Create Abstract 3D Art in Blender with &#39;3Drawer&#39; Addon",
+    "url": "https://www.youtube.com/watch?v=pYfOW9IpkCk",
+    "external_url": null,
+    "source": "youtube",
+    "source_name": "Ascend Studio",
+    "published": "2026-09-28T05:49:16Z",
+    "thumbnail": "https://i.ytimg.com/vi/pYfOW9IpkCk/hqdefault.jpg",
+    "raw_summary": "Dive into the mesmerizing world of procedural 3D art created with the '3Drawer' Blender Addon! This video showcases a VFX ...",
+    "meta": {},
+    "score": 4,
+    "tags": [
+      "Blender",
+      "VFX"
+    ],
+    "summary_fr": "Art 3D procédural abstrait avec addon 3Drawer Blender : exploration créative VFX.",
+    "analysis_fr": "- Addon spécialisé : élargit palette créative Blender au-delà modeling standard\n- Generative art et procedural patterns : application VFX motion graphics abstraites\n- Showcase esthétique VFX contemporain : inspiration tendances design actuelles\n- Bridging entre code/nodes et création visuelle : pertinent pour motion designers innovants"
+  },
+  {
+    "id": "ccbc68e02b03",
+    "title": "How to Model a 3D Torch in Blender FAST | Game Asset Tutorial Step-by-Step",
+    "url": "https://www.youtube.com/watch?v=essvYMIZwT0",
+    "external_url": null,
+    "source": "youtube",
+    "source_name": "Adi Can Do Everything",
+    "published": "2026-09-28T05:57:12Z",
+    "thumbnail": "https://i.ytimg.com/vi/essvYMIZwT0/hqdefault.jpg",
+    "raw_summary": "Welcome to my very first video on Adi Can Do Everything (ACDE) In this tutorial, I'll show you how to model a simple 3D torch in ...",
+    "meta": {},
+    "score": 3,
+    "tags": [
+      "Blender",
+      "3D"
+    ],
+    "summary_fr": "Modélisation rapide d'une torche 3D pour game assets : tutoriel structuré production.",
+    "analysis_fr": "- Approche game asset : pertinence pour production pipeline motion design + 3D\n- Objectif FAST suggest optimisation modeling workflow : méthode efficace production\n- Combinaison geometry et texturation pour asset fonctionnel\n- Moins innovant que tutoriels avancés mais applicable et efficace pour assets réutilisables"
+  },
+  {
+    "id": "93319a4ab5cd",
+    "title": "PUBG Mobile 4.6 3D Asset Setup &amp; Animation Breakdown (Complete Guide)",
+    "url": "https://www.youtube.com/watch?v=GWJi8MpIMl8",
+    "external_url": null,
+    "source": "youtube",
+    "source_name": "NainxRana",
+    "published": "2026-09-27T20:02:24Z",
+    "thumbnail": "https://i.ytimg.com/vi/GWJi8MpIMl8/hqdefault.jpg",
+    "raw_summary": "In this tutorial, we take an educational look at game asset visualization and 3D modeling workflows using FModel for PUBG ...",
+    "meta": {},
+    "score": 3,
+    "tags": [
+      "3D",
+      "Animation"
+    ],
+    "summary_fr": "Game asset PUBG : workflow visualisation assets 3D, breakdown animation complet.",
+    "analysis_fr": "- FModel extraction + asset breakdown : processus production 3D/game réel documenté\n- Educational approche visualization et rigging game assets : technique studio applicable\n- Bridging reverse-engineering et animation : pertinent VFX/3D pipeline\n- Moins profond que tuto création native mais montre workflow production réaliste"
+  }
+]
